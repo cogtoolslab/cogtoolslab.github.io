@@ -20,19 +20,19 @@
 
 	<!-- Page Info -->
 	<link rel="shortcut icon" href="/images/favicon.png">
-	<title>Index – A minimal, fixed sidebar grid portfolio Jekyll theme.</title>
-	<meta name="description" content="A minimal, fixed sidebar grid portfolio Jekyll theme.">
+	<title>Contact – Index</title>
+	<meta name="description" content="Index is a minimal, fixed sidebar grid portfolio Jekyll theme.">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Index – A minimal, fixed sidebar grid portfolio Jekyll theme.">
-	<meta name="twitter:description" content="A minimal, fixed sidebar grid portfolio Jekyll theme.">
-	<meta name="twitter:image:src" content="http://localhost:4000/images/social.jpg">
+	<meta name="twitter:title" content="Contact – Index">
+	<meta name="twitter:description" content="Index is a minimal, fixed sidebar grid portfolio Jekyll theme.">
+	<meta name="twitter:image:src" content="http://localhost:4000/images/demo/demo-landscape.jpg">
 
 	<!-- Facebook OpenGraph -->
-	<meta property="og:title" content="Index – A minimal, fixed sidebar grid portfolio Jekyll theme." />
-	<meta property="og:description" content="A minimal, fixed sidebar grid portfolio Jekyll theme." />
-	<meta property="og:image" content="http://localhost:4000/images/social.jpg" />
+	<meta property="og:title" content="Contact – Index" />
+	<meta property="og:description" content="Index is a minimal, fixed sidebar grid portfolio Jekyll theme." />
+	<meta property="og:image" content="http://localhost:4000/images/demo/demo-landscape.jpg" />
 
 	
 	<!-- Font Embed Code -->
@@ -66,7 +66,7 @@
 </head>
 
 
-<body class="loading ajax-loading" data-site-url="http://localhost:4000" data-page-url="/">
+<body class="loading ajax-loading" data-site-url="http://localhost:4000" data-page-url="/contact">
 
 
 	<header class="header">
@@ -195,34 +195,56 @@
 	
 	<div class="page">
 
-		<div class="page__content" data-page-title="Index – A minimal, fixed sidebar grid portfolio Jekyll theme.">
+		<div class="page__content" data-page-title="Contact – Index">
 
-			<section class="portfolio">
+			<section class="intro">
 
-	<div class="content-wrap portfolio-wrap">
+	<div class="wrap">
 
-		
+		<h1>Contact</h1>
+		<p>Index comes with a built-in contact form, that's free and easy to set up.</p>
 
-		<div class="portfolio-item">
+	</div>
 
-			<a class="portfolio-item__link" href="/project/demo-project">
+</section>
 
-				<div class="portfolio-item__image">
-					<img src="/images/demo/demo-square.jpg" alt="Demo Project">
-				</div>
+<section class="single">
 
-				<div class="portfolio-item__content">
-					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">Demo Project</h2>
-						<p class="portfolio-item__subtitle">This is a demo</p>
-					</div>
-				</div>
+	<div class="wrap">
 
-			</a>
+		<div class="contact-form">
 
+	<form method="post" action="https://formspree.io/your@email.com" id="contact-form">
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Email Address *</label>
+			<input type="text" name="email" placeholder="Your email address..." class="contact-form__input" />
 		</div>
 
-		
+		<div class="contact-form__item">
+			<label class="contact-form__label">Name *</label>
+			<input type="text" name="name" placeholder="Your name..." class="contact-form__input" />
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Message *</label>
+			<textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
+		</div>
+
+		<input type="hidden" name="_next" value="/thanks" />
+		<input type="hidden" name="_subject" value="Contact form submission" />
+		<input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="" />
+
+		<div class="contact-form__item">
+			<input type="submit" value="Send Message" class="button button--large" />
+		</div>
+
+	</form>
+
+</div>
+
+<p>We’ve made a contact form that you can use with <a href="https://formspree.io/">Formspree</a> to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.</p>
+
 
 	</div>
 
