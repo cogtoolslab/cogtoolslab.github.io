@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  How does the human mind transform a cascade of mere information into meaningful knowledge? 
  Our lab studies the our capacity to amplify human cognition with tools of our own making, empowering
  us to learn, communicate, and create on a broad scale. 
-baseurl: "index.md" 
+baseurl: "" 
 url: "http://cogtoolslab.github.io/" 
 twitter_username: judyefan
 github_username:  cogtoolslab
