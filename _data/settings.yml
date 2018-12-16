@@ -1,6 +1,6 @@
 basic_settings:
   site_title: cogtoolslab
-  site_tagline: computational approaches to understanding the tools we use to learn, communicate, and create
+  site_tagline:  reverse engineering the human cognitive toolkit
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,12 +9,14 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
-      url: '/about'
+      url: '/'
+    - title: 'People'
+      url: '/people/'
+    - title: 'Research'
+      url: '/research'
+    - title: 'Resources'
+      url: '/resources'
     - title: 'Contact'
       url: '/contact'
 
@@ -23,9 +25,9 @@ grid_settings:
   grid_spacing: 20
 
 contact_settings:
-  form_action: 'https://formspree.io/your@email.com'
+  form_action: 'https://formspree.io/cogtoolslab@gmail.com'
   confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
+  email_subject: 'hello, cogtoolslab'
   send_button_text: 'Send Message'
 
 social_settings:
