@@ -5,7 +5,7 @@ description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<!-- ![](/images/demo/demo-landscape.jpg) -->
 
 ## Features
 
@@ -27,9 +27,3 @@ Index is packed with powerful features to showcase your work:
 * Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
 * Works with GitHub Pages
 * Updated and supported by the developers
-
-## Get Index
-
-Index is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $29.
-
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>

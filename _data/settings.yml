@@ -1,6 +1,6 @@
 basic_settings:
   site_title: cogtoolslab
-  site_tagline:  reverse engineering the human cognitive toolkit
+  site_tagline: reverse engineering the human cognitive toolkit
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -10,11 +10,13 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'About'
-      url: '/'
+      url: '/about'
     - title: 'People'
       url: '/people/'
     - title: 'Research'
       url: '/research'
+    - title: 'Publications'
+      url: '/publications'      
     - title: 'Resources'
       url: '/resources'
     - title: 'Contact'
