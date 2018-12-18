@@ -19,8 +19,6 @@ menu_settings:
       url: '/publications'      
     - title: 'Resources'
       url: '/resources'
-    - title: 'Contact'
-      url: '/contact'
 
 grid_settings:
   overlay_opacity: 0.8

@@ -48,6 +48,17 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll/scholar
+
+scholar:
+  style: apa
+  bibliography: bibliography.bib
+  source: ./_bibliography
+  use_raw_bibtex_entry: false
+  sort_by: year
+  order: descending
+  group_by: none
+
 
 paginate: 6
 paginate_path: "/blog/page:num/"

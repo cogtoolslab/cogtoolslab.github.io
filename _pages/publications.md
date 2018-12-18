@@ -1,8 +1,7 @@
 ---
-title: Publications
-subtitle: our papers
-description: our papers
-featured_image: /images/demo/demo-landscape.jpg
+title: our papers
+featured_image: /images/3dobjects/pigeon.jpg
 ---
 
+{% bibliography %}
 
