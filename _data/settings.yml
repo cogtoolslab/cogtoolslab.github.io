@@ -12,7 +12,7 @@ menu_settings:
     - title: 'About'
       url: '/about'
     - title: 'People'
-      url: '/people/'
+      url: '/people'
     - title: 'Research'
       url: '/research'
     - title: 'Publications'
