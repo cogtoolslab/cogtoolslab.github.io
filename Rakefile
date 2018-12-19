@@ -1,3 +1,21 @@
+require "rubygems"
+require "tmpdir"
+
+require "bundler/setup"
+require "jekyll"
+
+
+# Change your GitHub reponame
+GITHUB_REPONAME = "cogtoolslab/cogtoolslab.github.io"
+
+desc "Build lab website"
+task :build do
+  puts "\n## Build lab website (bundle exec jekyll build)"
+  status = system("bundle exec jekyll build")
+  puts status ? "Success" : "Failed"
+end
+
+
 desc "Commit _site/"
 task :commit do
   puts "\n## Staging modified files"
@@ -12,26 +30,25 @@ task :commit do
   puts status ? "Success" : "Failed"
 end
 
+desc "Generate and publish blog to gh-pages"
+task :publish => [:generate] do
+  Dir.mktmpdir do |tmp|
+    cp_r "_site/.", tmp
 
-desc "Deploy _site/ to master branch"
-task :deploy do
-  puts "\n## Deleting master branch"
-  status = system("git branch -D master")
-  puts status ? "Success" : "Failed"
-  puts "\n## Creating new master branch and switching to it"
-  status = system("git checkout -b master")
-  puts status ? "Success" : "Failed"
-  puts "\n## Forcing the _site subdirectory to be project root"
-  status = system("git filter-branch --subdirectory-filter _site/ -f")
-  puts status ? "Success" : "Failed"
-  puts "\n## Switching back to source branch"
-  status = system("git checkout source")
-  puts status ? "Success" : "Failed"
-  puts "\n## Pushing all branches to origin"
-  status = system("git push --all origin")
-  puts status ? "Success" : "Failed"
+    pwd = Dir.pwd
+    Dir.chdir tmp
+
+    system "git init"
+    system "git add ."
+    message = "Site updated at #{Time.now.utc}"
+    system "git commit -m #{message.inspect}"
+    system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
+    system "git push origin master --force"
+
+    Dir.chdir pwd
+  end
 end
 
-desc "Commit and deploy _site/"
-task :commit_deploy => [:commit, :deploy] do
+desc "Commit and publish _site/"
+task :commit_publish => [:commit, :publish] do
 end
