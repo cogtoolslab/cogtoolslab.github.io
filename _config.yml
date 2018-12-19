@@ -59,7 +59,7 @@ scholar:
   order: descending
   group_by: none
   bibliography_template: bibtemplate 
-  repository: /pdf
+  repository: pdf
 
 
 paginate: 6
