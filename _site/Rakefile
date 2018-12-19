@@ -31,7 +31,7 @@ task :commit do
 end
 
 desc "Generate and publish blog to gh-pages"
-task :publish => [:generate] do
+task :publish => [:build] do
   Dir.mktmpdir do |tmp|
     cp_r "_site/.", tmp
 
@@ -49,6 +49,6 @@ task :publish => [:generate] do
   end
 end
 
-desc "Commit and publish _site/"
-task :commit_publish => [:commit, :publish] do
+desc "Commit, build, and publish _site/"
+task :deploy => [:commit, :publish] do
 end
