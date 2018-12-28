@@ -60,7 +60,7 @@ scholar:
   order: descending
   group_by: none
   bibliography_template: bibliography 
-  # repository: pdf
+  repository: pdf
 
 target-blank:
   css_class: links  
