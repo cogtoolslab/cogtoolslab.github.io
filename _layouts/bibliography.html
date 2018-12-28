@@ -1,7 +1,5 @@
 ---
 ---
-<!-- {{reference}} -->
-
 
 {% if entry.abbr %}
   {% if site.data.venues[entry.abbr] %}
@@ -88,3 +86,11 @@
     [<a href="{{ entry.code }}" target="_blank">Code</a>]
   {% endif %}
   </span>
+
+  <!-- Hidden abstract block -->
+  {% if entry.abstract %}
+  <span class="abstract hidden">
+    <p>{{ entry.abstract }}</p>
+  </span>
+  {% endif %}
+</div>
