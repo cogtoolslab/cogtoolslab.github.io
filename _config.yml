@@ -51,7 +51,6 @@ plugins:
   - jekyll/scholar
   - jekyll-target-blank
 
-
 scholar:
   style: apa
   bibliography: bibliography.bib
@@ -65,6 +64,8 @@ scholar:
 
 target-blank:
   css_class: links  
+
+url: "https://cogtoolslab.github.io/"
 
 paginate: 6
 paginate_path: "/blog/page:num/"

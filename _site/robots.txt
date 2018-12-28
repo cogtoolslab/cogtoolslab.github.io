@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://cogtoolslab.github.io//sitemap.xml

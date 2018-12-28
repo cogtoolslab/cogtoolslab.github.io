@@ -72,7 +72,7 @@
     [<a href="{{ entry.html }}" target="_blank">HTML</a>]
   {% endif %}
   {% if entry.pdf %}
-    [<a href="{{ entry.pdf }}" target="_blank" rel="noopener noreferrer">pdf</a>]
+    [<a href="{{ entry.pdf | prepend: '/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" rel="noopener noreferrer">pdf</a>]
   {% endif %}
   {% if entry.supp %}
     [<a href="{{ entry.supp | prepend: '/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">supplemental</a>]
