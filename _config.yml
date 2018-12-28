@@ -63,6 +63,9 @@ scholar:
   bibliography_template: bibliography 
   repository: pdf
 
+target-blank:
+  css_class: links  
+
 paginate: 6
 paginate_path: "/blog/page:num/"
   
