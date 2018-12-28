@@ -9,6 +9,9 @@
 
 
 
+// - - - - - - - - - - Bibliography
+ol.bibliography { list-style-type: none; padding: 0px; margin: 0px; }
+
 // - - - - - - - - - - Variables
 
 
@@ -163,5 +166,4 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 @import "_includes/_portfolio";
 @import "_includes/_blog";
-
 
