@@ -7,10 +7,25 @@
 @import "_mixins";
 @import "_plugins";
 
-
-
 // - - - - - - - - - - Bibliography
-ol.bibliography { list-style-type: none; padding: 0px; margin: 0px; }
+
+
+ol.bibliography li {
+    list-style-type:none;
+
+}
+ol.bibliography li + li { /* 10px between each two adjacent li's */
+    margin-top: 10px;
+}
+ol.bibliography { counter-reset: item }
+ol.bibliography li:before { 
+    content: "[" counter(item) "] "; 
+    counter-increment: item; 
+    width:3em;
+    position:absolute;
+    text-indent:-2em;
+
+}
 
 // - - - - - - - - - - Variables
 
