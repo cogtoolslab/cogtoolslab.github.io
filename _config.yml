@@ -49,6 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/scholar
+  - jekyll-target-blank
+
 
 scholar:
   style: apa
@@ -60,7 +62,6 @@ scholar:
   group_by: none
   bibliography_template: bibliography 
   repository: pdf
-
 
 paginate: 6
 paginate_path: "/blog/page:num/"
