@@ -12,16 +12,20 @@
 
 ol.bibliography li {
     list-style-type:none;
+    font-weight: 500;
 
 }
 ol.bibliography li + li { /* 10px between each two adjacent li's */
     margin-top: 10px;
 }
 ol.bibliography { counter-reset: item }
+
 ol.bibliography li:before { 
     content: "[" counter(item) "] "; 
     counter-increment: item; 
     width:3em;
+    font-variant: small-caps;
+    font-size: 12px;
     position:absolute;
     text-indent:-2em;
 
