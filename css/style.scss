@@ -184,20 +184,4 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 @import "_includes/_portfolio";
 @import "_includes/_blog";
-
-// - - - - - - - - - - New people img
-
-.people-img {
-	/* make a square container */
-	width: 200px;
-	height: 200px;
-
-	/* fill the container, preserving aspect ratio, and cropping to fit */
-	background-size: cover;
-
-	/* center the image vertically and horizontally */
-	background-position: top center;
-
-	/* round the edges to a circle with border radius 1/2 container size */
-	border-radius: 50%;
-}
+@import "./custom";

@@ -9,7 +9,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 Judith Fan, PhD
 
-![image]({{ site.baseurl }}/images/people/FanJE_photo.jpg){: .people-img}
+![image]({{site.baseurl}}/images/people/FanJE_photo.jpg){: .people-img}
 
 ## Postdocs
 
