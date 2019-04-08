@@ -1,10 +1,26 @@
+/*
+For images of lab members
+*/
 
-// - - - - - - - - - - New people img
-
-.people-img {
+.lab-member-img-big {
 	/* make a square container */
-	width: 200px;
-	height: 200px;
+	width: 250px;
+	height: 250px;
+
+	/* fill the container, preserving aspect ratio, and cropping to fit */
+	background-size: cover;
+
+	/* center the image vertically and horizontally */
+	background-position: top center;
+
+	/* round the edges to a circle with border radius 1/2 container size */
+	border-radius: 50%;
+}
+
+.lab-member-img-little {
+	/* make a square container */
+	width: 150px;
+	height: 150px;
 
 	/* fill the container, preserving aspect ratio, and cropping to fit */
 	background-size: cover;

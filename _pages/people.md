@@ -7,9 +7,9 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ## Principal Investigator
 
-Judith Fan, PhD
+![image]({{site.baseurl}}/images/people/FanJE_photo.jpg){: .lab-member-img-big}
 
-![image]({{site.baseurl}}/images/people/FanJE_photo.jpg){: .people-img}
+Judith Fan, PhD
 
 ## Postdocs
 
