@@ -1,6 +1,6 @@
 ---
 title: Information for Prospective Students
-subtitle: interested in joining us?
+subtitle: 
 description: info for prospective students
 featured_image: /images/demo/demo-landscape.jpg
 ---
