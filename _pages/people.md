@@ -17,6 +17,8 @@ This could be you!
 
 ## Graduate Students
 
+![image]({{site.baseurl}}/images/people/HueyH_photo.jpg){: .lab-member-img-little}
+
 Holly Huey
 
 ## Research Staff
