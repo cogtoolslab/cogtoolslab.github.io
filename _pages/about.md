@@ -1,5 +1,5 @@
 ---
-title: about our lab
+title: about the lab
 subtitle: 
 description: 
 featured_image: /images/demo/demo-landscape.jpg
