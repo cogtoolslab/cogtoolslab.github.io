@@ -4,8 +4,8 @@ For images of lab members
 
 .lab-member-img-big {
 	/* make a square container */
-	width: 250px;
-	height: 250px;
+	width: 200px;
+	height: 200px;
 
 	/* fill the container, preserving aspect ratio, and cropping to fit */
 	background-size: cover;
