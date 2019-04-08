@@ -1,29 +1,18 @@
 ---
-title: About Index
-subtitle: Index is a minimal, fixed sidebar grid portfolio Jekyll theme. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
+title: about our lab
+subtitle: 
+description: 
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
 <!-- ![](/images/demo/demo-landscape.jpg) -->
 
-## Features
+We are located in the UC San Diego Department of Psychology. 
 
-Index is packed with powerful features to showcase your work:
+Our research addresses questions at the intersection of computational neuroscience, cognitive science, and AI. As a case study, our recent work seeks to understand human visual communication. This encompasses behaviors from informal sketching to formal scientific visualization, and its applications to education, user interface design, and assistive technologies.
 
-* Beautiful, minimal design
-* Fixed sidebar menu
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+Our empirical work has explored how informal sketching in particular can open a wide window into how perception, action planning, and social cognition functionally interact in the brain, leading to a more unified understanding of how multiple neural systems are coordinated during complex, natural behaviors.
+
+Our computational work focuses on building algorithms that perform realistically complex tasks, including visual communication, validated against detailed measurements of behavior and neural function.
+
+<!-- More broadly, we seek to: (1) accelerate of scientific progress by providing _in silico_ substrates for investigating how the brain is altered by development, learning, and disease; and (2) develop engineering applications, including more intuitive, interactive visualization tools for education and research, as well as assistive technologies for individuals with communication difficulties.  -->
