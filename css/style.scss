@@ -187,10 +187,7 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 // - - - - - - - - - - New people img
 
-#people-img {
-	/* This image is 687 wide by 1024 tall, similar to your aspect ratio */
-	background-image: url('http://i.stack.imgur.com/Dj7eP.jpg');
-
+.people-img {
 	/* make a square container */
 	width: 200px;
 	height: 200px;
