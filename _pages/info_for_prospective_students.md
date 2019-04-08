@@ -5,8 +5,6 @@ description: info for prospective students
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-## Interested in joining us? Read on!
-
 The Cognitive Tools Lab is always on the lookout for outstanding graduate (and advanced undergraduate) students. This document will give you a sense for what I am looking for in a student, and what the next steps to take are. Please read it in its entirety before contacting me to ask about doing research.
 
 ### Skills That I Look For
@@ -19,7 +17,13 @@ In addition to strong motivation and scientific curiosity, the research I do req
 
 It is important to emphasize that even if you don’t *currently* have the skills above, that doesn’t mean you can’t or shouldn’t work with me. If you are seriously interested in joining us, you are encouraged to invest time and energy acquiring some or more of these skills through coursework and/or independently, and then reach out to me to see if it is a good fit.
 
-## Current UCSD Students
+### Prospective UCSD Students
+
+If you are not currently a student at UCSD but are interested in joining the lab as a PhD student, please introduce yourself to Dr. Fan via email. 
+While she cannot guarantee a reply, she will do her best to respond and discuss with you whether the lab might be a good fit. 
+If following this discussion you continue to be interested in joining the lab, please submit an application to our [PhD program in Psychology](https://psychology.ucsd.edu/graduate-program/index.html).
+
+### Current UCSD Students
 
 I'm happy to work with current UCSD students who meet the above criteria. 
 I expect this to be mostly PhD and Masters students. 
@@ -36,4 +40,4 @@ If you think you might be a good fit after reading all of the above, send me an 
 
 Please contact me during the quarter before the one in which you want to do research — this gives us time to define a project for you in advance so you can hit the ground running.
 
-## Prospective UCSD Students
+

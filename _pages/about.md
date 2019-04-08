@@ -7,7 +7,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 <!-- ![](/images/demo/demo-landscape.jpg) -->
 
-We are located in the UC San Diego Department of Psychology. 
+The Cognitive Tools Lab is located in the UC San Diego Department of Psychology. 
 
 Our research addresses questions at the intersection of computational neuroscience, cognitive science, and AI. As a case study, our recent work seeks to understand human visual communication. This encompasses behaviors from informal sketching to formal scientific visualization, and its applications to education, user interface design, and assistive technologies.
 
