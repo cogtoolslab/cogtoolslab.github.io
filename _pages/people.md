@@ -17,7 +17,7 @@ This could be you!
 
 ## Graduate Students
 
-![image]({{site.baseurl}}/images/people/HueyH_photo.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/HueyH_photo.png){: .lab-member-img-little}
 
 Holly Huey
 
