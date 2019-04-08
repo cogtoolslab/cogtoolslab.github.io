@@ -20,6 +20,7 @@ In addition to strong motivation and scientific curiosity, the research I do req
 It is important to emphasize that even if you don’t *currently* have the skills above, that doesn’t mean you can’t or shouldn’t work with me. If you are seriously interested in joining us, you are encouraged to invest time and energy acquiring some or more of these skills through coursework and/or independently, and then reach out to me to see if it is a good fit.
 
 ## Current UCSD Students
+
 I'm happy to work with current UCSD students who meet the above criteria. 
 I expect this to be mostly PhD and Masters students. 
 Unusually well prepared undergraduate students are welcome, but they will be held to the same high standards.
