@@ -55,5 +55,10 @@ Fan, J., Hawkins, R., Wu, M., and Goodman, N. (submitted). [Pragmatic inference 
 Hawkins, R., Sano, M., Goodman, N., and Fan, J. (under review). [Graphical convention formation during visual communication.](https://cogtoolslab.github.io//pdf/hawkins_cogsci_2019.pdf))
 
 
+<!-- My empirical work explores how informal sketching in particular can open a wide window into how perception, action planning, and social cognition functionally interact in the brain, leading to a more unified understanding of how multiple neural systems are coordinated during complex, natural behaviors.
+
+My computational work focuses on building algorithms that perform realistically complex tasks, such as real-time visual communication — also validated against detailed measurements of behavior and neural function.
+
+In the long term, this approach aims to: (1) accelerate scientific progress by providing in silico substrates for investigating how large-scale brain systems are altered by development, learning, and disease; and (2) develop engineering applications, including more intuitive, interactive visualization tools for education and research, as well as assistive technologies for individuals with communication difficulties. -->
 
 
