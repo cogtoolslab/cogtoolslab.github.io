@@ -24,11 +24,11 @@ It is important to emphasize that even if you don’t *currently* have the skill
 
 ### Prospective PhD Students and Postdocs
 
-If you are not currently at UCSD but are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via email. 
+If you are not currently at UCSD but are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@ucsd.edu) . 
 While she cannot guarantee a reply, she will do her best to respond and discuss with you whether the lab might be a good fit. 
 
-If following this discussion you continue to be interested in joining the lab as a PhD student, please submit an application to our [PhD program in Psychology](https://psychology.ucsd.edu/graduate-program/index.html). 
-Likewise, if you are a prospective postdoc, we will discuss potential sources of funding and go from there. 
+If you are a prospective PhD student and following this discussion you continue to be interested in joining the lab, please submit an application to our [PhD program in Psychology](https://psychology.ucsd.edu/graduate-program/index.html). 
+Likewise, if you are a prospective postdoc and we agree that the lab would be a good fit, we will discuss potential sources of funding and go from there. 
 
 ### Current UCSD Students
 
@@ -38,7 +38,7 @@ Unusually well prepared undergraduate students are welcome, but they will be hel
 
 A good way for me to figure out whether you'd be a good fit is for you to take my graduate course. 
 This gives you a chance to see how I work with students, and it lets me see your working style. 
-If this isn’t feasible due to timing, please send me an email so we can arrange for an alternative way to evaluate fit.
+If this isn’t feasible due to timing, please send me an [email](mailto:jefan@ucsd.edu) so we can arrange for an alternative way to evaluate fit.
 
 Scientific research is unpredictable and can take up a lot of time. 
 If this will be your first quarter working on a project in my lab, you should expect to spend at minimum 15 hours a week working on our research projects --- so if you are swamped with other commitments, consider joining the lab another quarter.  
