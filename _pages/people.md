@@ -5,25 +5,49 @@ description: cogtoolslab members
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-## Principal Investigator
+### Principal Investigator
 
-<!-- ![image]({{site.baseurl}}/images/people/FanJE_photo.jpg){: .lab-member-img-big} -->
-![image]({{site.baseurl}}/images/people/FanJE_photo.jpg)
+![image]({{site.baseurl}}/images/people/FanJE_photo.jpg){: .lab-member-img-big}
 
-Judith Fan, PhD
+Judith Fan
+{: .lab-member-name-plate}
+_Assistant Professor of Psychology_
+{: .lab-member-name-plate}
 
-## Postdocs
+### Postdocs
 
 This could be you!
 
-## Graduate Students
+### Graduate Students
 
 ![image]({{site.baseurl}}/images/people/HueyH_photo.png){: .lab-member-img-little}
 
 Holly Huey
+{: .lab-member-name-plate}
 
-## Research Staff
+![image]({{site.baseurl}}/images/bulawsky/residue.jpg){: .lab-member-img-little}
+
+Haoliang Wang
+{: .lab-member-name-plate}
+
+### Research Staff
 
 This could be you!
 
-## Collaborators
+### Collaborators
+
+<!-- [Mike Frank](https://web.stanford.edu/~mcfrank/) -->
+
+Mike Frank \\
+Noah Goodman \\
+Robert Hawkins \\
+Ben Hutchinson \\
+Bria Long \\
+Ken Norman \\
+Jordan Suchow \\
+Jordan Taylor \\
+Nick Turk-Browne \\
+​Mike Wu \\
+Dan Yamins 
+
+

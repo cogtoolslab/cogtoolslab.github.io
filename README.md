@@ -1,7 +1,13 @@
-## To build site
+## To build and deploy site
 
-1. First commit everything except for new changes to _site.
-2. Then run:
-	`rake commit`
-	`rake publish`
+Run: `rake deploy`
+
+This command executes both `rake commit` and `rake publish`
+
+## To test out locally:
+
+1. Run: `bundle exec jekyll serve`
+2. Navigate to: `localhost:4000`
+
+	
 	

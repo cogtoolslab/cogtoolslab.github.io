@@ -4,8 +4,8 @@ For images of lab members
 
 .lab-member-img-big {
 	/* make a square container */
-	width: 200px;
-	height: 200px;
+	width: 250px;
+	height: 250px;
 
 	/* fill the container, preserving aspect ratio, and cropping to fit */
 	background-size: cover;
@@ -19,8 +19,8 @@ For images of lab members
 
 .lab-member-img-little {
 	/* make a square container */
-	width: 150px;
-	height: 150px;
+	width: 200px;
+	height: 200px;
 
 	/* fill the container, preserving aspect ratio, and cropping to fit */
 	background-size: cover;
@@ -31,3 +31,22 @@ For images of lab members
 	/* round the edges to a circle with border radius 1/2 container size */
 	border-radius: 50%;
 }
+
+/* 
+For centering text on people page
+*/
+.lab-member-name-plate {
+	font-weight: 400;
+	font-size: 125%; 
+	text-align: center;
+}
+
+
+/*
+For featured figures on research page
+*/
+.research-icons {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
