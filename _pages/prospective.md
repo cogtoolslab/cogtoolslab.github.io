@@ -1,24 +1,24 @@
 ---
-title: Information for Prospective Lab Members
+title: information for prospective lab members
 subtitle: 
 description: info for prospective students
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-The Cognitive Tools Lab is always on the lookout for outstanding postdocs and graduate students. This document will give you a sense for what I am looking for in a prospective lab member, and what the next steps to take are. Please read it in its entirety before contacting me to ask about doing research.
+The Cognitive Tools Lab is always on the lookout for outstanding postdocs and graduate students. This document will give you a sense for what we are looking for in a prospective lab member, and what the next steps to take are. Please read it in its entirety before contacting me to ask about doing research.
 
-### Skills That I Look For
+### Skills That We Look For
 
-In addition to strong motivation and scientific curiosity, the research I do requires a variety of both technical and non-technical skills, though the needs of each project vary. Prospective students and postdocs should have experience with several of the skills listed below, along with a positive attitude about and willingness to quickly/independently learn about others:
+In addition to strong motivation and scientific curiosity, the research we do requires a variety of both technical and non-technical skills, though the needs of each project vary. Prospective lab members should have experience with several of the skills listed below, along with a positive attitude about and willingness to quickly/independently learn about others:
 
-- ***Working with data and statistical reasoning***
-Generally speaking, this means writing code to “wrangle,” visualize, and analyze high-dimensional datasets from psychology and neuroscience experiments. In practice, you should be familiar with some combination of the major programming languages used for scientific computing: Python, R. Ideally, you will have exercised these skills in another research context, or have taken courses in statistics, data science, and/or machine learning. 
-- ***Web programming for developing behavioral experiments*** 
-One of our primary tools for investigating human cognition and behavior is to conduct large-scale behavioral experiments, usually online and sometimes in field settings. In practice, you should be familiar with using JavaScript, HTML, CSS to build interactive web application frontends, and also with various backend server-side environments, such as Node.js. 
-- ***Reproducible research workflows*** 
-Progress in science requires that we be able to reproduce our own and others’ research. In practice, you should be comfortable not only thoroughly documenting your own code, but adapting the code of others, writing READMEs when appropriate, and proactively anticipating how you will share your code and datasets so that other researchers can adapt and build on your work. 
-- ***Communication and organization*** 
-Researchers must communicate the results of their work. Strong writing and oral presentation skills are critical. I'm also looking for students who are well organized, thoughtful, and proactive about their own research and training. Especially in collaborative projects, it is important to communicate with me and other collaborators throughout the research process: reporting progress, asking for help, etc. We will generally use Slack and Github issues to discuss results and keep track of todo’s.
+- ***Working with data and statistical reasoning:*** 
+	Generally speaking, this means writing code to “wrangle,” visualize, and analyze high-dimensional datasets from psychology and neuroscience experiments. In practice, you should be familiar with some combination of the major programming languages used for scientific computing: Python, R. Ideally, you will have exercised these skills in another research context, or have taken courses in statistics, data science, and/or machine learning. 
+- ***Web programming for developing behavioral experiments:***
+	One of our primary tools for investigating human cognition and behavior is to conduct large-scale behavioral experiments, usually online and sometimes in field settings. In practice, you should be familiar with using JavaScript, HTML, CSS to build interactive web application frontends, and also with various backend server-side environments, such as Node.js. 
+- ***Reproducible research workflows:*** 
+	Progress in science requires that we be able to reproduce our own and others’ research. In practice, you should be comfortable not only thoroughly documenting your own code, but adapting the code of others, writing READMEs when appropriate, and proactively anticipating how you will share your code and datasets so that other researchers can adapt and build on your work. 
+- ***Communication and organization:*** 
+	Researchers must communicate the results of their work. Strong writing and oral presentation skills are critical. I'm also looking for students who are well organized, thoughtful, and proactive about their own research and training. Especially in collaborative projects, it is important to communicate with me and other collaborators throughout the research process: reporting progress, asking for help, etc. We will generally use Slack and Github issues to discuss results and keep track of todo’s.
 
 It is important to emphasize that even if you don’t *currently* have the skills above, that doesn’t mean you can’t or shouldn’t work with me. If you are seriously interested in joining us, you are encouraged to invest time and energy acquiring some or more of these skills (e.g., through course projects, other research experiences), and then reach out to me to see if it is a good fit.
 
