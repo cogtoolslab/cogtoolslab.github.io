@@ -72,9 +72,9 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,500,600" rel="stylesheet">'
-  title_font: '"Muli", sans-serif'
-  body_font: '"Muli", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Lato:300,500" rel="stylesheet">'
+  title_font: '"Lato", sans-serif'
+  body_font: '"Lato", sans-serif'
   regular_weight: 300
   bold_weight: 500
   site_title:
@@ -91,9 +91,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.5
   menu:
-    small_size: 30
-    medium_size: 15
-    large_size: 16
+    small_size: 24
+    medium_size: 26
+    large_size: 28
     weight: 500
     letter_spacing: 0
   grid_item_title:
@@ -153,7 +153,7 @@ font_settings:
   p:
     small_size: 16
     medium_size: 18
-    large_size: 24
+    large_size: 20
     weight: 300
     letter_spacing: 0
     line_height: 1.6
