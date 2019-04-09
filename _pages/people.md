@@ -1,6 +1,6 @@
 ---
-title: People
-subtitle: cogtoolslab members
+title: people
+subtitle: 
 description: cogtoolslab members
 featured_image: /images/demo/demo-landscape.jpg
 ---
