@@ -1,5 +1,5 @@
 ---
-title: people
+title: our people
 subtitle: 
 description: cogtoolslab members
 featured_image: /images/demo/demo-landscape.jpg

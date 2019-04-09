@@ -9,14 +9,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'About'
+    - title: 'about'
       url: '/about.html'
-    - title: 'People'
+    - title: 'people'
       url: '/people.html'
-    - title: 'Research'
+    - title: 'research'
       url: '/research.html'
-    - title: 'Publications'
-      url: '/publications.html'      
+    - title: 'publications'
+      url: '/publications.html'   
+    - title: 'prospective lab members'
+      url: '/prospective.html'   
 
 grid_settings:
   overlay_opacity: 0.8
@@ -70,7 +72,7 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,500" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,500,600" rel="stylesheet">'
   title_font: '"Muli", sans-serif'
   body_font: '"Muli", sans-serif'
   regular_weight: 300

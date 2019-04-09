@@ -1,5 +1,5 @@
 ---
-title: research 
+title: our research 
 subtitle: 
 description: overview of our research
 featured_image: /images/3dobjects/pigeon.jpg
@@ -41,7 +41,7 @@ Drawing is a versatile technique for visual communication, ranging from photorea
 
 On the one hand, recent work in computational vision has found that the identity of an object depicted in a drawing can be derived from its visual properties alone. On the other hand, classic work in aesthetics has emphasized the role of cultural and social context in determining how drawings denote objects. Towards reconciling these perspectives, we conducted two studies exploring the hypothesis that visual information and social context jointly determine the correspondence between a drawing and the object it depicts. Both studies used a graphical reference game paradigm where participants were paired in an online environment and communicated with their partner only via a drawing canvas. The sketcher's goal on each trial was to draw a particular object — the target — so that the viewer could select it from an array of distractors visible to both participants. 
 
-Our findings show that both visual information and social context are crucial for determining how drawings derive referential meaning during visual communication, and suggest that a critical factor affecting the balance between the two may be the type (Study 1) and amount (Study 2) of shared knowledge between communicators. More broadly, elucidating the cognitive mechanisms that underlie our ability to produce and interpret images across a wide range of visual abstraction may shed light on the nature of our ability to apprehend meaning from visual artifacts, and on the sources of cultural variation in pictorial style.
+Our findings show that both visual information and social context are crucial for determining how drawings derive referential meaning during visual communication, and suggest that a critical factor affecting the balance between the two may be the type and amount of shared knowledge between communicators. More broadly, elucidating the cognitive mechanisms that underlie our ability to produce and interpret images across a wide range of visual abstraction may shed light on the nature of our ability to apprehend meaning from visual artifacts, and on the sources of cultural variation in pictorial style.
 
 ![image]({{site.baseurl}}/images/research/repeated_reference.png){: .research-icons}
 
