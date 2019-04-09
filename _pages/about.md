@@ -5,7 +5,7 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-<!-- ![](/images/demo/demo-landscape.jpg) -->
+![](/images/geisel_library.jpg)
 
 The Cognitive Tools Lab is located in the UC San Diego Department of Psychology. 
 
