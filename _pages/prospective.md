@@ -20,7 +20,7 @@ Progress in science requires that we be able to reproduce our own and others’ 
 - ***Communication and organization*** 
 Researchers must communicate the results of their work. Strong writing and oral presentation skills are critical. I'm also looking for students who are well organized, thoughtful, and proactive about their own research and training. Especially in collaborative projects, it is important to communicate with me and other collaborators throughout the research process: reporting progress, asking for help, etc. We will generally use Slack and Github issues to discuss results and keep track of todo’s.
 
-It is important to emphasize that even if you don’t *currently* have the skills above, that doesn’t mean you can’t or shouldn’t work with me. If you are seriously interested in joining us, you are encouraged to invest time and energy acquiring some or more of these skills (e.g., through course projects), and then reach out to me to see if it is a good fit.
+It is important to emphasize that even if you don’t *currently* have the skills above, that doesn’t mean you can’t or shouldn’t work with me. If you are seriously interested in joining us, you are encouraged to invest time and energy acquiring some or more of these skills (e.g., through course projects, other research experiences), and then reach out to me to see if it is a good fit.
 
 ### Prospective PhD Students and Postdocs
 
@@ -53,4 +53,4 @@ Also tell me about the experience you have with the particular skills listed at 
 
 Please contact me during the quarter before the one in which you want to do research — this gives us time to develop a project for you in advance so you can hit the ground running.
 
-
+Special thanks to [Daniel Ritchie](https://dritchie.github.io/) at Brown University for an example of how to organize the information on this page, as well as permission to adapt it. 
