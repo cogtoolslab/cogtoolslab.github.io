@@ -7,7 +7,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 The Cognitive Tools Lab is always on the lookout for outstanding postdocs and graduate students. This document will give you a sense for what we are looking for in a prospective lab member, and what the next steps to take are. Please read it in its entirety before contacting me to ask about doing research.
 
-### Skills That We Look For
+### What We Are Looking For
 
 In addition to strong motivation and scientific curiosity, the research we do requires a variety of both technical and non-technical skills, though the needs of each project vary. Prospective lab members should have experience with several of the skills listed below, along with a positive attitude about and willingness to quickly/independently learn about others:
 

@@ -91,9 +91,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.5
   menu:
-    small_size: 24
-    medium_size: 26
-    large_size: 28
+    small_size: 18
+    medium_size: 20
+    large_size: 22
     weight: 500
     letter_spacing: 0
   grid_item_title:
