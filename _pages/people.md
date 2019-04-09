@@ -38,8 +38,10 @@ This could be you!
 
 <!-- [Mike Frank](https://web.stanford.edu/~mcfrank/) -->
 
+Monica Dinculescu \\
 Mike Frank \\
 Noah Goodman \\
+David Ha \\
 Robert Hawkins \\
 Ben Hutchinson \\
 Bria Long \\
@@ -47,6 +49,7 @@ Ken Norman \\
 Jordan Suchow \\
 Jordan Taylor \\
 Nick Turk-Browne \\
+Jeff Wammes \\
 ​Mike Wu \\
 Dan Yamins 
 
