@@ -62,6 +62,8 @@ scholar:
   bibliography_template: bibliography 
   repository: pdf
 
+google_analytics: UA—138052071-1
+
 target-blank:
   css_class: links  
 
