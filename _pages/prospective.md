@@ -5,7 +5,7 @@ description: info for prospective students
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-The Cognitive Tools Lab is always on the lookout for outstanding postdocs and graduate students. This document will give you a sense for what we are looking for in a prospective lab member, and what the next steps to take are. Please read it in its entirety before contacting me to ask about doing research.
+The Cognitive Tools Lab is always on the lookout for outstanding postdocs and graduate students. This document will give you a sense for what we are looking for in a prospective lab member, and what the next steps to take are. Please read it in its entirety before contacting Dr. Fan to ask about doing research.
 
 ### What We Are Looking For
 
