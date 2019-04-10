@@ -11,7 +11,7 @@ GITHUB_REPONAME = "cogtoolslab/cogtoolslab.github.io"
 desc "Build lab website"
 task :build do
   puts "\n## Build lab website (bundle exec jekyll build)"
-  status = system("bundle exec jekyll build")
+  status = system("JEKYLL_ENV=production bundle exec jekyll build")
   puts status ? "Success" : "Failed"
 end
 
