@@ -20,7 +20,7 @@ In addition to strong motivation and scientific curiosity, the research we do re
 - ***Communication and organization:*** 
 	Researchers must communicate the results of their work. Strong writing and oral presentation skills are critical. I'm also looking for students who are well organized, thoughtful, and proactive about their own research and training. Especially in collaborative projects, it is important to communicate with me and other collaborators throughout the research process: reporting progress, asking for help, etc. We will generally use Slack and Github issues to discuss results and keep track of todo’s.
 
-It is important to emphasize that even if you don’t *currently* have the skills above, that doesn’t mean you can’t or shouldn’t work with me. If you are seriously interested in joining us, you are encouraged to invest time and energy acquiring some or more of these skills (e.g., through course projects, other research experiences), and then reach out to me to see if it is a good fit.
+It is important to emphasize that even if you don’t *currently* have the skills above, that doesn’t mean you can’t or shouldn’t work in the lab. If you are seriously interested in joining us, you are encouraged to invest time and energy acquiring some or more of these skills (e.g., through course projects, other research experiences), and then reach out to Dr. Fan to see if it is a good fit.
 
 ### Prospective PhD Students and Postdocs
 
@@ -32,25 +32,25 @@ Likewise, if you are a prospective postdoc and we agree that the lab would be a 
 
 ### Current UCSD Students
 
-I'm also happy to work with current UCSD students who meet the above criteria. 
-I expect this to be mostly PhD and Masters students in Psychology, Cognitive Science, CSE, or Neurosciences. 
+Current UCSD students who meet the above criteria are also welcome to work on projects in the lab. 
+Generally, we expect this to be mostly PhD and Masters students in Psychology, Cognitive Science, CSE, or Neurosciences. 
 Unusually well prepared undergraduate students are welcome, but they will be held to the same high standards.
 
-A good way for me to figure out whether you'd be a good fit is for you to take my graduate course. 
-This gives you a chance to see how I work with students, and it lets me see your working style. 
-If this isn’t feasible due to timing, please send me an [email](mailto:jefan@ucsd.edu) so we can arrange for an alternative way to evaluate fit.
+A good way for Dr. Fan to figure out whether you'd be a good fit is for you to take her graduate course (_will be offered in Fall 2019_). 
+This gives you a chance to see how she works with students, and it lets her see your working style. 
+If this isn’t feasible due to timing, please send Dr. Fan an [email](mailto:jefan@ucsd.edu) so we can arrange for an alternative way to evaluate fit.
 
 Scientific research is unpredictable and can take up a lot of time. 
-If this will be your first quarter working on a project in my lab, you should expect to spend at minimum 15 hours a week working on our research projects --- so if you are swamped with other commitments, consider joining the lab another quarter.  
+If this will be your first quarter working on a project in the lab, you should expect to spend at minimum 15 hours a week working on our research projects --- so if you are swamped with other commitments, consider joining the lab another quarter.  
 
-If you think you might be a good fit after reading all of the above, send me an email with a current academic CV and with answers to the following questions:
+If you think you might be a good fit after reading all of the above, send Dr. Fan an email with a current academic CV and with answers to the following questions:
 - ***Why do you want to do research?***  
 Both in general, and in this specific field.
 - ***Why do you want to do research with me?***  
-There are many great faculty here at UCSD. Why do you want to work with me, specifically? It'd be a good idea to look through my recent publications.
+There are many great labs here at UCSD. Why do you want to work in our lab, specifically? It'd be a good idea to look through our recent publications.
 - ***What relevant skills do you have?***  
-Also tell me about the experience you have with the particular skills listed at the top of this page, and show me some specific evidence (e.g. links to Github repos for recent projects, papers or reports you've written).
+Also describe experience you have with the particular skills listed at the top of this page, and provide some specific evidence (e.g. links to Github repos for recent projects, papers or reports you've written).
 
-Please contact me during the quarter before the one in which you want to do research — this gives us time to develop a project for you in advance so you can hit the ground running.
+Please contact Dr. Fan during the quarter before the one in which you want to do research — this gives us time to develop a project for you in advance so you can hit the ground running.
 
 Special thanks to [Daniel Ritchie](https://dritchie.github.io/) at Brown University for an example of how to organize the information on this page, as well as permission to adapt it. 
