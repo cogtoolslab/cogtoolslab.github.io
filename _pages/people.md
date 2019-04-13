@@ -27,7 +27,7 @@ This could be you!
 Holly Huey
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/bulawsky/WangH_photo.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/WangH_photo.jpg){: .lab-member-img-little}
 
 Haoliang Wang
 {: .lab-member-name-plate}
