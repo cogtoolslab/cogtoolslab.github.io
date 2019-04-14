@@ -20,7 +20,9 @@ In addition to strong motivation and scientific curiosity, the research we do re
 - ***Communication and organization:*** 
 	Researchers must communicate the results of their work. Strong writing and oral presentation skills are critical. I'm also looking for students who are well organized, thoughtful, and proactive about their own research and training. Especially in collaborative projects, it is important to communicate with me and other collaborators throughout the research process: reporting progress, asking for help, etc. We will generally use Slack and Github issues to discuss results and keep track of todo’s.
 
-It is important to emphasize that even if you don’t *currently* have the skills above, that doesn’t mean you can’t or shouldn’t work in the lab. If you are seriously interested in joining us, you are encouraged to invest time and energy acquiring some or more of these skills (e.g., through course projects, other research experiences), and then reach out to Dr. Fan to see if it is a good fit.
+It is important to emphasize that even if you don’t *currently* have the skills above, that doesn’t mean you can’t or shouldn’t work in the lab. If you are seriously interested in joining us, you are encouraged to invest time and energy independently acquiring some or more of these skills (e.g., through course projects), which will enable you to get more out of your research experience. If you are interested in gaining these skills but are not sure how, you can reach out to Dr. Fan for advice and pointers to resources. 
+
+Beyond these practical skills, our lab is committed to equality, diversity, and inclusion in achieving and sustaining excellence in our scientific research. We aim to provide an intellectual environment that is at once welcoming, nurturing and challenging, and that respects the full spectrum of human diversity in race, ethnicity, gender identity, age, socioeconomic status, national origin, sexual orientation, disability, and religion. Above all, we are looking for lab members who share our commitment to actively creating and maintaining a safe environment founded on mutual respect and support.
 
 ### Prospective PhD Students and Postdocs
 
@@ -32,7 +34,7 @@ Likewise, if you are a prospective postdoc and we agree that the lab would be a 
 
 ### Current UCSD Students
 
-Current UCSD students who meet the above criteria are also welcome to work on projects in the lab. 
+Current UCSD students are also welcome to work on projects in the lab. 
 Generally, we expect this to be mostly PhD and Masters students in Psychology, Cognitive Science, CSE, or Neurosciences. 
 Unusually well prepared undergraduate students are welcome, but they will be held to the same high standards.
 
@@ -53,4 +55,4 @@ Also describe experience you have with the particular skills listed at the top o
 
 Please contact Dr. Fan during the quarter before the one in which you want to do research — this gives us time to develop a project for you in advance so you can hit the ground running.
 
-Special thanks to [Daniel Ritchie](https://dritchie.github.io/) at Brown University for an example of how to organize the information on this page, as well as permission to adapt it. 
+Special thanks to [Daniel Ritchie](https://dritchie.github.io/) at Brown University and [Fernanda Ferreira](https://ferreiralab.faculty.ucdavis.edu/) at UC Davis for examples of how to organize the information on this page.
