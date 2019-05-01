@@ -47,6 +47,7 @@ This could be you!
 [Robert Hawkins](https://rxdhawkins.com/), _Stanford_ \\
 [Ben Hutchinson](https://hulacon.uoregon.edu/), _U. Oregon_ \\
 [Bria Long](https://www.brialong.com/), _Stanford_ \\
+[Kushin Mukherjee](https://kushinm.github.io/), _UW Madison_ \\
 [Ken Norman](https://compmem.princeton.edu/), _Princeton_ \\
 [Jordan Suchow](https://suchow.io/), _Stevens Institute of Technology_ \\
 [Jordan Taylor](http://ipalab.princeton.edu/), _Princeton_ \\
