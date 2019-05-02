@@ -33,7 +33,7 @@ concepts, they suggest novel approaches for evaluating and refining conceptual k
 they highlight the potential of deep networks for understanding human learning.
 
 
-Fan, J., Yamins, D., and Turk-Browne, N. (2018). [Common object representations for visual production and recognition.](https://cogtoolslab.github.io//pdf/fan_cs_2018.pdf) _Cognitive Science._ 
+Fan, J., Yamins, D., and Turk-Browne, N. (2018). [Common object representations for visual production and recognition.](https://cogtoolslab.github.io/pdf/fan_cs_2018.pdf) _Cognitive Science._ 
 
 
 ### Visual content and social context jointly determine pictorial meaning
@@ -50,9 +50,9 @@ Our findings show that both visual information and social context are crucial fo
 
 ![image]({{site.baseurl}}/images/research/repeated_reference.png){: .research-icons}
 
-Fan, J., Hawkins, R., Wu, M., and Goodman, N. (submitted). [Pragmatic inference and visual abstraction enable contextual flexibility in visual communication.](https://cogtoolslab.github.io//pdf/fan_context_ms.pdf)) 
+Fan, J., Hawkins, R., Wu, M., and Goodman, N. (submitted). [Pragmatic inference and visual abstraction enable contextual flexibility in visual communication.](https://cogtoolslab.github.io/pdf/fan_context_ms.pdf)) 
 
-Hawkins, R., Sano, M., Goodman, N., and Fan, J. (under review). [Graphical convention formation during visual communication.](https://cogtoolslab.github.io//pdf/hawkins_cogsci_2019.pdf))
+Hawkins, R., Sano, M., Goodman, N., and Fan, J. (under review). [Graphical convention formation during visual communication.](https://cogtoolslab.github.io/pdf/hawkins_cogsci_2019.pdf))
 
 
 <!-- My empirical work explores how informal sketching in particular can open a wide window into how perception, action planning, and social cognition functionally interact in the brain, leading to a more unified understanding of how multiple neural systems are coordinated during complex, natural behaviors.
