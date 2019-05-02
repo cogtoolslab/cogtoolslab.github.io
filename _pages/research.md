@@ -35,7 +35,6 @@ they highlight the potential of deep networks for understanding human learning.
 
 Fan, J., Yamins, D., and Turk-Browne, N. (2018). [Common object representations for visual production and recognition.](https://cogtoolslab.github.io/pdf/fan_cs_2018.pdf) _Cognitive Science._ 
 
-
 ### Visual content and social context jointly determine pictorial meaning
 
 ![image]({{site.baseurl}}/images/research/sketch_gallery.png){: .research-icons}
