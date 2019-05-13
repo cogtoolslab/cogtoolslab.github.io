@@ -51,7 +51,7 @@ Our findings show that both visual information and social context are crucial fo
 
 Fan, J., Hawkins, R., Wu, M., and Goodman, N. (submitted). [Pragmatic inference and visual abstraction enable contextual flexibility in visual communication.](https://cogtoolslab.github.io/pdf/fan_context_ms.pdf)) 
 
-Hawkins, R., Sano, M., Goodman, N., and Fan, J. (under review). [Graphical convention formation during visual communication.](https://cogtoolslab.github.io/pdf/hawkins_cogsci_2019.pdf))
+Hawkins, R., Sano, M., Goodman, N., and Fan, J. (under review). [Graphical convention formation during visual communication.](https://cogtoolslab.github.io/pdf/hawkinssano_cogsci_2019.pdf))
 
 
 <!-- My empirical work explores how informal sketching in particular can open a wide window into how perception, action planning, and social cognition functionally interact in the brain, leading to a more unified understanding of how multiple neural systems are coordinated during complex, natural behaviors.
