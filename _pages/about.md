@@ -2,7 +2,7 @@
 title: about the lab
 subtitle: 
 description: 
-featured_image: /images/demo/demo-landscape.jpg
+featured_image: /images/misc/geisel_library.jpg
 ---
 
 The Cognitive Tools Lab is directed by [Prof. Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) and located in the [UC San Diego Department of Psychology](https://psychology.ucsd.edu/). 
