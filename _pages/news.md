@@ -11,7 +11,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***April 12, 2019:*** Our paper, [Disentangling contributions of visual information and interaction history in the formation of graphical conventions](https://cogtoolslab.github.io/pdf/hawkinssano_cogsci_2019.pdf) was accepted for oral presentation at the 2019 Cognitive Science Society Meeting! 
 
-Also, lead authors [Robert Hawkins](https://rxdhawkins.com/) and Megumi Sano were recognized with the Robert J. Glushko and Pamela Samuelson Foundation Student Travel Award and the Sayan Gul Travel Award, respectively. Congrats, Robert and Meg! 
+Also, Megumi Sano was recognized with the inaugural Sayan Gul Travel Award. Congrats, Meg! 
 
 ***April 12, 2019:*** Our paper, [Developmental changes in the ability to draw distinctive features of object categories](https://cogtoolslab.github.io/pdf/long_cogsci_2019.pdf) was accepted for oral presentation at the 2019 Cognitive Science Society Meeting! 
 
