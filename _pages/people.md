@@ -27,6 +27,11 @@ This could be you!
 Holly Huey
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/McCarthyW_photo.jpg){: .lab-member-img-little}
+
+Will McCarthy
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/WangH_photo.jpg){: .lab-member-img-little}
 
 Haoliang Wang
