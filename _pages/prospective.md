@@ -49,9 +49,9 @@ If you think you might be a good fit after reading all of the above, send Dr. Fa
 - ***Why do you want to do research?***  
 Both in general, and in this specific field.
 - ***Why do you want to do research with me?***  
-There are many great labs here at UCSD. Why do you want to work in our lab, specifically? It'd be a good idea to look through our recent publications.
+There are many great labs here at UCSD. Why do you want to work in our lab, specifically? It'd be a good idea to look through our recent publications. If a particular publication was of interest to you, please share specific details about what aspects interested you and how these aspects connect to your own research interests/experience. 
 - ***What relevant skills do you have?***  
-Also describe experience you have with the particular skills listed at the top of this page, and provide some specific evidence (e.g. links to Github repos for recent projects, papers or reports you've written).
+Also please describe experience you have with the particular skills listed at the top of this page, and provide some specific evidence (e.g. links to Github repos for recent projects, papers or reports you've written).
 
 Please contact Dr. Fan during the quarter before the one in which you want to do research — this gives us time to develop a project for you in advance so you can hit the ground running.
 
