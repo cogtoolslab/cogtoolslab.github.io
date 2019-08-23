@@ -26,7 +26,7 @@ Beyond these practical skills, our lab is committed to equality, diversity, and 
 
 ### Prospective PhD Students and Postdocs
 
-If you are not currently at UCSD but are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@ucsd.edu) . 
+If you are not currently at UCSD but are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@ucsd.edu). 
 While she cannot guarantee a reply, she will do her best to respond and discuss with you whether the lab might be a good fit. 
 
 If you are a prospective PhD student and following this discussion you continue to be interested in joining the lab, please submit an application to our [PhD program in Psychology](https://psychology.ucsd.edu/graduate-program/index.html). 
