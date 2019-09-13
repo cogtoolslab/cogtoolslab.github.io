@@ -9,14 +9,16 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'news'
+      url: '/news.html'       
     - title: 'about'
-      url: '/about.html'
+      url: '/about.html'    
     - title: 'people'
       url: '/people.html'
     - title: 'research'
       url: '/research.html'
     - title: 'publications'
-      url: '/publications.html'   
+      url: '/publications.html'        
     - title: 'prospective lab members'
       url: '/prospective.html'   
 
