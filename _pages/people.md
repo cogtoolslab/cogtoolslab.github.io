@@ -39,7 +39,10 @@ Haoliang Wang
 
 ### Research Staff
 
-This could be you!
+![image]({{site.baseurl}}/images/people/YangY_photo.png){: .lab-member-img-little}
+
+Ian Yang
+{: .lab-member-name-plate}
 
 ### Collaborators
 
