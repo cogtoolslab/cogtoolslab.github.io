@@ -41,7 +41,7 @@ Haoliang Wang
 
 ![image]({{site.baseurl}}/images/people/YangY_photo.png){: .lab-member-img-little}
 
-Ian Yang
+Yi Yang
 {: .lab-member-name-plate}
 
 ### Collaborators
