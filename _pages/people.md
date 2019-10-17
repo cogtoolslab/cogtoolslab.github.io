@@ -32,6 +32,11 @@ Holly Huey
 Will McCarthy
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/NgH_photo.jpg){: .lab-member-img-little}
+
+Hui Xin Ng
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/WangH_photo.jpg){: .lab-member-img-little}
 
 Haoliang Wang
