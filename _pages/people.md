@@ -32,22 +32,22 @@ Holly Huey
 Will McCarthy
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/NgH_photo.jpg){: .lab-member-img-little}
+<!-- ![image]({{site.baseurl}}/images/people/NgH_photo.jpg){: .lab-member-img-little}
 
 Hui Xin Ng
-{: .lab-member-name-plate}
+{: .lab-member-name-plate} -->
 
 ![image]({{site.baseurl}}/images/people/WangH_photo.jpg){: .lab-member-img-little}
 
 Haoliang Wang
 {: .lab-member-name-plate}
 
-### Research Staff
+<!-- ### Research Staff -->
 
-![image]({{site.baseurl}}/images/people/YangY_photo.png){: .lab-member-img-little}
+<!-- ![image]({{site.baseurl}}/images/people/YangY_photo.png){: .lab-member-img-little}
 
 Yi Yang
-{: .lab-member-name-plate}
+{: .lab-member-name-plate} -->
 
 ### Collaborators
 
