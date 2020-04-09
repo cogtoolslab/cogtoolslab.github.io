@@ -22,6 +22,16 @@ This could be you!
 
 ### Graduate Students
 
+![image]({{site.baseurl}}/images/people/BinderF_photo.png){: .lab-member-img-little}
+
+Felix Binder
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/HoldawayC_photo.jpg){: .lab-member-img-little}
+
+Cameron Holdaway
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/HueyH_photo.png){: .lab-member-img-little}
 
 Holly Huey
@@ -32,10 +42,10 @@ Holly Huey
 Will McCarthy
 {: .lab-member-name-plate}
 
-<!-- ![image]({{site.baseurl}}/images/people/NgH_photo.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/XuT_photo.png){: .lab-member-img-little}
 
-Hui Xin Ng
-{: .lab-member-name-plate} -->
+[Tone Xu](http://acsweb.ucsd.edu/~xix138/)
+{: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/WangH_photo.jpg){: .lab-member-img-little}
 
@@ -48,6 +58,16 @@ Haoliang Wang
 
 Yi Yang
 {: .lab-member-name-plate} -->
+
+### Undergraduate Students
+
+Julia Xu
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/YangJ_photo.jpg){: .lab-member-img-little}
+
+Justin Yang
+{: .lab-member-name-plate}
 
 ### Collaborators
 
