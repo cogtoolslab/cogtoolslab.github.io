@@ -32,6 +32,11 @@ Felix Binder
 Cameron Holdaway
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
+
+Sebastian Holt
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/HueyH_photo.png){: .lab-member-img-little}
 
 Holly Huey
@@ -60,6 +65,8 @@ Yi Yang
 {: .lab-member-name-plate} -->
 
 ### Undergraduate Students
+
+![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
 
 Julia Xu
 {: .lab-member-name-plate}
