@@ -16,9 +16,9 @@ _Assistant Professor of Psychology_
 <a href="{{site.url}}cv/FanJudith_CV.pdf" target="_blank" rel="noopener noreferrer">View CV</a>
 {: .lab-member-name-plate}
 
-### Postdocs
+<!-- ### Postdocs
 
-This could be you!
+This could be you! -->
 
 ### Graduate Students
 
