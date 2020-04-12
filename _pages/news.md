@@ -5,6 +5,8 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+***February 19, 2020***: Our paper, [Relating Visual Production and Recognition of Objects in Human Visual Cortex](https://www.jneurosci.org/content/40/8/1710) has been published in *Journal of Neuroscience*!
+
 ***Sep 12, 2019:*** We welcome PhD students Holly Huey (PSYC), Will McCarthy (COGS), and Haoliang Wang (PSYC) to the lab! 
 
 ***Sep 5, 2019:*** Our paper, [Pragmatic inference and visual abstraction enable contextual flexibility in visual communication](https://cogtoolslab.github.io/pdf/fan_cbb_2019.pdf) has been published in *Computational Brain & Behavior*!
