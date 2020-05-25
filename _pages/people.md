@@ -24,7 +24,7 @@ This could be you! -->
 
 ![image]({{site.baseurl}}/images/people/BinderF_photo.png){: .lab-member-img-little}
 
-Felix Binder
+[Felix Binder](http://ac.felixbinder.net/)
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/HoldawayC_photo.jpg){: .lab-member-img-little}
