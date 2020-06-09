@@ -38,12 +38,12 @@ Current UCSD students are also welcome to work on projects in the lab.
 Generally, we expect this to be mostly PhD and Masters students in Psychology, Cognitive Science, CSE, or Neurosciences. 
 Unusually well prepared undergraduate students are welcome, but they will be held to the same high standards.
 
-A good way for Dr. Fan to figure out whether you'd be a good fit is for you to take her graduate course (_will be offered in Fall 2019_). 
+A good way for Dr. Fan to figure out whether you'd be a good fit is for you to take one of her courses: PSYC 230: Computational Approaches to Visual Abstraction or PSYC 193: Perception & Computation. 
 This gives you a chance to see how she works with students, and it lets her see your working style. 
 If this isn’t feasible due to timing, please send Dr. Fan an [email](mailto:jefan@ucsd.edu) so we can arrange for an alternative way to evaluate fit.
 
 Scientific research is unpredictable and can take up a lot of time. 
-If this will be your first quarter working on a project in the lab, you should expect to spend at minimum 15 hours a week working on our research projects --- so if you are swamped with other commitments, consider joining the lab another quarter.  
+If this will be your first academic quarter working on a project in the lab, you should expect to spend at minimum 15 hours a week working on our research projects --- so if you are swamped with other commitments, consider joining the lab another quarter.
 
 If you think you might be a good fit after reading all of the above, send Dr. Fan an email with a current academic CV and with answers to the following questions:
 - ***Why do you want to do research?***  
