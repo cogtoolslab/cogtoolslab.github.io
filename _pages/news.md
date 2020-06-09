@@ -15,7 +15,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***January 22, 2020:*** Lab undergrads [Julia Xu](https://cogtoolslab.github.io/people.html) and [Justin Yang](https://cogtoolslab.github.io/people.html) receive Halicioglu Data Science Institute's Undergraduate Scholarships to support their research in the lab!
 
-***Sep 12, 2019:*** We welcome PhD students Holly Huey (PSYC), Will McCarthy (COGS), and Haoliang Wang (PSYC) to the lab! 
+***Sep 12, 2019:*** We welcome PhD students [Holly Huey](https://cogtoolslab.github.io/people.html) (PSYC), [Will McCarthy](https://cogtoolslab.github.io/people.html) (COGS), and [Haoliang Wang](https://cogtoolslab.github.io/people.html) (PSYC) to the lab! 
 
 ***Sep 5, 2019:*** Our paper, [Pragmatic inference and visual abstraction enable contextual flexibility in visual communication](https://cogtoolslab.github.io/pdf/fan_cbb_2019.pdf) has been published in *Computational Brain & Behavior*!
 

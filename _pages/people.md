@@ -78,8 +78,6 @@ Justin Yang
 
 ### Collaborators
 
-<!-- [Mike Frank](https://web.stanford.edu/~mcfrank/) -->
-
 [Monica Dinculescu](https://meowni.ca/), _Google_ \\
 [Mike Frank](https://web.stanford.edu/~mcfrank/), _Stanford_ \\
 [Noah Goodman](https://cocolab.stanford.edu/), _Stanford_ \\
