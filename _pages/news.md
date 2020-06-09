@@ -5,7 +5,15 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***February 19, 2020***: Our paper, [Relating Visual Production and Recognition of Objects in Human Visual Cortex](https://www.jneurosci.org/content/40/8/1710) has been published in *Journal of Neuroscience*!
+***May 20, 2020:*** Lab undergrad [Justin Yang](https://cogtoolslab.github.io/people.html) was awarded the Summer URS Chancellor's Research Scholarship for Social Sciences! 
+
+***May 1, 2020:*** Our paper, [Learning to build physical structures better over time](https://cogtoolslab.github.io/pdf/mccarthy_cogsci_2020.pdf) was accepted for oral presentation at the 2020 Cognitive Science Society Meeting! 
+
+***April 26, 2020:*** Judy Fan gives a talk on some of our research at the Workshop on [Bridging AI and Cognitive Science](https://baicsworkshop.github.io/) at [ICLR 2020](https://iclr.cc/). [Link to recording of her talk.](https://baicsworkshop.github.io/program/baics_47.html)
+
+***February 19, 2020:*** Our paper, [Relating Visual Production and Recognition of Objects in Human Visual Cortex](https://www.jneurosci.org/content/40/8/1710) has been published in *Journal of Neuroscience*!
+
+***January 22, 2020:*** Lab undergrads [Julia Xu](https://cogtoolslab.github.io/people.html) and [Justin Yang](https://cogtoolslab.github.io/people.html) receive Halicioglu Data Science Institute's Undergraduate Scholarships to support their research in the lab!
 
 ***Sep 12, 2019:*** We welcome PhD students Holly Huey (PSYC), Will McCarthy (COGS), and Haoliang Wang (PSYC) to the lab! 
 
