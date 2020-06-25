@@ -5,9 +5,9 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***June 22, 2020*** Our paper, Rapid policy updating in human physical construction, was accepted for a spotlight presentation at the [ICML 2020 Object-Oriented Learning Workshop](https://oolworkshop.github.io/)!
+***June 22, 2020:*** Our paper, Rapid policy updating in human physical construction, was accepted for a spotlight presentation at the [ICML Workshop on Object-Oriented Learning](https://oolworkshop.github.io/)!
 
-***June 22, 2020*** Our paper, Library learning for structured object concepts, was accepted for a poster presentation at the [ICML 2020 Object-Oriented Learning Workshop](https://oolworkshop.github.io/)!
+***June 22, 2020:*** Our paper, Library learning for structured object concepts, was accepted for a poster presentation at the [ICML Workshop on Object-Oriented Learning](https://oolworkshop.github.io/)!
 
 ***May 20, 2020:*** Lab undergrad [Justin Yang](https://cogtoolslab.github.io/people.html) was awarded the Summer URS Chancellor's Research Scholarship for Social Sciences! 
 
