@@ -44,7 +44,7 @@ Holly Huey
 
 ![image]({{site.baseurl}}/images/people/McCarthyW_photo.jpg){: .lab-member-img-little}
 
-Will McCarthy
+[Will McCarthy](http://wpmccarthy.com/)
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/XuT_photo.png){: .lab-member-img-little}
