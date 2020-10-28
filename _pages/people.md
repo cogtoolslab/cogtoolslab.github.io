@@ -68,6 +68,11 @@ Yi Yang
 
 ![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
 
+Charles Lu
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
+
 Julia Xu
 {: .lab-member-name-plate}
 
