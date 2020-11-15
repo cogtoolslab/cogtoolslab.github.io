@@ -59,7 +59,7 @@ Please contact Dr. Fan during the quarter before the one in which you want to do
 
 ### Current UCSD Undergraduate Students
 
-If you are a current UCSD undergraduate student and interested in being considered for potential research opportunities in the lab, your first step should be to complete the [Psychology Undergraduate Research Assistant Common Application (PSYURACA)](https://docs.google.com/forms/d/1xgUys0UF5bbpKTEJ_UjlMBr7-tfFWo6o5HT0bIv5vBM/viewform?edit_requested=true) during the quarter before the one in which you want to start working in the lab. 
+If you are a current UCSD undergraduate student and interested in being considered for potential research opportunities in the lab, your first step should be to complete the [Psychology Undergraduate Research Assistant Common Application (PSYURACA)](https://docs.google.com/forms/d/e/1FAIpQLScXi95jwhF_EfJoHyXidR7mX8_9FGnDkS2_b23aowsg689FjA/viewform) during the quarter before the one in which you want to start working in the lab. 
 In the meantime, a good way for you to figure out whether the lab is a good fit for you is to take PSYC 193: Perception & Computation.
 If you have an especially strong interest in working in the lab, in addition to completing the Common Application, please also feel free to reach out to Dr. Fan via [email](mailto:jefan@ucsd.edu), with some brief responses to the same questions from the section above. 
 
