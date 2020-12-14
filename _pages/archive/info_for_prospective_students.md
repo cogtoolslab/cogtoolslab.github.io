@@ -40,7 +40,4 @@ If you think you might be a good fit after reading all of the above, send me an 
 
 Please contact me during the quarter before the one in which you want to do research — this gives us time to define a project for you in advance so you can hit the ground running.
 
-### Lab Manual
-
-We would like to be transparent about the values we share in the lab. To learn more about shared expectations for 
 

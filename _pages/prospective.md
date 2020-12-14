@@ -20,9 +20,13 @@ In addition to strong motivation and scientific curiosity, the research we do re
 - ***Communication and organization:*** 
 	Researchers must communicate the results of their work. Strong writing and oral presentation skills are critical. I'm also looking for students who are well organized, thoughtful, and proactive about their own research and training. Especially in collaborative projects, it is important to communicate with me and other collaborators throughout the research process: reporting progress, asking for help, etc. We will generally use Slack and Github issues to discuss results and keep track of todo’s.
 
+### Values We Share
+
 It is important to emphasize that even if you don’t *currently* have the skills above, that doesn’t mean you can’t or shouldn’t work in the lab. If you are seriously interested in joining us, you are encouraged to invest time and energy independently acquiring some or more of these skills (e.g., through course projects), which will enable you to get more out of your research experience. If you are interested in gaining these skills but are not sure how, you can reach out to Dr. Fan for advice and pointers to resources. 
 
-Beyond these practical skills, our lab is committed to equality, diversity, and inclusion in achieving and sustaining excellence in our scientific research. We aim to provide an intellectual environment that is at once welcoming, nurturing and challenging, and that respects the full spectrum of human diversity in race, ethnicity, gender identity, age, socioeconomic status, national origin, sexual orientation, disability, and religion. Above all, we are looking for lab members who share our commitment to actively creating and maintaining a safe environment founded on mutual respect and support.
+Beyond these practical skills, our lab is genuinely committed to equality, diversity, and inclusion in achieving and sustaining excellence in our scientific research. We aim to provide an intellectual environment that is at once welcoming, nurturing and challenging, and that respects the full spectrum of human diversity in race, ethnicity, gender identity, age, socioeconomic status, national origin, sexual orientation, disability, and religion. Above all, we are looking for lab members who share our commitment to actively creating and maintaining a safe environment founded on mutual respect and support.
+
+To learn more about the expectations we have of all members of the lab, including of Dr. Fan, please feel free to read our [lab manual](https://docs.google.com/document/d/1nP-5ZNCfHCgzU7X5XL1eVmOiP_Fr4r6qrcxPxpzAoTk/edit?usp=sharing).
 
 ### Prospective PhD Students and Postdocs
 
@@ -62,5 +66,7 @@ Please contact Dr. Fan during the quarter before the one in which you want to do
 If you are a current UCSD undergraduate student and interested in being considered for potential research opportunities in the lab, your first step should be to complete the [Psychology Undergraduate Research Assistant Common Application (PSYURACA)](https://docs.google.com/forms/d/e/1FAIpQLScXi95jwhF_EfJoHyXidR7mX8_9FGnDkS2_b23aowsg689FjA/viewform) during the quarter before the one in which you want to start working in the lab. 
 In the meantime, a good way for you to figure out whether the lab is a good fit for you is to take PSYC 193: Perception & Computation.
 If you have an especially strong interest in working in the lab, in addition to completing the Common Application, please also feel free to reach out to Dr. Fan via [email](mailto:jefan@ucsd.edu), with some brief responses to the same questions from the section above. 
+
+### Acknowledgments
 
 Special thanks to [Daniel Ritchie](https://dritchie.github.io/) at Brown University and [Fernanda Ferreira](https://ferreiralab.faculty.ucdavis.edu/) at UC Davis for examples of how to organize the information on this page.
