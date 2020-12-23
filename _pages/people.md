@@ -39,7 +39,7 @@ Sebastian Holt
 
 ![image]({{site.baseurl}}/images/people/HueyH_photo.png){: .lab-member-img-little}
 
-Holly Huey
+[Holly Huey](https://hollyhuey.github.io/)
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/McCarthyW_photo.jpg){: .lab-member-img-little}
