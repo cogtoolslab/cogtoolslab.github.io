@@ -4,7 +4,10 @@ subtitle:
 description: 
 featured_image: /images/demo/demo-landscape.jpg
 ---
-
+<!-- 
+### Upcoming
+***June 19, 2021:*** Judy Fan will be giving an invited talk at the 1st Annual Sketch-Oriented Deep Learning (SketchDL) Workshop at the Conference on Computer Vision and Pattern Recognition (CVPR).
+### Previous -->
 ***October 29, 2020:*** Our paper, Emergence of compositional abstractions in human collaborative assembly, was accepted for presentation at the [NeurIPS Workshop on Object Representations for Learning and Reasoning](https://orlrworkshop.github.io/)!
 
 ***June 22, 2020:*** Our paper, Rapid policy updating in human physical construction, was accepted for a spotlight presentation at the [ICML Workshop on Object-Oriented Learning](https://oolworkshop.github.io/)!
@@ -19,7 +22,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***February 19, 2020:*** Our paper, [Relating Visual Production and Recognition of Objects in Human Visual Cortex](https://www.jneurosci.org/content/40/8/1710) has been published in *Journal of Neuroscience*!
 
-***January 22, 2020:*** Lab undergrads [Julia Xu](https://cogtoolslab.github.io/people.html) and [Justin Yang](https://cogtoolslab.github.io/people.html) receive Halicioglu Data Science Institute's Undergraduate Scholarships to support their research in the lab!
+***January 22, 2020:*** Lab undergrads Julia Xu and [Justin Yang](https://cogtoolslab.github.io/people.html) receive Halicioglu Data Science Institute's Undergraduate Scholarships to support their research in the lab!
 
 ***Sep 12, 2019:*** We welcome PhD students [Holly Huey](https://cogtoolslab.github.io/people.html) (PSYC), [Will McCarthy](https://cogtoolslab.github.io/people.html) (COGS), and [Haoliang Wang](https://cogtoolslab.github.io/people.html) (PSYC) to the lab! 
 
