@@ -44,8 +44,7 @@ Current UCSD graduate students are also welcome to work on projects in the lab, 
 A good way to figure out whether the lab would be a good fit is for you to take one of Dr. Fan's graduate courses, e.g., PSYC 230: Computational Approaches to Visual Abstraction. 
 This gives you a chance to see how she works with students, and it lets her see your working style. 
 If this isn’t feasible due to timing, please send Dr. Fan an [email](mailto:jefan@ucsd.edu) so we can arrange for an alternative way to evaluate fit.
-Another easy way to get in touch with Dr. Fan is to stop by her Zoom office hours.
-In Fall 2020, these are on Mondays 4-5pm PT and Tuesday 6-7pm PT. 
+Another easy way to get in touch with Dr. Fan is to stop by her Zoom office hours. 
 Please do not be shy about sending a quick email to introduce yourself and ask for the Zoom link. 
 
 Scientific research is unpredictable and can take up a lot of time. 
@@ -63,7 +62,7 @@ Please contact Dr. Fan during the quarter before the one in which you want to do
 
 ### Current UCSD Undergraduate Students
 
-If you are a current UCSD undergraduate student and interested in being considered for potential research opportunities in the lab, your first step should be to complete the [Psychology Undergraduate Research Assistant Common Application (PSYURACA)](https://docs.google.com/forms/d/e/1FAIpQLScXi95jwhF_EfJoHyXidR7mX8_9FGnDkS2_b23aowsg689FjA/viewform) during the quarter before the one in which you want to start working in the lab. 
+If you are a current UCSD undergraduate student and interested in being considered for potential research opportunities in the lab, your first step should be to complete the [Psychology Undergraduate Research Assistant Common Application (PSYURACA)](https://psychology.ucsd.edu/undergraduate-program/research/index.html) during the quarter before the one in which you want to start working in the lab. 
 In the meantime, a good way for you to figure out whether the lab is a good fit for you is to take PSYC 193: Perception & Computation.
 If you have an especially strong interest in working in the lab, in addition to completing the Common Application, please also feel free to reach out to Dr. Fan via [email](mailto:jefan@ucsd.edu), with some brief responses to the same questions from the section above. 
 

@@ -4,10 +4,12 @@ subtitle:
 description: 
 featured_image: /images/demo/demo-landscape.jpg
 ---
-<!-- 
+
 ### Upcoming
 ***June 19, 2021:*** Judy Fan will be giving an invited talk at the 1st Annual Sketch-Oriented Deep Learning (SketchDL) Workshop at the Conference on Computer Vision and Pattern Recognition (CVPR).
-### Previous -->
+
+***February 24, 2021:*** Judy Fan will be giving a virtual colloquium talk at Brown University's Department of Cognitive, Linguistic & Psychological Sciences.
+
 ***October 29, 2020:*** Our paper, Emergence of compositional abstractions in human collaborative assembly, was accepted for presentation at the [NeurIPS Workshop on Object Representations for Learning and Reasoning](https://orlrworkshop.github.io/)!
 
 ***June 22, 2020:*** Our paper, Rapid policy updating in human physical construction, was accepted for a spotlight presentation at the [ICML Workshop on Object-Oriented Learning](https://oolworkshop.github.io/)!
