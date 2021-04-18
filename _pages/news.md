@@ -8,7 +8,13 @@ featured_image: /images/demo/demo-landscape.jpg
 ### Upcoming
 ***June 19, 2021:*** Judy Fan will be giving an invited talk at the 1st Annual Sketch-Oriented Deep Learning (SketchDL) Workshop at the Conference on Computer Vision and Pattern Recognition (CVPR).
 
-***February 24, 2021:*** Judy Fan will be giving a virtual colloquium talk at Brown University's Department of Cognitive, Linguistic & Psychological Sciences.
+***April 13, 2021:*** We had 10 papers accepted to the 2021 Cognitive Science Society Annual Meeting (CogSci)! Congratulations, everyone! Please see our [Publications](https://cogtoolslab.github.io/publications.html) page for details.
+
+***April 9, 2021:*** Judy Fan gave a virtual talk as part of [University of Wisconsin-Madison's HAMLET (Human, Animal, and Machine Learning: Experiment and Theory) seminar series](https://lucid.wisc.edu/hamlet/).
+
+***April 6, 2021:*** Judy Fan was awarded a National Science Foundation Faculty Early Career Development (CAREER) Award for the proposal, "Mechanisms enabling the flexible expression of visual concepts."
+
+***February 24, 2021:*** Judy Fan gave a virtual colloquium talk at [Brown University's Department of Cognitive, Linguistic & Psychological Sciences](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home).
 
 ***October 29, 2020:*** Our paper, Emergence of compositional abstractions in human collaborative assembly, was accepted for presentation at the [NeurIPS Workshop on Object Representations for Learning and Reasoning](https://orlrworkshop.github.io/)!
 
