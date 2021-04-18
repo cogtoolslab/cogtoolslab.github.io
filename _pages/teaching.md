@@ -6,7 +6,7 @@ description:
 
 <!-- ![](/images/demo/demo-landscape.jpg) -->
 
-Here are some courses that Dr. Fan regularly teaches:
+Here are some courses that Dr. Fan regularly teaches.
 
 ### PSYC 230: Computational Approaches to Visual Abstraction
 From etchings on cave walls to digital media, the ability to convey abstract information in visual form is fundamental to many human innovations (e.g., painting, cartography, data visualization). This graduate seminar explores the problem of how humans produce and comprehend graphical representations, combining approaches from computational neuroscience, cognitive science, and artificial intelligence. Course participants will discuss both classic and contemporary work in these fields, work with modern computer-vision and human-behavioral datasets, and formulate an original research project to address outstanding questions. Previous experience using the Python programming language for scientific computing and prior coursework in neuroscience/psychology, calculus, and linear algebra is strongly preferred, but not strictly required, provided the student is willing to spend additional time learning foundational concepts on their own. [Syllabus](https://docs.google.com/document/d/1Xb4pIUMWlMmvvGuEqDg-ci41P10x1izdZXjpG9xl8jM/edit?usp=sharing)
