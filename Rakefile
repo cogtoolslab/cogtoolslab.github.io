@@ -1,9 +1,9 @@
+# coding: utf-8
 require "rubygems"
 require "tmpdir"
 
 require "bundler/setup"
 require "jekyll"
-
 
 # Change your GitHub reponame
 GITHUB_REPONAME = "cogtoolslab/cogtoolslab.github.io"

@@ -13,7 +13,7 @@ Judith Fan
 {: .lab-member-name-plate}
 _Assistant Professor of Psychology_
 {: .lab-member-name-plate}
-<a href="{{site.url}}cv/FanJudith_CV.pdf" target="_blank" rel="noopener noreferrer">View CV</a>
+<a href="{{site.url}}/cv/FanJudith_CV.pdf" target="_blank" rel="noopener noreferrer">View CV</a>
 {: .lab-member-name-plate}
 
 <!-- ### Postdocs

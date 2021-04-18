@@ -18,7 +18,11 @@ menu_settings:
     - title: 'research'
       url: '/research.html'
     - title: 'publications'
-      url: '/publications.html'        
+      url: '/publications.html'   
+    - title: 'teaching'
+      url: '/teaching.html'   
+    - title: 'outreach'
+      url: '/outreach.html'        
     - title: 'prospective lab members'
       url: '/prospective.html'   
 

@@ -2,11 +2,8 @@
 title: outreach
 subtitle: 
 description: 
-featured_image: /images/demo/demo-landscape.jpg
 ---
 
-<!-- ![](/images/demo/demo-landscape.jpg) -->
+### [Pathways2AI](https://pathways2ai.ucsd.edu/)
+Pathways2AI aims to broaden participation in artificial intelligence (AI) and promote AI literacy for everyone. We partner with local K-12 schools to inspire students to see how relevant AI is to students' everyday lives, as well as how AI intersects with many other fields, including the arts, humanities, medicine, engineering, & law.
 
-PSYC 230: Computational Approaches to Visual Abstraction (graduate seminar)
-
-PSYC 60: Introduction to Statistics
