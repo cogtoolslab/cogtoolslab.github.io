@@ -56,7 +56,7 @@ scholar:
   bibliography: bibliography.bib
   source: ./_bibliography
   use_raw_bibtex_entry: false
-  sort_by: year
+  sort_by: year, month
   order: descending
   group_by: none
   bibliography_template: bibliography 
