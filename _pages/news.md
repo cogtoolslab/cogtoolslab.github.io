@@ -12,7 +12,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***April 9, 2021:*** Judy Fan gave a virtual talk as part of [University of Wisconsin-Madison's HAMLET (Human, Animal, and Machine Learning: Experiment and Theory) seminar series](https://lucid.wisc.edu/hamlet/).
 
-***April 6, 2021:*** Judy Fan was awarded a [National Science Foundation Faculty Early Career Development (CAREER) Award](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503214) for the proposal, "Mechanisms enabling the flexible expression of visual concepts."
+***April 6, 2021:*** Judy Fan was awarded a [National Science Foundation Faculty Early Career Development (CAREER) Award](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503214) for the proposal, ["Mechanisms enabling the flexible expression of visual concepts."](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2047191&HistoricalAwards=false)
 
 ***February 24, 2021:*** Judy Fan gave a virtual colloquium talk at [Brown University's Department of Cognitive, Linguistic & Psychological Sciences](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home).
 
