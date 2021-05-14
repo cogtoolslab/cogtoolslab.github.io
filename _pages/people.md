@@ -32,7 +32,7 @@ This could be you! -->
 Cameron Holdaway
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/HoltS_photo.jpg){: .lab-member-img-little}
 
 Sebastian Holt
 {: .lab-member-name-plate}
@@ -79,17 +79,24 @@ Justin Yang
 ### Collaborators
 
 [Monica Dinculescu](https://meowni.ca/), _Google_ \\
+Dave Barner \\
+Dan Bear \\
 [Mike Frank](https://web.stanford.edu/~mcfrank/), _Stanford_ \\
 [Noah Goodman](https://cocolab.stanford.edu/), _Stanford_ \\
 [David Ha](http://otoro.net/), _Google_ \\
 [Robert Hawkins](https://rxdhawkins.com/), _Stanford_ \\
 [Ben Hutchinson](https://hulacon.uoregon.edu/), _U. Oregon_ \\
+George Kachergis \\
+David Kirsh \\
 [Bria Long](https://www.brialong.com/), _Stanford_ \\
 [Kushin Mukherjee](https://kushinm.github.io/), _UW Madison_ \\
 [Ken Norman](https://compmem.princeton.edu/), _Princeton_ \\
+Nadia Polikarpova \\
 [Jordan Suchow](https://suchow.io/), _Stevens Institute of Technology_ \\
 [Jordan Taylor](http://ipalab.princeton.edu/), _Princeton_ \\
 [Nick Turk-Browne](https://ntblab.yale.edu/), _Yale_ \\
+Ed Vul \\
+Caren Walker \\
 [Jeff Wammes](https://ntblab.yale.edu/jeffrey-wammes/), _Yale_ \\
 ​[Mike Wu](https://www.mikehwu.com/), _Stanford_ \\
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
