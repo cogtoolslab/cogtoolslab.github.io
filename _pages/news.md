@@ -12,7 +12,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***June 18, 2021:*** Judy Fan will be giving an invited talk at the [Wellcome Centre for Neuroimaging](https://www.fil.ion.ucl.ac.uk/). 
 
-***May 20, 2021***: Congratulations to Zhe Huang on receiving a 2021 Triton Research & Experiential Learning Scholars (TRELS) summer research fellowship to explore the factors linking academic performance in introductory statistics and long-term academic achievement! Congratulations also to Xuanchen Lu for receiving a Research Perseverance During COVID Award from the UCSD Department of Psychology!
+***May 20, 2021***: Congratulations to Zhe Huang on receiving a 2021 [Triton Research & Experiential Learning Scholars (TRELS)](https://ugresearch.ucsd.edu/research-programs/trels/index.html) summer research fellowship! Congratulations also to Xuanchen Lu for receiving a Research Perseverance During COVID Award from the UCSD Department of Psychology!
 
 ***April 13, 2021:*** We had 10 papers accepted to the [2021 Cognitive Science Society Annual Meeting](https://cognitivesciencesociety.org/cogsci-2021/)! Please see our [Publications](https://cogtoolslab.github.io/publications.html) page for details.
 
