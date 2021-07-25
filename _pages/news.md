@@ -6,7 +6,7 @@ featured_image: /images/demo/demo-landscape.jpg
 ---
 
 
-***June 27, 2021:*** Judy Fan will be giving an invited talk at the [Diverse Intelligences Summer Institute](https://disi.org/). 
+***June 27, 2021:*** Judy Fan will be giving an invited talk at the [Diverse Intelligences Summer Institute](https://disi.org/). Watch it [here](https://vimeo.com/showcase/8488341/video/570693646).
 
 ***June 19, 2021:*** Judy Fan will be giving an invited talk at the [1st Annual Sketch-Oriented Deep Learning (SketchDL) Workshop](https://sketchdl.github.io/) at the Conference on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2021.thecvf.com/)).
 
