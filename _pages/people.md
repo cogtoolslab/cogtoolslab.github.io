@@ -73,7 +73,12 @@ Zhe Huang
 
 ![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
 
-Charles Lu
+Xuanchen (Charles) Lu
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
+
+Sirui Tao
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/YangJ_photo.jpg){: .lab-member-img-little}
