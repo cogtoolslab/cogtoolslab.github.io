@@ -91,6 +91,7 @@ Justin Yang
 [Monica Dinculescu](https://meowni.ca/), _Google_ \\
 [Dave Barner](http://www.ladlab.com/), _UCSD_ \\
 [Dan Bear](http://neuroailab.stanford.edu/), _Stanford_ \\
+[Steven Dow](http://spdow.ucsd.edu/), _UCSD_ \\
 [Mike Frank](https://web.stanford.edu/~mcfrank/), _Stanford_ \\
 [Noah Goodman](https://cocolab.stanford.edu/), _Stanford_ \\
 [David Ha](http://otoro.net/), _Google_ \\
@@ -108,7 +109,7 @@ Justin Yang
 [Ed Vul](http://www.evullab.org/), _UCSD_ \\
 [Caren Walker](http://elc-lab-ucsd.com/). _UCSD_ \\
 [Jeff Wammes](https://www.thelamplab.ca/), _Queens_ \\
-​[Mike Wu](https://www.mikehwu.com/), _Stanford_ \\
+[Mike Wu](https://www.mikehwu.com/), _Stanford_ \\
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 
