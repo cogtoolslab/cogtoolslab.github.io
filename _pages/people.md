@@ -42,6 +42,11 @@ Sebastian Holt
 [Holly Huey](https://hollyhuey.github.io/)
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
+
+Xuanchen (Charles) Lu
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/McCarthyW_photo.jpg){: .lab-member-img-little}
 
 [Will McCarthy](http://wpmccarthy.com/)
@@ -69,11 +74,6 @@ Yi Yang
 ![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
 
 Zhe Huang
-{: .lab-member-name-plate}
-
-![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
-
-Xuanchen (Charles) Lu
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
