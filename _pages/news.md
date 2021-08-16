@@ -9,7 +9,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***Nov. 1, 2021*** Judy Fan will be giving a keynote talk at the [Configural Processing Consortium](http://www.wright.edu/event/configural-processing-consortium) meeting, co-located with the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
 
-***Oct. 28, 2021*** Judy Fan will be giving an invited talk at the University of Edinburgh Computational Cognitive Science Seminar!
+***Oct. 28, 2021*** Judy Fan will be giving an invited talk at the [University of Edinburgh Computational Cognitive Science Seminar](https://www.compcogsci.ppls.ed.ac.uk/)!
 
 ***July 26, 2021:*** Judy Fan will be giving invited talks at the ["Symbolic and sub-symbolic systems in people and machines"](https://sassy-2021.github.io/) and ["Using games to understand intelligence"](https://gamesforintelligence.github.io/) workshops, as well as the "Neural network models of cognition" affinity group at [CogSci 2021](https://cognitivesciencesociety.org/cogsci-2021/)!
 
