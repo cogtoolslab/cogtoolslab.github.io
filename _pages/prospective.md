@@ -18,13 +18,13 @@ In addition to strong motivation and scientific curiosity, the research we do re
 - ***Web programming for developing behavioral experiments:***
 	One of our primary tools for investigating human cognition and behavior is to conduct large-scale behavioral experiments, usually online and sometimes in field settings. In practice, you should be familiar with using JavaScript, HTML, CSS to build interactive web application frontends, and also with various backend server-side environments, such as Node.js. 
 - ***Reproducible research workflows:*** 
-	Progress in science requires that we be able to reproduce our own and others’ research. In practice, you should be comfortable not only thoroughly documenting your own code, but adapting the code of others, writing READMEs when appropriate, and proactively anticipating how you will share your code and datasets so that other researchers can adapt and build on your work. 
+	Progress in science requires that we be able to reproduce our own and others' research. In practice, you should be comfortable not only thoroughly documenting your own code, but adapting the code of others, writing READMEs when appropriate, and proactively anticipating how you will share your code and datasets so that other researchers can adapt and build on your work. 
 - ***Communication and organization:*** 
-	Researchers must communicate the results of their work. Strong writing and oral presentation skills are critical. I'm also looking for students who are well organized, thoughtful, and proactive about their own research and training. Especially in collaborative projects, it is important to communicate with me and other collaborators throughout the research process: reporting progress, asking for help, etc. We will generally use Slack and Github issues to discuss results and keep track of todo’s.
+	Researchers must communicate the results of their work. Strong writing and oral presentation skills are critical. I'm also looking for students who are well organized, thoughtful, and proactive about their own research and training. Especially in collaborative projects, it is important to communicate with me and other collaborators throughout the research process: reporting progress, asking for help, etc. We will generally use Slack and Github issues to discuss results and keep track of todo's.
 
 ### Values We Share
 
-It is important to emphasize that even if you don’t *currently* have the skills above, that doesn’t mean you can’t or shouldn’t work in the lab. If you are seriously interested in joining us, you are encouraged to invest time and energy independently acquiring some or more of these skills (e.g., through course projects), which will enable you to get more out of your research experience. If you are interested in gaining these skills but are not sure how, you can reach out to Dr. Fan for advice and pointers to resources. 
+It is important to emphasize that even if you don't *currently* have the skills above, that doesn't mean you can't or shouldn't work in the lab. If you are seriously interested in joining us, you are encouraged to invest time and energy independently acquiring some or more of these skills (e.g., through course projects), which will enable you to get more out of your research experience. If you are interested in gaining these skills but are not sure how, you can reach out to Dr. Fan for advice and pointers to resources. 
 
 Beyond these practical skills, our lab is genuinely committed to equality, diversity, and inclusion in achieving and sustaining excellence in our scientific research. We aim to provide an intellectual environment that is at once welcoming, nurturing and challenging, and that respects the full spectrum of human diversity in race, ethnicity, gender identity, age, socioeconomic status, national origin, sexual orientation, disability, and religion. Above all, we are looking for lab members who share our commitment to actively creating and maintaining a safe environment founded on mutual respect and support.
 
@@ -45,7 +45,7 @@ Current UCSD graduate students are also welcome to work on projects in the lab, 
 
 A good way to figure out whether the lab would be a good fit is for you to take one of Dr. Fan's graduate courses, e.g., PSYC 230: Computational Approaches to Visual Abstraction. 
 This gives you a chance to see how she works with students, and it lets her see your working style. 
-If this isn’t feasible due to timing, please send Dr. Fan an [email](mailto:jefan@ucsd.edu) so we can arrange for an alternative way to evaluate fit.
+If this isn't feasible due to timing, please send Dr. Fan an [email](mailto:jefan@ucsd.edu) so we can arrange for an alternative way to evaluate fit.
 Another easy way to get in touch with Dr. Fan is to stop by her Zoom office hours. 
 Please do not be shy about sending a quick email to introduce yourself and ask for the Zoom link. 
 

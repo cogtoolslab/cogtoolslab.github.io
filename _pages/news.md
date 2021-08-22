@@ -29,9 +29,15 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***February 24, 2021:*** Judy Fan gave a virtual colloquium talk at [Brown University's Department of Cognitive, Linguistic & Psychological Sciences](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home).
 
+***December 7, 2020:*** Judy Fan gave an invited talk at the [University of Michigan's Institute for Cognitive Science](https://lsa.umich.edu/weinberginstitute)!
+
 ***December 1, 2020:*** Judy Fan and Dorsa Sadigh were awarded a research grant from the [Office of Naval Research: Science of Autonomy](https://www.onr.navy.mil/en/Science-Technology/Departments/Code-35/All-Programs/aerospace-science-research-351/science-of-autonomy) for the proposal, "Harnessing human intelligence for adaptive human-robot collaboration."
 
 ***October 29, 2020:*** Our paper, Emergence of compositional abstractions in human collaborative assembly, was accepted for presentation at the [NeurIPS Workshop on Object Representations for Learning and Reasoning](https://orlrworkshop.github.io/)!
+
+***July 12, 2020:*** Judy Fan gave an invited talk at the [Workshop on Emergent Behaviors in Human-Robot Systems at Robotics: Science & Systems](https://iliad.stanford.edu/rss-workshop/)!
+
+***June 30, 2020:*** Judy Fan gave an invited talk at the [USC School of Philosophy's Mind and Language Seminar Series](https://dornsife.usc.edu/phil/mind-language/)!
 
 ***June 22, 2020:*** Our paper, Rapid policy updating in human physical construction, was accepted for a spotlight presentation at the [ICML Workshop on Object-Oriented Learning](https://oolworkshop.github.io/)!
 
