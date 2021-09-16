@@ -44,6 +44,11 @@ Sebastian Holt
 
 ![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
 
+Hannah Lloyd
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
+
 Xuanchen (Charles) Lu
 {: .lab-member-name-plate}
 
