@@ -27,7 +27,7 @@ This could be you! -->
 Justin Yang
 {: .lab-member-name-plate}
 
-### Graduate Students
+### PhD Students
 
 ![image]({{site.baseurl}}/images/people/BinderF_photo.png){: .lab-member-img-little}
 
@@ -54,19 +54,9 @@ Sebastian Holt
 Hannah Lloyd
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
-
-Xuanchen (Charles) Lu
-{: .lab-member-name-plate}
-
 ![image]({{site.baseurl}}/images/people/McCarthyW_photo.jpg){: .lab-member-img-little}
 
 [Will McCarthy](http://wpmccarthy.com/)
-{: .lab-member-name-plate}
-
-![image]({{site.baseurl}}/images/people/XuT_photo.png){: .lab-member-img-little}
-
-[Tone Xu](http://acsweb.ucsd.edu/~xix138/)
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/WangH_photo.jpg){: .lab-member-img-little}
@@ -80,6 +70,17 @@ Haoliang Wang
 
 Yi Yang
 {: .lab-member-name-plate} -->
+
+### Affiliated PhD Students
+
+![image]({{site.baseurl}}/images/people/XuT_photo.png){: .lab-member-img-little}
+
+[Tone Xu](http://acsweb.ucsd.edu/~xix138/)
+{: .lab-member-name-plate}
+
+### Masters Students
+
+Xuanchen (Charles) Lu
 
 ### Undergraduate Students
 
@@ -97,7 +98,7 @@ Zhe Huang \\
 Maneesha Nagabandi \\
 Jacob Schenberg \\
 Sirui Tao \\
-Jane Yang \\
+Jane Yang
 
 ### Collaborators
 
