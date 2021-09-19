@@ -64,14 +64,12 @@ Hannah Lloyd
 Haoliang Wang
 {: .lab-member-name-plate}
 
-<!-- ### Research Staff -->
+### Affiliated and Visiting PhD Students
 
-<!-- ![image]({{site.baseurl}}/images/people/YangY_photo.png){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/TamariR_photo.jpg){: .lab-member-img-little}
 
-Yi Yang
-{: .lab-member-name-plate} -->
-
-### Affiliated PhD Students
+[Ronen Tamari](https://ronentk.github.io/)
+{: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/XuT_photo.png){: .lab-member-img-little}
 
@@ -82,17 +80,7 @@ Yi Yang
 
 Xuanchen (Charles) Lu
 
-### Undergraduate Students
-
-<!-- ![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
-
-Zhe Huang
-{: .lab-member-name-plate}
-
-![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
-
-Sirui Tao
-{: .lab-member-name-plate} -->
+### Current Undergraduate Students
 
 Zhe Huang \\
 Maneesha Nagabandi \\
@@ -126,4 +114,6 @@ Jane Yang
 [Mike Wu](https://www.mikehwu.com/), _Stanford_ \\
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
-
+### Undergraduate Alumni
+David Guirgus \\
+Julia Xu \\
