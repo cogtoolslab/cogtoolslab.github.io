@@ -5,11 +5,13 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***Nov. 4, 2021:*** Judy Fan will give an invited talk at the ["Beyond the Button Press: Studying the Mind Through Drawings" Symposium](https://www.psychonomic.org/page/2021symposia) at the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
+***November 4, 2021:*** Judy Fan will give an invited talk at the ["Beyond the Button Press: Studying the Mind Through Drawings" Symposium](https://www.psychonomic.org/page/2021symposia) at the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
 
-***Nov. 1, 2021:*** Judy Fan will give a keynote talk at the [Configural Processing Consortium](http://www.wright.edu/event/configural-processing-consortium) meeting, co-located with the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
+***November 1, 2021:*** Judy Fan will give a keynote talk at the [Configural Processing Consortium](http://www.wright.edu/event/configural-processing-consortium) meeting, co-located with the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
 
-***Oct. 28, 2021:*** Judy Fan will give an invited talk at the [University of Edinburgh Computational Cognitive Science Seminar](https://www.compcogsci.ppls.ed.ac.uk/)!
+***October 28, 2021:*** Judy Fan will give an invited talk at the [University of Edinburgh Computational Cognitive Science Seminar](https://www.compcogsci.ppls.ed.ac.uk/)!
+
+***September 16, 2021:*** We welcome new PhD student [Hannah Lloyd](https://cogtoolslab.github.io/people.html) (PSYC) to the lab!
 
 ***July 26, 2021:*** Judy Fan gave invited talks at the ["Symbolic and sub-symbolic systems in people and machines"](https://sassy-2021.github.io/) and ["Using games to understand intelligence"](https://gamesforintelligence.github.io/) workshops, as well as the "Neural network models of cognition" affinity group at [CogSci 2021](https://cognitivesciencesociety.org/cogsci-2021/)!
 
@@ -55,9 +57,9 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***January 22, 2020:*** Lab undergrads Julia Xu and [Justin Yang](https://cogtoolslab.github.io/people.html) receive Halicioglu Data Science Institute's Undergraduate Scholarships to support their research in the lab!
 
-***Sep 12, 2019:*** We welcome PhD students [Holly Huey](https://cogtoolslab.github.io/people.html) (PSYC), [Will McCarthy](https://cogtoolslab.github.io/people.html) (COGS), and [Haoliang Wang](https://cogtoolslab.github.io/people.html) (PSYC) to the lab! 
+***September 12, 2019:*** We welcome PhD students [Holly Huey](https://cogtoolslab.github.io/people.html) (PSYC), [Will McCarthy](https://cogtoolslab.github.io/people.html) (COGS), and [Haoliang Wang](https://cogtoolslab.github.io/people.html) (PSYC) to the lab! 
 
-***Sep 5, 2019:*** Our paper, [Pragmatic inference and visual abstraction enable contextual flexibility in visual communication](https://cogtoolslab.github.io/pdf/fan_cbb_2019.pdf) has been published in *Computational Brain & Behavior*!
+***September 5, 2019:*** Our paper, [Pragmatic inference and visual abstraction enable contextual flexibility in visual communication](https://cogtoolslab.github.io/pdf/fan_cbb_2019.pdf) has been published in *Computational Brain & Behavior*!
 
 ***July 22, 2019:*** Our paper, [GeoGlot: Learning to Ground Referential Language in Geometry](https://cogtoolslab.github.io/pdf/achlioptas_iccv_2019.pdf) was accepted to the 2019 International Conference on Computer Vision (ICCV)!
 

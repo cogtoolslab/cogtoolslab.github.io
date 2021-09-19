@@ -20,6 +20,13 @@ _Assistant Professor of Psychology_
 
 This could be you! -->
 
+### Lab Manager
+
+![image]({{site.baseurl}}/images/people/YangJ_photo.jpg){: .lab-member-img-little}
+
+Justin Yang
+{: .lab-member-name-plate}
+
 ### Graduate Students
 
 ![image]({{site.baseurl}}/images/people/BinderF_photo.png){: .lab-member-img-little}
@@ -76,7 +83,7 @@ Yi Yang
 
 ### Undergraduate Students
 
-![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
+<!-- ![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
 
 Zhe Huang
 {: .lab-member-name-plate}
@@ -84,12 +91,13 @@ Zhe Huang
 ![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
 
 Sirui Tao
-{: .lab-member-name-plate}
+{: .lab-member-name-plate} -->
 
-![image]({{site.baseurl}}/images/people/YangJ_photo.jpg){: .lab-member-img-little}
-
-Justin Yang
-{: .lab-member-name-plate}
+Zhe Huang \\
+Maneesha Nagabandi \\
+Jacob Schenberg \\
+Sirui Tao \\
+Jane Yang \\
 
 ### Collaborators
 
