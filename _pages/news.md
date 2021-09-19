@@ -5,11 +5,11 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***Nov. 4, 2021*** Judy Fan will give an invited talk at the ["Beyond the Button Press: Studying the Mind Through Drawings" Symposium](https://www.psychonomic.org/page/2021symposia) at the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
+***Nov. 4, 2021:*** Judy Fan will give an invited talk at the ["Beyond the Button Press: Studying the Mind Through Drawings" Symposium](https://www.psychonomic.org/page/2021symposia) at the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
 
-***Nov. 1, 2021*** Judy Fan will give a keynote talk at the [Configural Processing Consortium](http://www.wright.edu/event/configural-processing-consortium) meeting, co-located with the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
+***Nov. 1, 2021:*** Judy Fan will give a keynote talk at the [Configural Processing Consortium](http://www.wright.edu/event/configural-processing-consortium) meeting, co-located with the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
 
-***Oct. 28, 2021*** Judy Fan will give an invited talk at the [University of Edinburgh Computational Cognitive Science Seminar](https://www.compcogsci.ppls.ed.ac.uk/)!
+***Oct. 28, 2021:*** Judy Fan will give an invited talk at the [University of Edinburgh Computational Cognitive Science Seminar](https://www.compcogsci.ppls.ed.ac.uk/)!
 
 ***July 26, 2021:*** Judy Fan gave invited talks at the ["Symbolic and sub-symbolic systems in people and machines"](https://sassy-2021.github.io/) and ["Using games to understand intelligence"](https://gamesforintelligence.github.io/) workshops, as well as the "Neural network models of cognition" affinity group at [CogSci 2021](https://cognitivesciencesociety.org/cogsci-2021/)!
 
