@@ -114,6 +114,6 @@ Jane Yang
 [Mike Wu](https://www.mikehwu.com/), _Stanford_ \\
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
-### Undergraduate Alumni
-David Guirgus \\
-Julia Xu \\
+### Alumni
+David Guirgus (2021 STARS Program) \\
+Julia Xu (2020 HDSI UG Scholar)
