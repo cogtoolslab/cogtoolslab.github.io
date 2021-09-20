@@ -66,10 +66,15 @@ Haoliang Wang
 
 ### Affiliated and Visiting PhD Students
 
-![image]({{site.baseurl}}/images/people/TamariR_photo.jpg){: .lab-member-img-little}
+<!-- ![image]({{site.baseurl}}/images/people/BrockbankE_photo.jpg){: .lab-member-img-little}
+
+[Erik Brockbank](http://www.erikbrockbank.com/)
+{: .lab-member-name-plate} -->
+
+<!-- ![image]({{site.baseurl}}/images/people/TamariR_photo.jpg){: .lab-member-img-little}
 
 [Ronen Tamari](https://ronentk.github.io/)
-{: .lab-member-name-plate}
+{: .lab-member-name-plate} -->
 
 ![image]({{site.baseurl}}/images/people/XuT_photo.png){: .lab-member-img-little}
 
@@ -105,6 +110,7 @@ Jane Yang
 [Kushin Mukherjee](https://kushinm.github.io/), _UW Madison_ \\
 [Ken Norman](https://compmem.princeton.edu/), _Princeton_ \\
 [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/), _UCSD_ \\
+[Dorsa Sadigh](https://dorsa.fyi/), _Stanford_ \\
 [Jordan Suchow](https://suchow.io/), _Stevens Institute of Technology_ \\
 [Jordan Taylor](http://ipalab.princeton.edu/), _Princeton_ \\
 [Nick Turk-Browne](https://ntblab.yale.edu/), _Yale_ \\
