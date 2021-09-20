@@ -107,6 +107,7 @@ Jane Yang
 [George Kachergis](https://kachergis.com/), _Stanford_ \\
 [David Kirsh](http://adrenaline.ucsd.edu/kirsh/), _UCSD_ \\
 [Bria Long](https://www.brialong.com/), _Stanford_ \\
+[Marcelo Mattar](https://mattarlab.ucsd.edu/), _UCSD_ \\
 [Kushin Mukherjee](https://kushinm.github.io/), _UW Madison_ \\
 [Ken Norman](https://compmem.princeton.edu/), _Princeton_ \\
 [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/), _UCSD_ \\
