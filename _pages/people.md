@@ -61,7 +61,7 @@ Hannah Lloyd
 
 ![image]({{site.baseurl}}/images/people/WangH_photo.jpg){: .lab-member-img-little}
 
-Haoliang Wang
+[Haoliang Wang](https://haoliangwang.github.io/)
 {: .lab-member-name-plate}
 
 ### Affiliated and Visiting PhD Students
