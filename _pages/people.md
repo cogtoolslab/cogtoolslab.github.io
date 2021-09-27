@@ -66,12 +66,12 @@ Hannah Lloyd
 
 ### Affiliated and Visiting PhD Students
 
-[image]({{site.baseurl}}/images/people/BrockbankE_photo.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/BrockbankE_photo.jpg){: .lab-member-img-little}
 
 [Erik Brockbank](http://www.erikbrockbank.com/)
 {: .lab-member-name-plate}
 
-[image]({{site.baseurl}}/images/people/TamariR_photo.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/TamariR_photo.jpg){: .lab-member-img-little}
 
 [Ronen Tamari](https://ronentk.github.io/)
 {: .lab-member-name-plate}
