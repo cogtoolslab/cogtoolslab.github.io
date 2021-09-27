@@ -49,7 +49,7 @@ Sebastian Holt
 [Holly Huey](https://hollyhuey.github.io/)
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/LloydH_photo.jpg){: .lab-member-img-little}
 
 Hannah Lloyd
 {: .lab-member-name-plate}
@@ -66,15 +66,15 @@ Hannah Lloyd
 
 ### Affiliated and Visiting PhD Students
 
-<!-- ![image]({{site.baseurl}}/images/people/BrockbankE_photo.jpg){: .lab-member-img-little}
+[image]({{site.baseurl}}/images/people/BrockbankE_photo.jpg){: .lab-member-img-little}
 
 [Erik Brockbank](http://www.erikbrockbank.com/)
-{: .lab-member-name-plate} -->
+{: .lab-member-name-plate}
 
-<!-- ![image]({{site.baseurl}}/images/people/TamariR_photo.jpg){: .lab-member-img-little}
+[image]({{site.baseurl}}/images/people/TamariR_photo.jpg){: .lab-member-img-little}
 
 [Ronen Tamari](https://ronentk.github.io/)
-{: .lab-member-name-plate} -->
+{: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/XuT_photo.png){: .lab-member-img-little}
 
