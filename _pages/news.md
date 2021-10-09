@@ -11,7 +11,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***October 28, 2021:*** Judy Fan will give an invited talk at the [University of Edinburgh Computational Cognitive Science Seminar](https://www.compcogsci.ppls.ed.ac.uk/)!
 
-***September 16, 2021:*** We welcome new PhD student [Hannah Lloyd](https://cogtoolslab.github.io/people.html) (PSYC) to the lab! Also, [Justin Yang](https://cogtoolslab.github.io/people.html) will be inaugurating the role of lab manager!
+***September 16, 2021:*** We welcome new PhD student [Hannah Lloyd](https://cogtoolslab.github.io/people.html) (PSYC) to the lab! Also, [Justin Yang](https://cogtoolslab.github.io/people.html) will be inaugurating the role of lab manager!!
 
 ***July 26, 2021:*** Judy Fan gave invited talks at the ["Symbolic and sub-symbolic systems in people and machines"](https://sassy-2021.github.io/) and ["Using games to understand intelligence"](https://gamesforintelligence.github.io/) workshops, as well as the "Neural network models of cognition" affinity group at [CogSci 2021](https://cognitivesciencesociety.org/cogsci-2021/)!
 
