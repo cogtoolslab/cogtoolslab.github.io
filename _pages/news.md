@@ -5,41 +5,48 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***November 4, 2021:*** Judy Fan will give an invited talk at the ["Beyond the Button Press: Studying the Mind Through Drawings" Symposium](https://www.psychonomic.org/page/2021symposia) at the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
+***December 7, 2021:*** Judy Fan discusses compositionality with other panelists as part of the ["Out-of-distribution generalization and adaptation
+in natural and artificial intelligence"](https://docs.neurodata.io/ood-workshop/index) workshop at NeurIPS 2021!
 
-***November 1, 2021:*** Judy Fan will give a keynote talk at the [Configural Processing Consortium](http://www.wright.edu/event/configural-processing-consortium) meeting, co-located with the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
+***November 17, 2021:*** Judy Fan is a guest on the Oscillations Art podcast on the episode, ["Cognitive technologies for communication,"](https://podcasts.apple.com/us/podcast/cognitive-technologies-for-communication-with-dr-judy-fan/id1536497251?i=1000542187371) featuring research from the lab!
 
-***October 28, 2021:*** Judy Fan will give an invited talk at the [University of Edinburgh Computational Cognitive Science Seminar](https://www.compcogsci.ppls.ed.ac.uk/)!
+***November 5, 2021:*** Judy Fan gives an invited talk at the ["Beyond the Button Press: Studying the Mind Through Drawings" Symposium](https://www.psychonomic.org/page/2021symposia) at the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
 
-***September 16, 2021:*** We welcome new PhD student [Hannah Lloyd](https://cogtoolslab.github.io/people.html) (PSYC) to the lab! Also, [Justin Yang](https://cogtoolslab.github.io/people.html) will be inaugurating the role of lab manager!!
+***November 1, 2021:*** Judy Fan gives a keynote talk at the [Configural Processing Consortium](http://www.wright.edu/event/configural-processing-consortium) meeting, co-located with the [62nd Annual Meeting of the Psychonomics Society](https://www.psychonomic.org/page/2021annualmeeting)!
 
-***July 26, 2021:*** Judy Fan gave invited talks at the ["Symbolic and sub-symbolic systems in people and machines"](https://sassy-2021.github.io/) and ["Using games to understand intelligence"](https://gamesforintelligence.github.io/) workshops, as well as the "Neural network models of cognition" affinity group at [CogSci 2021](https://cognitivesciencesociety.org/cogsci-2021/)!
+***October 28, 2021:*** Judy Fan gives an invited talk at the [University of Edinburgh Computational Cognitive Science Seminar](https://www.compcogsci.ppls.ed.ac.uk/)!
 
-***June 27, 2021:*** Judy Fan gave an invited talk at the [Diverse Intelligences Summer Institute](https://disi.org/). Watch it [here](https://vimeo.com/showcase/8488341/video/570693646).
+***October 8, 2021:*** Judy Fan gives an invited talk as part of the [Neurosym seminar series](http://www.neurosymbolic.org/)!
 
-***June 19, 2021:*** Judy Fan gave an invited talk at the [1st Annual Sketch-Oriented Deep Learning (SketchDL) Workshop](https://sketchdl.github.io/) at the Conference on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2021.thecvf.com/)).
+***September 16, 2021:*** We welcome new PhD student [Hannah Lloyd](https://cogtoolslab.github.io/people.html) (PSYC) to the lab! Also, [Justin Yang](https://cogtoolslab.github.io/people.html) will be inaugurating the role of lab manager!
 
-***June 18, 2021:*** Judy Fan gave an invited talk at the [Wellcome Centre for Neuroimaging](https://www.fil.ion.ucl.ac.uk/). 
+***July 26, 2021:*** Judy Fan gives invited talks at the ["Symbolic and sub-symbolic systems in people and machines"](https://sassy-2021.github.io/) and ["Using games to understand intelligence"](https://gamesforintelligence.github.io/) workshops, as well as the "Neural network models of cognition" affinity group at [CogSci 2021](https://cognitivesciencesociety.org/cogsci-2021/)!
+
+***June 27, 2021:*** Judy Fan gives an invited talk at the [Diverse Intelligences Summer Institute](https://disi.org/). Watch it [here](https://vimeo.com/showcase/8488341/video/570693646).
+
+***June 19, 2021:*** Judy Fan gives an invited talk at the [1st Annual Sketch-Oriented Deep Learning (SketchDL) Workshop](https://sketchdl.github.io/) at the Conference on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2021.thecvf.com/)).
+
+***June 18, 2021:*** Judy Fan gives an invited talk at the [Wellcome Centre for Neuroimaging](https://www.fil.ion.ucl.ac.uk/). 
 
 ***May 20, 2021***: Congratulations to Zhe Huang on receiving a 2021 [Triton Research & Experiential Learning Scholars (TRELS)](https://ugresearch.ucsd.edu/research-programs/trels/index.html) summer research fellowship! Congratulations also to Xuanchen Lu for receiving a Research Perseverance During COVID Award from the UCSD Department of Psychology!
 
 ***April 13, 2021:*** We had 10 papers accepted to the [2021 Cognitive Science Society Annual Meeting](https://cognitivesciencesociety.org/cogsci-2021/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details.
 
-***April 9, 2021:*** Judy Fan gave a virtual talk as part of [University of Wisconsin-Madison's HAMLET (Human, Animal, and Machine Learning: Experiment and Theory) seminar series](https://lucid.wisc.edu/hamlet/).
+***April 9, 2021:*** Judy Fan gives a virtual talk as part of [University of Wisconsin-Madison's HAMLET (Human, Animal, and Machine Learning: Experiment and Theory) seminar series](https://lucid.wisc.edu/hamlet/).
 
 ***April 6, 2021:*** Judy Fan was awarded a [National Science Foundation Faculty Early Career Development (CAREER) Award](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503214) for the proposal, ["Mechanisms enabling the flexible expression of visual concepts."](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2047191&HistoricalAwards=false)
 
-***February 24, 2021:*** Judy Fan gave a virtual colloquium talk at [Brown University's Department of Cognitive, Linguistic & Psychological Sciences](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home).
+***February 24, 2021:*** Judy Fan gives a virtual colloquium talk at [Brown University's Department of Cognitive, Linguistic & Psychological Sciences](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home).
 
-***December 7, 2020:*** Judy Fan gave an invited talk at the [University of Michigan's Institute for Cognitive Science](https://lsa.umich.edu/weinberginstitute)!
+***December 7, 2020:*** Judy Fan gives an invited talk at the [University of Michigan's Institute for Cognitive Science](https://lsa.umich.edu/weinberginstitute)!
 
 ***December 1, 2020:*** Judy Fan and Dorsa Sadigh were awarded a research grant from the [Office of Naval Research: Science of Autonomy](https://www.onr.navy.mil/en/Science-Technology/Departments/Code-35/All-Programs/aerospace-science-research-351/science-of-autonomy) for the proposal, "Harnessing human intelligence for adaptive human-robot collaboration."
 
 ***October 29, 2020:*** Our paper, Emergence of compositional abstractions in human collaborative assembly, was accepted for presentation at the [NeurIPS Workshop on Object Representations for Learning and Reasoning](https://orlrworkshop.github.io/)!
 
-***July 12, 2020:*** Judy Fan gave an invited talk at the [Workshop on Emergent Behaviors in Human-Robot Systems at Robotics: Science & Systems](https://iliad.stanford.edu/rss-workshop/)!
+***July 12, 2020:*** Judy Fan gives an invited talk at the [Workshop on Emergent Behaviors in Human-Robot Systems at Robotics: Science & Systems](https://iliad.stanford.edu/rss-workshop/)!
 
-***June 30, 2020:*** Judy Fan gave an invited talk at the [USC School of Philosophy's Mind and Language Seminar Series](https://dornsife.usc.edu/phil/mind-language/)!
+***June 30, 2020:*** Judy Fan gives an invited talk at the [USC School of Philosophy's Mind and Language Seminar Series](https://dornsife.usc.edu/phil/mind-language/)!
 
 ***June 22, 2020:*** Our paper, Rapid policy updating in human physical construction, was accepted for a spotlight presentation at the [ICML Workshop on Object-Oriented Learning](https://oolworkshop.github.io/)!
 
