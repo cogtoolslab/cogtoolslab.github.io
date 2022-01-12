@@ -5,6 +5,8 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+***December 10, 2021***: Congratulations to Sirui Tao and Jane Yang on receiving a 2022 [Triton Research & Experiential Learning Scholars (TRELS)](https://ugresearch.ucsd.edu/research-programs/trels/index.html) research fellowship to continue their research in the lab!
+
 ***December 7, 2021:*** Judy Fan participates in a panel discussion on compositionality as part of the ["Out-of-distribution generalization and adaptation in natural and artificial intelligence"](https://docs.neurodata.io/ood-workshop/index) workshop at NeurIPS 2021!
 
 ***November 17, 2021:*** Judy Fan is a guest on the Oscillations Art podcast on the episode, ["Cognitive technologies for communication,"](https://podcasts.apple.com/us/podcast/cognitive-technologies-for-communication-with-dr-judy-fan/id1536497251?i=1000542187371) featuring research from the lab!
