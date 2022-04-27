@@ -5,23 +5,15 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***October 23-27, 2022***: Judy Fan presents as an invited speaker at a workshop on objects in ["Visual Object-oriented Learning meets Interaction (VOLI): Discovery, Representations, and Applications"](https://geometry.stanford.edu/voli/) at ECCV 2022.
+***October 23, 2022***: Judy Fan is giving an invited talk at the ["Visual Object-oriented Learning meets Interaction (VOLI): Discovery, Representations, and Applications"](https://geometry.stanford.edu/voli/) workshop at [European Conference on Computer Vision](https://eccv2022.ecva.net/)!
 
-***July 27, 2022***: Judy Fan and Holly Huey organize a workshop on understanding how humans use drawings to communicate knowledge as part of the ["From Images to Symbols: Drawing as a Window into the Mind"](https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1270-cogsci22a-sub1270-i10.pdf) workshop at CogSci 2022!
+***August 8, 2022:*** Judy Fan will again be participating as a faculty member at the [Diverse Intelligences Summer Institute](https://disi.org/).
 
-***June 20, 2022***: Judy Fan organizes a workshop titled ["Sketch-Oriented Deep Learning (SketchDL)"](https://sketchdl.github.io/) at CVPR 2022.
+***July 18, 2022:*** Judy Fan is giving an invited talk at the Max-Planck Institute for Biological Cybernetics.
 
-***June 20, 2022***: Judy Fan presents at the ["Artificial Social Intelligence Workshop"](https://sites.google.com/berkeley.edu/artificial-social-intelligence) at CVPR 2022.
+***June 20, 2022***: Judy Fan is co-organizing a workshop on ["Sketch-Oriented Deep Learning (SketchDL)"](https://sketchdl.github.io/) at the Conference on Computer Vision and Pattern Recognition ([CVPR](ttps://cvpr2022.thecvf.com/))! She is also giving an invited talk at a workshop on ["Artificial Social Intelligence"](https://sites.google.com/berkeley.edu/artificial-social-intelligence), as well as a tutorial on Graph Machine Learning for Visual Computing.
 
-<!-- ***April 12, 2022***: Our paper, LAX, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Will McCarthy, Jack Terwilliger, and Judy Fan for their work! -->
-
-***April 12, 2022***: Our paper, Developmental changes in the semantic part structure of drawn objects, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Holly Huey, Justin Yang, and Judy Fan for their work!
-
-***April 12, 2022***: Our paper, Communicating understanding of physical dynamics in natural language, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Haoliang Wang, Jane Yang, Ronen Tamari, and Judy Fan for their work!
-
-***April 12, 2022***: Our paper, Learning composable world models for physical prediction, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Haoliang Wang and Judy Fan for their work!
-
-***April 12, 2022***: Our paper, How do people incorporate advice from artificial agents when making physical judgments?, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Erik Brockbank, Haoliang Wang, Justin Yang, and Judy Fan for their work!
+***April 12, 2022***: We had 5 papers accepted to the [2022 Cognitive Science Society Annual Meeting](https://cognitivesciencesociety.org/cogsci-2022/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details. Holly Huey and Judy Fan are also co-organizing a pre-conference workshop, ["From Images to Symbols: Drawing as a Window into the Mind"](https://cognitivesciencesociety.org/workshops/).
 
 ***April 1, 2022***: Congratulations to Justin Yang on being awarded a 2022 NSF Graduate Research Fellowship!
 
