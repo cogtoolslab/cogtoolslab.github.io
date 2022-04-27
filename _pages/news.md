@@ -13,7 +13,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***June 20, 2022***: Judy Fan presents at the ["Artificial Social Intelligence Workshop"](https://sites.google.com/berkeley.edu/artificial-social-intelligence) at CVPR 2022.
 
-***April 12, 2022***: Our paper, LAX, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Will McCarthy, Jack Terwilliger, and Judy Fan for their work!
+<!-- ***April 12, 2022***: Our paper, LAX, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Will McCarthy, Jack Terwilliger, and Judy Fan for their work! -->
 
 ***April 12, 2022***: Our paper, Developmental changes in the semantic part structure of drawn objects, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Holly Huey, Justin Yang, and Judy Fan for their work!
 
