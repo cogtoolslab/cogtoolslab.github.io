@@ -13,19 +13,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***June 20, 2022***: Judy Fan is co-organizing a workshop on ["Sketch-Oriented Deep Learning (SketchDL)"](https://sketchdl.github.io/) at the Conference on Computer Vision and Pattern Recognition ([CVPR](ttps://cvpr2022.thecvf.com/))! She is also giving an invited talk at a workshop on ["Artificial Social Intelligence"](https://sites.google.com/berkeley.edu/artificial-social-intelligence), as well as a tutorial on Graph Machine Learning for Visual Computing.
 
-<<<<<<< HEAD
 ***April 12, 2022***: We had 5 papers accepted to the [2022 Cognitive Science Society Annual Meeting](https://cognitivesciencesociety.org/cogsci-2022/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details. Holly Huey and Judy Fan are also co-organizing a pre-conference workshop, ["From Images to Symbols: Drawing as a Window into the Mind"](https://cognitivesciencesociety.org/workshops/).
-=======
-***April 12, 2022***: Our paper, LAX, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Will McCarthy, Jack Terwilliger, and Judy Fan for their work!
-
-***April 12, 2022***: Our paper, Developmental changes in the semantic part structure of drawn objects, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Holly Huey, Justin Yang, and Judy Fan for their work!
-
-***April 12, 2022***: Our paper, Communicating understanding of physical dynamics in natural language, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Haoliang Wang, Jane Yang, Ronen Tamari, and Judy Fan for their work!
-
-***April 12, 2022***: Our paper, Learning composable world models for physical prediction, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Haoliang Wang and Judy Fan for their work!
-
-***April 12, 2022***: Our paper, How do people incorporate advice from artificial agents when making physical judgments?, has been accepted for oral presentation at the 2022 Cognitive Science Society Meeting! Congratulations to Erik Brockbank, Haoliang Wang, Justin Yang, and Judy Fan for their work!
->>>>>>> parent of bb44a4c... Build site at 2022-04-27 00:19:38 UTC
 
 ***April 1, 2022***: Congratulations to Justin Yang on being awarded a 2022 NSF Graduate Research Fellowship!
 
