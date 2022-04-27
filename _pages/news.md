@@ -11,7 +11,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***July 18, 2022:*** Judy Fan is giving an invited talk at the Max-Planck Institute for Biological Cybernetics.
 
-***June 20, 2022***: Judy Fan is co-organizing a workshop on ["Sketch-Oriented Deep Learning (SketchDL)"](https://sketchdl.github.io/) at the Conference on Computer Vision and Pattern Recognition ([CVPR](ttps://cvpr2022.thecvf.com/))! She is also giving an invited talk at a workshop on ["Artificial Social Intelligence"](https://sites.google.com/berkeley.edu/artificial-social-intelligence), as well as a tutorial on Graph Machine Learning for Visual Computing.
+***June 20, 2022***: Judy Fan is co-organizing a workshop on ["Sketch-Oriented Deep Learning (SketchDL)"](https://sketchdl.github.io/) at the Conference on Computer Vision and Pattern Recognition ([CVPR](ttps://cvpr2022.thecvf.com/))! She is also giving an invited talk at a workshop on ["Artificial Social Intelligence"](https://sites.google.com/berkeley.edu/artificial-social-intelligence), as well a talk at a tutorial on Graph Machine Learning for Visual Computing.
 
 ***April 12, 2022***: We had 5 papers accepted to the [2022 Cognitive Science Society Annual Meeting](https://cognitivesciencesociety.org/cogsci-2022/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details. Holly Huey and Judy Fan are also co-organizing a pre-conference workshop, ["From Images to Symbols: Drawing as a Window into the Mind"](https://cognitivesciencesociety.org/workshops/)!
 
