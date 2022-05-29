@@ -87,7 +87,7 @@ Xuanchen (Charles) Lu
 
 ### Current Undergraduate Students
 
-Maneesha Nagabandi \\
+Zoe Tait  \\
 Sirui Tao \\
 Jane Yang
 
@@ -123,6 +123,7 @@ Jane Yang
 David Guirgus (2021 STARS Program) \\
 Julia Xu (2020 HDSI UG Scholar) \\
 Zhe Huang (2021 TRELS Scholar) \\
+
 
 
 
