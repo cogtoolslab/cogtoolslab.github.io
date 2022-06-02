@@ -11,7 +11,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***July 18, 2022:*** Judy Fan is giving an invited talk at the Max-Planck Institute for Biological Cybernetics.
 
-***June 20, 2022***: Judy Fan is co-organizing a workshop on ["Sketch-Oriented Deep Learning (SketchDL)"](https://sketchdl.github.io/) at the Conference on Computer Vision and Pattern Recognition ([CVPR](ttps://cvpr2022.thecvf.com/))! She is also giving an invited talk at a workshop on ["Artificial Social Intelligence"](https://sites.google.com/berkeley.edu/artificial-social-intelligence), as well a talk at a tutorial on Graph Machine Learning for Visual Computing.
+***June 20, 2022***: Judy Fan is co-organizing a workshop on ["Sketch-Oriented Deep Learning (SketchDL)"](https://sketchdl.github.io/) at the Conference on Computer Vision and Pattern Recognition ([CVPR](ttps://cvpr2022.thecvf.com/))! She is also giving an invited talk at a workshop on ["Artificial Social Intelligence"](https://sites.google.com/berkeley.edu/artificial-social-intelligence), as well a talk at a tutorial on [Graph Machine Learning for Visual Computing](https://gml4vc.github.io/).
 
 ***May 27, 2022***: Congratulations to Zoe Tait on being awarded a Summer URS Chancellor's Research Scholarship for Social Sciences! 
 
