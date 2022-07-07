@@ -89,7 +89,7 @@ Xuanchen (Charles) Lu
 
 Zoe Tait  \\
 Sirui Tao \\
-Jane Yang
+
 
 ### Collaborators
 
@@ -123,6 +123,7 @@ Jane Yang
 David Guirgus (2021 STARS Program) \\
 Julia Xu (2020 HDSI UG Scholar) \\
 Zhe Huang (2021 TRELS Scholar) \\
+Jane Yang (Honors Thesis, 2022 TRELS Scholar)
 
 
 
