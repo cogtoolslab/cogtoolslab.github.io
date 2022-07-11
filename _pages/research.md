@@ -9,55 +9,8 @@ featured_image: /images/3dobjects/pigeon.jpg
 
 > How does the human mind transform a cascade of sensory information into meaningful knowledge? 
 
-While traditional approaches to learning focus on how people process the data provided to them by the world, this approach leaves aside all of the powerful tools people have to actively reformat their experiences and generate new ones. For example, we choose what to look at, bring certain memories to mind, produce pictures to share, and compose stories to tell. The goal of our research is to "reverse engineer" the core mechanisms by which employing such cognitive tools affects how we perceive and understand the world.
+In the 17th century, the Cartesian coordinate system was groundbreaking. It exposed the unity between two branches of mathematics — algebra and geometry — accelerating the development of the mathematics that took humans to the moon. Yet in the 21st century, this coordinate system is taught in elementary school. A similar story can be told for virtually every domain of scientific knowledge: the phylogenetic tree in biology, the periodic table in chemistry, the formulation of expected utility in behavioral science. Far from inert concepts, these examples may be better thought of as cognitive tools that help people to think and act more effectively. These tools help not only in the moment, but also by catalyzing the expansion of our shared conceptual repertoire over time, and by empowering us to reimagine and remake the world in profound ways.
 
-As a case study, our recent work seeks to understand human visual communication. This encompasses behaviors from informal sketching to formal scientific visualization, and its applications to education, user interface design, and assistive technologies.
+Our research seeks to develop a unifying framework for understanding the core cognitive mechanisms and functional pressures that explain how such useful abstractions get off the ground and how people harness them so creatively across domains. 
 
-> Overview of some of our recent projects
-
-### Common object representations for visual production and visual recognition
-
-From ancient etchings on cave walls to modern digital displays, the ability to externalize our thoughts in visual form lies at the heart of key human innovations (e.g., painting, cartography, data visualization). 
-Perhaps the most basic and versatile visualization technique is drawing, the earliest examples of which date to at least 40,000 years ago, and which can yield images ranging from photorealistic renderings to schematic diagrams. 
-
-How do we convey concepts in visual form, and how does refining this skill, in turn, affect recognition? 
-
-![image]({{site.baseurl}}/images/research/model_features_learning.png){: .research-icons}
-
-We developed an online platform for collecting large amounts of drawing and recognition data, and applied a deep convolutional neural network model of visual cortex trained only on natural images to explore the hypothesis that drawing recruits the same abstract feature representations that support natural visual object recognition (Panel **A**, above). 
-Consistent with this hypothesis, higher layers of this model captured the abstract features of both drawings and natural images most important for recognition (Panel **B**), and people
-learning to produce more recognizable drawings of objects exhibited enhanced recognition of
-those objects (Panel **C**). 
-These findings could explain why drawing is so effective for communicating visual
-concepts, they suggest novel approaches for evaluating and refining conceptual knowledge, and
-they highlight the potential of deep networks for understanding human learning.
-
-
-Fan, J., Yamins, D., and Turk-Browne, N. (2018). [Common object representations for visual production and recognition.](https://cogtoolslab.github.io/pdf/fan_cs_2018.pdf) _Cognitive Science._ 
-
-### Visual content and social context jointly determine pictorial meaning
-
-![image]({{site.baseurl}}/images/research/sketch_gallery.png){: .research-icons}
-
-Drawing is a versatile technique for visual communication, ranging from photorealistic renderings to schematic diagrams consisting entirely of symbols. How does a medium spanning such a broad range of appearances reliably convey meaning?
-
-On the one hand, recent work in computational vision has found that the identity of an object depicted in a drawing can be derived from its visual properties alone. On the other hand, classic work in aesthetics has emphasized the role of cultural and social context in determining how drawings denote objects. 
-
-Towards reconciling these perspectives, we recently conducted two studies exploring the hypothesis that visual information and social context jointly determine the correspondence between a drawing and the object it depicts. Both studies used a graphical reference game paradigm where participants were paired in an online environment and communicated with their partner only via a drawing canvas. The sketcher's goal on each trial was to draw a particular object — the target — so that the viewer could select it from an array of distractors visible to both participants. 
-
-Our findings show that both visual information and social context are crucial for determining how drawings derive referential meaning during visual communication, and suggest that a critical factor affecting the balance between the two may be the type and amount of shared knowledge between communicators. More broadly, elucidating the cognitive mechanisms that underlie our ability to produce and interpret images across a wide range of visual abstraction may shed light on the nature of our ability to apprehend meaning from visual artifacts, and on the sources of cultural variation in pictorial style.
-
-![image]({{site.baseurl}}/images/research/repeated_reference.png){: .research-icons}
-
-Fan, J., Hawkins, R., Wu, M., and Goodman, N. (2019). [Pragmatic inference and visual abstraction enable contextual flexibility in visual communication.](https://cogtoolslab.github.io/pdf/fan_context_ms.pdf)) _Computational Brain & Behavior._
-
-Hawkins, R., Sano, M., Goodman, N., and Fan, J. (2019). [Graphical convention formation during visual communication.](https://cogtoolslab.github.io/pdf/hawkinssano_cogsci_2019.pdf) _Cognitive Science Society Proceedings._
-
-
-<!-- My empirical work explores how informal sketching in particular can open a wide window into how perception, action planning, and social cognition functionally interact in the brain, leading to a more unified understanding of how multiple neural systems are coordinated during complex, natural behaviors.
-
-My computational work focuses on building algorithms that perform realistically complex tasks, such as real-time visual communication — also validated against detailed measurements of behavior and neural function.
-
-In the long term, this approach aims to: (1) accelerate scientific progress by providing in silico substrates for investigating how large-scale brain systems are altered by development, learning, and disease; and (2) develop engineering applications, including more intuitive, interactive visualization tools for education and research, as well as assistive technologies for individuals with communication difficulties. -->
-
-
+To learn more about our ongoing research projects, please check out our recent [publications](https://cogtoolslab.github.io/papers.html).

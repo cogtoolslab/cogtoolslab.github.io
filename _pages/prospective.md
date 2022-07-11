@@ -7,7 +7,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 The Cognitive Tools Lab is always on the lookout for outstanding postdocs and graduate students. This document will give you a sense for what we are looking for in a prospective lab member, and what the next steps to take are. Please read it in its entirety before contacting Dr. Fan to ask about doing research.
 
-**Please note: Dr. Fan will not be recruiting new PhD students planning to start in Fall 2022. In rare circumstances, however, she will consider co-advising arrangements with other UCSD faculty.**
+**Dr. Fan is actively recruiting both postdocs and graduate students to start in Fall 2023.**
 
 ### What We Are Looking For
 
@@ -32,22 +32,23 @@ To learn more about the expectations we have of all members of the lab, includin
 
 ### Prospective PhD Students and Postdocs
 
-If you are not currently at UCSD but are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@ucsd.edu). 
+If you are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@ucsd.edu). 
 While she cannot guarantee a reply, she will do her best to respond and discuss with you whether the lab might be a good fit. 
 
-If you are a prospective PhD student and following this discussion you continue to be interested in joining the lab, please submit an application to our [PhD program in Psychology](https://psychology.ucsd.edu/graduate-program/index.html). 
+If you are a prospective PhD student and following this discussion you continue to be interested in joining the lab, please submit an application to the [Stanford PhD Program in Psychology](https://psychology.stanford.edu/admissions/phd-admissions). 
 Likewise, if you are a prospective postdoc and we agree that the lab would be a good fit, we will discuss potential sources of funding and go from there. 
 
-### Current UCSD Graduate Students
+### Current UCSD/Stanford Graduate Students
 
-Current UCSD graduate students are also welcome to work on projects in the lab, even if you are not affiliated with the Psychology department.
+Current UCSD/Stanford graduate students are also welcome to work on projects in the lab, even if you are not affiliated with the Psychology department.
 <!-- In the past, we have hosted PhD, Masters, and undergraduate students hailing from several departments, including Psychology, Cognitive Science, Computer Science & Engineering,  and Neurosciences. -->
 
-A good way to figure out whether the lab would be a good fit is for you to take one of Dr. Fan's graduate courses, e.g., PSYC 230: Computational Approaches to Visual Abstraction. 
+A good way to figure out whether the lab would be a good fit is for you to take one of Dr. Fan's graduate courses.
+<!-- , e.g., PSYC 230: Computational Approaches to Visual Abstraction.  -->
 This gives you a chance to see how she works with students, and it lets her see your working style. 
 If this isn't feasible due to timing, please send Dr. Fan an [email](mailto:jefan@ucsd.edu) so we can arrange for an alternative way to evaluate fit.
-Another easy way to get in touch with Dr. Fan is to stop by her Zoom office hours. 
-Please do not be shy about sending a quick email to introduce yourself and ask for the Zoom link. 
+<!-- Another easy way to get in touch with Dr. Fan is to stop by her Zoom office hours.  -->
+<!-- Please do not be shy about sending a quick email to introduce yourself and ask for the Zoom link.  -->
 
 Scientific research is unpredictable and can take up a lot of time. 
 If this will be your first academic quarter working on a project in the lab, you should expect to spend at minimum 15 hours a week working on our research projects --- so if you are swamped with other commitments, consider joining the lab another quarter.
@@ -56,7 +57,7 @@ If you think you might be a good fit after reading all of the above, send Dr. Fa
 - ***Why do you want to do research?***  
 Both in general, and in this specific field.
 - ***Why do you want to do research with me?***  
-There are many great labs here at UCSD. Why do you want to work in our lab, specifically? It'd be a good idea to look through our recent publications. If a particular publication was of interest to you, please share specific details about what aspects interested you and how these aspects connect to your own research interests/experience. 
+There are many great labs at UCSD/Stanford. Why do you want to work in our lab, specifically? It'd be a good idea to look through our recent publications. If a particular publication was of interest to you, please share specific details about what aspects interested you and how these aspects connect to your own research interests/experience. 
 - ***What relevant skills do you have?***  
 Also please describe experience you have with the particular skills listed at the top of this page, and provide some specific evidence (e.g. links to Github repos for recent projects, papers or reports you've written).
 
@@ -65,7 +66,7 @@ Please contact Dr. Fan during the quarter before the one in which you want to do
 ### Current UCSD Undergraduate Students
 
 If you are a current UCSD undergraduate student and interested in being considered for potential research opportunities in the lab, your first step should be to complete the [Psychology Undergraduate Research Assistant Common Application (PSYURACA)](https://psychology.ucsd.edu/undergraduate-program/research/index.html) during the quarter before the one in which you want to start working in the lab. 
-In the meantime, a good way for you to figure out whether the lab is a good fit for you is to take PSYC 193: Perception & Computation.
+In the meantime, a good way for you to figure out whether the lab is a good fit for you is to take PSYC 193L: Perception & Computation.
 If you have an especially strong interest in working in the lab, in addition to completing the Common Application, please also feel free to reach out to Dr. Fan via [email](mailto:jefan@ucsd.edu), with some brief responses to the same questions from the section above. 
 
 ### Acknowledgments

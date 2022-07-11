@@ -5,10 +5,12 @@ description:
 featured_image: /images/misc/geisel_library.jpg
 ---
 
-The Cognitive Tools Lab is directed by [Prof. Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) and located in the [UC San Diego Department of Psychology](https://psychology.ucsd.edu/). 
+The Cognitive Tools Lab is directed by [Prof. Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) and currently located in the [UC San Diego Department of Psychology](https://psychology.ucsd.edu/). 
 
-Our research addresses questions at the intersection of computational neuroscience, cognitive science, and AI. 
+**In July 2023, the lab will move to the [Stanford Department of Psychology](https://psychology.stanford.edu/). It will also maintain a presence at UC San Diego while several of our lab members continue their graduate studies.**
 
-Fundamentally, we are interested in how humans learn. While traditional approaches to learning focus on how people process the data provided to them by the world, this approach leaves aside all of the powerful tools people have to actively reformat their experiences and generate new ones. For example, we choose what to look at, bring certain memories to mind, produce pictures to share, and compose stories to tell. The goal of our research is to "reverse engineer" the core mechanisms by which employing such cognitive tools affects how we perceive and understand the world.
+Our lab employs converging approaches from cognitive science, computational neuroscience, and artificial intelligence to reverse engineer the human cognitive toolkit, especially how people use physical representations of thought —- such as sketches and prototypes —- to learn, communicate, and solve problems.
 
 ![](/images/misc/geisel_library.jpg)
+
+![](/images/misc/stanford_oval.jpeg)
