@@ -34,11 +34,6 @@ Justin Yang
 [Felix Binder](http://ac.felixbinder.net/)
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/HoldawayC_photo.jpg){: .lab-member-img-little}
-
-Cameron Holdaway
-{: .lab-member-name-plate}
-
 ![image]({{site.baseurl}}/images/people/HoltS_photo.jpg){: .lab-member-img-little}
 
 Sebastian Holt
@@ -76,6 +71,11 @@ Hannah Lloyd
 [Ronen Tamari](https://ronentk.github.io/)
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/TerwilligerJ_photo.jpeg){: .lab-member-img-little}
+
+[Jack Terwilliger](http://jackterwilliger.com/)
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/XuT_photo.png){: .lab-member-img-little}
 
 [Tone Xu](http://acsweb.ucsd.edu/~xix138/)
@@ -89,7 +89,6 @@ Xuanchen (Charles) Lu
 
 Zoe Tait  \\
 Sirui Tao \\
-
 
 ### Collaborators
 
@@ -120,10 +119,12 @@ Sirui Tao \\
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Alumni
+Cameron Holdaway (Masters; now at Apple) \\
+Jane Yang (Honors Thesis, 2022 TRELS Scholar; now: [Developmental Intelligence Lab](https://www.la.utexas.edu/users/dil/pub.html)) \\
 David Guirgus (2021 STARS Program) \\
-Julia Xu (2020 HDSI UG Scholar) \\
 Zhe Huang (2021 TRELS Scholar) \\
-Jane Yang (Honors Thesis, 2022 TRELS Scholar)
+Julia Xu (2020 HDSI UG Scholar) \\
+
 
 
 
