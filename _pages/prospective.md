@@ -33,10 +33,9 @@ To learn more about the expectations we have of all members of the lab, includin
 ### Prospective PhD Students and Postdocs
 
 If you are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@ucsd.edu). 
-While she cannot guarantee a reply, she will do her best to respond and discuss with you whether the lab might be a good fit. 
+She will do her best to respond and discuss with you whether the lab might be a good fit. 
 
-If you are a prospective PhD student and following this discussion you continue to be interested in joining the lab, please submit an application to the [Stanford PhD Program in Psychology](https://psychology.stanford.edu/admissions/phd-admissions). 
-Likewise, if you are a prospective postdoc and we agree that the lab would be a good fit, we will discuss potential sources of funding and go from there. 
+PhD applicants, please note that it may not always be possible to schedule a Zoom call prior to the application deadline. If you are interested in joining the lab as a PhD student, please submit an application to the Stanford PhD Program in Psychology](https://psychology.stanford.edu/admissions/phd-admissions) and indicate your interest in the lab on the form to ensure that Dr. Fan will receive & read it!
 
 ### Current UCSD/Stanford Graduate Students
 
