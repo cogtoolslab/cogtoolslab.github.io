@@ -88,7 +88,7 @@ Xuanchen (Charles) Lu
 ### Current Undergraduate Students
 
 Zoe Tait  \\
-Sirui Tao \\
+Sirui Tao
 
 ### Collaborators
 
@@ -123,7 +123,7 @@ Cameron Holdaway (Masters; now at Apple) \\
 Jane Yang (Honors Thesis, 2022 TRELS Scholar; now: [Developmental Intelligence Lab](https://www.la.utexas.edu/users/dil/pub.html)) \\
 David Guirgus (2021 STARS Program) \\
 Zhe Huang (2021 TRELS Scholar) \\
-Julia Xu (2020 HDSI UG Scholar) \\
+Julia Xu (2020 HDSI UG Scholar)
 
 
 
