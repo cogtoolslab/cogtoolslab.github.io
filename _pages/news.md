@@ -7,6 +7,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***October 23, 2022***: Judy Fan is giving an invited talk at the ["Visual Object-oriented Learning meets Interaction (VOLI): Discovery, Representations, and Applications"](https://geometry.stanford.edu/voli/) workshop at [European Conference on Computer Vision](https://eccv2022.ecva.net/)!
 
+***October 17, 2022:*** Judy Fan is giving an invited talk at the [University of California, Merced](https://cogsci.ucmerced.edu/).
+
 ***August 8, 2022:*** Judy Fan will again be participating as a faculty member at the [Diverse Intelligences Summer Institute](https://disi.org/).
 
 ***July 18, 2022:*** Judy Fan is giving an invited talk at the Max-Planck Institute for Biological Cybernetics.
