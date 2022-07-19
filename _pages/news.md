@@ -9,7 +9,11 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***October 17, 2022:*** Judy Fan is giving an invited talk at the [University of California, Merced](https://cogsci.ucmerced.edu/).
 
-***August 8, 2022:*** Judy Fan will again be participating as a faculty member at the [Diverse Intelligences Summer Institute](https://disi.org/).
+***August 8-12, 2022:*** Judy Fan will again be participating as a faculty member at the [Diverse Intelligences Summer Institute](https://disi.org/).
+
+***July 28, 2022:*** Felix Binder, Kanishka Misra, Jay McClelland, and Judy Fan are co-organizing the [Neural Networks for Cognition discussion group](http://neural-nets-for-cognition.net/) at CogSci 2022. This year's theme is: "How can we tell how well a neural network is emulating human behavior?"
+
+***July 27, 2022:*** Holly Huey, Kushin Mukherjee, Tim Rogers, and Judy Fan are co-organizing a pre-conference workshop at CogSci 2022, ["From Images to Symbols: Drawing as a Window into the Mind"](https://images2symbols.github.io/)!
 
 ***July 18, 2022:*** Judy Fan is giving an invited talk at the Max-Planck Institute for Biological Cybernetics.
 
@@ -17,7 +21,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***May 27, 2022***: Congratulations to Zoe Tait on being awarded a Summer URS Chancellor's Research Scholarship for Social Sciences! 
 
-***April 12, 2022***: We had 5 papers accepted to the [2022 Cognitive Science Society Annual Meeting](https://cognitivesciencesociety.org/cogsci-2022/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details. Holly Huey and Judy Fan are also co-organizing a pre-conference workshop, ["From Images to Symbols: Drawing as a Window into the Mind"](https://cognitivesciencesociety.org/workshops/)!
+***April 12, 2022***: We had 5 papers accepted to the [2022 Cognitive Science Society Annual Meeting](https://cognitivesciencesociety.org/cogsci-2022/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details. 
 
 ***April 1, 2022***: Congratulations to Justin Yang on being awarded a 2022 NSF Graduate Research Fellowship!
 
