@@ -11,11 +11,13 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***August 8-12, 2022:*** Judy Fan will again be participating as a faculty member at the [Diverse Intelligences Summer Institute](https://disi.org/).
 
+***August 5, 2022:*** Judy Fan is giving a talk at the [University of Surrey Centre for Vision, Speech and Signal Processing (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing)!
+
 ***July 28, 2022:*** Felix Binder, Kanishka Misra, Jay McClelland, and Judy Fan are co-organizing the [Neural Networks for Cognition discussion group](http://neural-nets-for-cognition.net/) at CogSci 2022. This year's theme is: "How can we tell how well a neural network is emulating human behavior?"
 
 ***July 27, 2022:*** Holly Huey, Kushin Mukherjee, Tim Rogers, and Judy Fan are co-organizing a pre-conference workshop at CogSci 2022, ["From Images to Symbols: Drawing as a Window into the Mind"](https://images2symbols.github.io/)!
 
-***July 18, 2022:*** Judy Fan is giving an invited talk at the Max-Planck Institute for Biological Cybernetics.
+***July 18, 2022:*** Judy Fan is giving an invited talk at the [Max-Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en).
 
 ***June 20, 2022***: Judy Fan is co-organizing a workshop on ["Sketch-Oriented Deep Learning (SketchDL)"](https://sketchdl.github.io/) at the Conference on Computer Vision and Pattern Recognition ([CVPR](ttps://cvpr2022.thecvf.com/))! She is also giving an invited talk at a workshop on ["Artificial Social Intelligence"](https://sites.google.com/berkeley.edu/artificial-social-intelligence), as well a talk at a tutorial on [Graph Machine Learning for Visual Computing](https://gml4vc.github.io/).
 
