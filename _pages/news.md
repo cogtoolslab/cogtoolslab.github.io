@@ -7,7 +7,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***October 23, 2022***: Judy Fan is giving an invited talk at the ["Visual Object-oriented Learning meets Interaction (VOLI): Discovery, Representations, and Applications"](https://geometry.stanford.edu/voli/) workshop at [European Conference on Computer Vision](https://eccv2022.ecva.net/)!
 
-***October 17, 2022:*** Judy Fan is giving an invited talk at the [University of California, Merced](https://cogsci.ucmerced.edu/).
+***October 17, 2022:*** Judy Fan is giving a talk in [Cognitive & Information Sciences at the University of California, Merced](https://cogsci.ucmerced.edu/).
 
 ***August 8-12, 2022:*** Judy Fan will again be participating as a faculty member at the [Diverse Intelligences Summer Institute](https://disi.org/).
 
@@ -24,6 +24,8 @@ featured_image: /images/demo/demo-landscape.jpg
 ***May 27, 2022***: Congratulations to Zoe Tait on being awarded a Summer URS Chancellor's Research Scholarship for Social Sciences! 
 
 ***April 12, 2022***: We had 5 papers accepted to the [2022 Cognitive Science Society Annual Meeting](https://cognitivesciencesociety.org/cogsci-2022/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details. 
+
+***April 6, 2022***: Judy Fan is giving a talk in [Cognitive Sciences at the University of California, Irvine](https://www.cogsci.uci.edu/index.php).
 
 ***April 1, 2022***: Congratulations to Justin Yang on being awarded a 2022 NSF Graduate Research Fellowship!
 
