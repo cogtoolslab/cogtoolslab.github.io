@@ -66,19 +66,9 @@ Hannah Lloyd
 [Erik Brockbank](http://www.erikbrockbank.com/)
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/TamariR_photo.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/OeyL_photo.png){: .lab-member-img-little}
 
-[Ronen Tamari](https://ronentk.github.io/)
-{: .lab-member-name-plate}
-
-![image]({{site.baseurl}}/images/people/TerwilligerJ_photo.jpeg){: .lab-member-img-little}
-
-[Jack Terwilliger](http://jackterwilliger.com/)
-{: .lab-member-name-plate}
-
-![image]({{site.baseurl}}/images/people/XuT_photo.png){: .lab-member-img-little}
-
-[Tone Xu](http://acsweb.ucsd.edu/~xix138/)
+[Lauren Oey](https://la-oey.github.io/)
 {: .lab-member-name-plate}
 
 ### Masters Students
@@ -87,7 +77,7 @@ Xuanchen (Charles) Lu
 
 ### Current Undergraduate Students
 
-Zoe Tait  \\
+Zoe Tait \\
 Sirui Tao
 
 ### Collaborators
@@ -119,11 +109,15 @@ Sirui Tao
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Alumni
+Ronen Tamari (2021-22 Visiting PhD student) \\
+Jack Terwilliger (2022 rotation; COGS PhD program) \\
 Cameron Holdaway (Masters; now at Apple) \\
 Jane Yang (Honors Thesis, 2022 TRELS Scholar; now: [Developmental Intelligence Lab](https://www.la.utexas.edu/users/dil/pub.html)) \\
 David Guirgus (2021 STARS Program) \\
 Zhe Huang (2021 TRELS Scholar) \\
-Julia Xu (2020 HDSI UG Scholar)
+Julia Xu (2020 HDSI UG Scholar) \\
+Tone Xu (2019-2020 PhD affiliate; COGS PhD program)
+Hui Xin Ng (2019 rotation; COGS PhD program) \\
 
 
 
