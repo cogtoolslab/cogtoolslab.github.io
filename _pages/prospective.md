@@ -7,8 +7,6 @@ featured_image: /images/demo/demo-landscape.jpg
 
 The Cognitive Tools Lab is always on the lookout for outstanding postdocs and graduate students. This document will give you a sense for what we are looking for in a prospective lab member, and what the next steps to take are. Please read it in its entirety before contacting Dr. Fan to ask about doing research.
 
-**Dr. Fan is actively recruiting both postdocs and graduate students to start in Fall 2023.**
-
 ### What We Are Looking For
 
 In addition to strong motivation and scientific curiosity, the research we do requires a variety of both technical and non-technical skills, though the needs of each project vary. Prospective lab members should have experience with several of the skills listed below, along with a positive attitude about and willingness to quickly/independently learn about others:
@@ -26,16 +24,18 @@ In addition to strong motivation and scientific curiosity, the research we do re
 
 It is important to emphasize that even if you don't *currently* have the skills above, that doesn't mean you can't or shouldn't work in the lab. If you are seriously interested in joining us, you are encouraged to invest time and energy independently acquiring some or more of these skills (e.g., through course projects), which will enable you to get more out of your research experience. If you are interested in gaining these skills but are not sure how, you can reach out to Dr. Fan for advice and pointers to resources. 
 
-Beyond these practical skills, our lab is genuinely committed to equality, diversity, and inclusion in achieving and sustaining excellence in our scientific research. We aim to provide an intellectual environment that is at once welcoming, nurturing and challenging, and that respects the full spectrum of human diversity in race, ethnicity, gender identity, age, socioeconomic status, national origin, sexual orientation, disability, and religion. Above all, we are looking for lab members who share our commitment to actively creating and maintaining a safe environment founded on mutual respect and support.
+Beyond these practical skills, our lab is genuinely committed to equity, diversity, and inclusion in achieving and sustaining excellence in our scientific research. We aim to provide an intellectual environment that is at once welcoming, nurturing and challenging, and that respects the full spectrum of human diversity in race, ethnicity, gender identity, age, socioeconomic status, national origin, sexual orientation, disability, and religion. Above all, we are looking for lab members who share our commitment to actively creating and maintaining a safe environment founded on mutual respect and support.
 
 To learn more about the expectations we have of all members of the lab, including of Dr. Fan, please feel free to read our [lab manual](https://docs.google.com/document/d/1nP-5ZNCfHCgzU7X5XL1eVmOiP_Fr4r6qrcxPxpzAoTk/edit?usp=sharing).
 
 ### Prospective PhD Students and Postdocs
 
-If you are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@ucsd.edu). 
-She will do her best to respond and discuss with you whether the lab might be a good fit. 
+**Dr. Fan is actively recruiting both postdocs and graduate students to start in Fall 2023.**
 
-PhD applicants, please note that it may not always be possible to schedule a Zoom call prior to the application deadline. If you are interested in joining the lab as a PhD student, please submit an application to the Stanford PhD Program in Psychology](https://psychology.stanford.edu/admissions/phd-admissions) and indicate your interest in the lab on the form to ensure that Dr. Fan will receive & read it!
+If you are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@ucsd.edu). It is a good idea in this email to articulate what research questions you are most excited about, and some specific reasons why you believe the Cognitive Tools Lab would provide a suitable environment to pursue those questions.
+<!-- She will do her best to respond and discuss with you whether the lab might be a good fit.  -->
+
+PhD applicants, please note that it may not always be possible to schedule a Zoom call prior to the application deadline. If you are interested in joining the lab as a PhD student, please submit an application to the [Stanford PhD Program in Psychology](https://psychology.stanford.edu/admissions/phd-admissions) and indicate your interest in the lab on the form to ensure that Dr. Fan will receive & read it!
 
 ### Current UCSD/Stanford Graduate Students
 
