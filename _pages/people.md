@@ -81,8 +81,8 @@ Zoe Tait \\
 Sirui Tao
 
 ### Collaborators
-
-[Monica Dinculescu](https://meowni.ca/), _Google_ \\
+[Kelsey Allen](https://web.mit.edu/krallen/www/), _DeepMind_ \\
+[Jacob Andreas](https://www.mit.edu/~jda/), _MIT_ \\
 [Dave Barner](http://www.ladlab.com/), _UCSD_ \\
 [Dan Bear](http://neuroailab.stanford.edu/), _Stanford_ \\
 [Steven Dow](http://spdow.ucsd.edu/), _UCSD_ \\
@@ -101,6 +101,7 @@ Sirui Tao
 [Dorsa Sadigh](https://dorsa.fyi/), _Stanford_ \\
 [Jordan Suchow](https://suchow.io/), _Stevens Institute of Technology_ \\
 [Jordan Taylor](http://ipalab.princeton.edu/), _Princeton_ \\
+[Josh Tenenbaum](https://cocosci.mit.edu/josh), _MIT_ \\
 [Nick Turk-Browne](https://ntblab.yale.edu/), _Yale_ \\
 [Ed Vul](http://www.evullab.org/), _UCSD_ \\
 [Caren Walker](http://elc-lab-ucsd.com/). _UCSD_ \\
