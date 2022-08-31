@@ -118,7 +118,7 @@ David Guirgus (2021 STARS Program) \\
 Zhe Huang (2021 TRELS Scholar) \\
 Julia Xu (2020 HDSI UG Scholar) \\
 Tone Xu (2019-2020 PhD affiliate; COGS PhD program) \\
-Hui Xin Ng (2019 rotation; COGS PhD program) \\
+Hui Xin Ng (2019 rotation; COGS PhD program)
 
 
 
