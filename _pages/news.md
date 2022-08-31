@@ -5,9 +5,11 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***October 23, 2022***: Judy Fan is giving an invited talk at the ["Visual Object-oriented Learning meets Interaction (VOLI): Discovery, Representations, and Applications"](https://geometry.stanford.edu/voli/) workshop at [European Conference on Computer Vision](https://eccv2022.ecva.net/)!
+***October 24, 2022***: Judy Fan is giving an invited talk at the ["Visual Object-oriented Learning meets Interaction (VOLI): Discovery, Representations, and Applications"](https://geometry.stanford.edu/voli/) workshop at [European Conference on Computer Vision](https://eccv2022.ecva.net/)!
 
-***October 17, 2022:*** Judy Fan is giving a talk in [Cognitive & Information Sciences at the University of California, Merced](https://cogsci.ucmerced.edu/).
+***September 26, 2022:*** Judy Fan is giving a talk in [Cognitive & Information Sciences at the University of California, Merced](https://cogsci.ucmerced.edu/).
+
+***August 25-28, 2022:*** Judy Fan is co-organizing a [Generative Adversarial Collaboration entitled, "To what extent does the brain simulate the external world?"](https://2022.ccneuro.org/gac.php) and moderating a [Keynote & Fireside Chat entitled, "Drivers of learning across timescales: evolutionary, developmental, and computational perspectives"](https://2022.ccneuro.org/view_event.php?mid=24) at the [2022 Cognitive Computational Neuroscience Meeting](https://2022.ccneuro.org/index.php). 
 
 ***August 8-12, 2022:*** Judy Fan will again be participating as a faculty member at the [Diverse Intelligences Summer Institute](https://disi.org/).
 

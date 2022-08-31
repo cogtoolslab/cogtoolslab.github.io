@@ -109,10 +109,10 @@ Sirui Tao
 [Mike Wu](https://www.mikehwu.com/), _Stanford_ \\
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_ \\
 
-### Alumni
+### Selected Alumni
 Ronen Tamari (2021-22 Visiting PhD student) \\
 Jack Terwilliger (2022 rotation; COGS PhD program) \\
-Cameron Holdaway (Masters; now at Apple) \\
+Cameron Holdaway (2022 Masters; now at Apple) \\
 Jane Yang (2022 Honors Thesis, 2022 TRELS Scholar; now: [UT Austin Developmental Intelligence Lab](https://www.la.utexas.edu/users/dil/pub.html)) \\
 David Guirgus (2021 STARS Program) \\
 Zhe Huang (2021 TRELS Scholar) \\
