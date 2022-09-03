@@ -59,7 +59,7 @@ Hannah Lloyd
 [Haoliang Wang](https://haoliangwang.github.io/)
 {: .lab-member-name-plate}
 
-### Affiliated and Visiting PhD Students
+### Affiliated PhD Students
 
 ![image]({{site.baseurl}}/images/people/BrockbankE_photo.jpg){: .lab-member-img-little}
 
@@ -69,6 +69,11 @@ Hannah Lloyd
 ![image]({{site.baseurl}}/images/people/OeyL_photo.png){: .lab-member-img-little}
 
 [Lauren Oey](https://la-oey.github.io/)
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/TerwilligerJ_photo.jpeg){: .lab-member-img-little}
+
+[Jack Terwilliger](http://jackterwilliger.com/)
 {: .lab-member-name-plate}
 
 ### Masters Students
@@ -111,7 +116,6 @@ Sirui Tao
 
 ### Selected Alumni
 Ronen Tamari (2021-22 Visiting PhD student) \\
-Jack Terwilliger (2022 rotation; COGS PhD program) \\
 Cameron Holdaway (2022 Masters; now at Apple) \\
 Jane Yang (2022 Honors Thesis, 2022 TRELS Scholar; now: [UT Austin Developmental Intelligence Lab](https://www.la.utexas.edu/users/dil/pub.html)) \\
 David Guirgus (2021 STARS Program) \\
