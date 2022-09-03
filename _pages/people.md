@@ -112,7 +112,7 @@ Sirui Tao
 [Caren Walker](http://elc-lab-ucsd.com/). _UCSD_ \\
 [Jeff Wammes](https://www.thelamplab.ca/), _Queens_ \\
 [Mike Wu](https://www.mikehwu.com/), _Stanford_ \\
-[Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_ \\
+[Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
 Ronen Tamari (2021-22 Visiting PhD student) \\
