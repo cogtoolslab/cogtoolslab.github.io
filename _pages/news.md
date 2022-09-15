@@ -5,7 +5,7 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***October 24, 2022***: Judy Fan is giving an invited talk at the ["Visual Object-oriented Learning meets Interaction (VOLI): Discovery, Representations, and Applications"](https://geometry.stanford.edu/voli/) workshop at [European Conference on Computer Vision](https://eccv2022.ecva.net/)!
+***October 24, 2022***: Judy Fan is giving invited talks at the ["Visual Object-oriented Learning meets Interaction (VOLI): Discovery, Representations, and Applications"](https://geometry.stanford.edu/voli/) and ["Language for 3D Scenes"](https://languagefor3dscenes.github.io/ECCV2022/) Workshops at [European Conference on Computer Vision](https://eccv2022.ecva.net/)!
 
 ***September 26, 2022:*** Judy Fan is giving a talk in [Cognitive & Information Sciences at the University of California, Merced](https://cogsci.ucmerced.edu/).
 
