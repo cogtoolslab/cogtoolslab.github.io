@@ -20,12 +20,12 @@ _Assistant Professor of Psychology_
 
 This could be you! -->
 
-### Lab Manager
+<!-- ### Lab Manager
 
 ![image]({{site.baseurl}}/images/people/YangJ_photo.jpg){: .lab-member-img-little}
 
 Justin Yang
-{: .lab-member-name-plate}
+{: .lab-member-name-plate} -->
 
 ### PhD Students
 
@@ -115,6 +115,7 @@ Sirui Tao
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
+Justin Yang (Lab Manager, 2022 Honors Thesis, 2021 TRELS Scholar, 2020 Chancellor's URS Program; now: Data Scientist at Signifyd) \\
 Ronen Tamari (2021-22 Visiting PhD student) \\
 Cameron Holdaway (2022 Masters; now at Apple) \\
 Jane Yang (2022 Honors Thesis, 2022 TRELS Scholar; now: [UT Austin Developmental Intelligence Lab](https://www.la.utexas.edu/users/dil/pub.html)) \\
