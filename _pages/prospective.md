@@ -32,10 +32,10 @@ To learn more about the expectations we have of all members of the lab, includin
 
 **Dr. Fan is actively recruiting both postdocs and graduate students to start in Fall 2023.**
 
-If you are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@ucsd.edu). It is a good idea in this email to articulate what research questions you are most excited about, and some specific reasons why you believe the Cognitive Tools Lab would provide a suitable environment to pursue those questions.
+If you are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@ucsd.edu). It is a good idea in this email to articulate what research questions you are most excited about and some specific reasons why you believe the Cognitive Tools Lab would be an environment where you believe you could thrive, as well as how you believe you could contribute to our community. 
 <!-- She will do her best to respond and discuss with you whether the lab might be a good fit.  -->
 
-PhD applicants, please note that it may not always be possible to schedule a Zoom call prior to the application deadline. If you are interested in joining the lab as a PhD student, please submit an application to the [Stanford PhD Program in Psychology](https://psychology.stanford.edu/admissions/phd-admissions) and indicate your interest in the lab on the form to ensure that Dr. Fan will receive & read it!
+PhD applicants: Please note that it may not always be possible for Dr. Fan to reply and discuss with you whether the lab might be a good fit, nor schedule a Zoom call prior to the application deadline. If you are interested in joining the lab as a PhD student, please submit a full application to the [Stanford PhD Program in Psychology](https://psychology.stanford.edu/admissions/phd-admissions) and indicate your interest in the lab on the form to ensure that Dr. Fan will receive & read it!
 
 ### Current UCSD/Stanford Graduate Students
 
@@ -65,7 +65,7 @@ Please contact Dr. Fan during the quarter before the one in which you want to do
 ### Current UCSD Undergraduate Students
 
 If you are a current UCSD undergraduate student and interested in being considered for potential research opportunities in the lab, your first step should be to complete the [Psychology Undergraduate Research Assistant Common Application (PSYURACA)](https://psychology.ucsd.edu/undergraduate-program/research/index.html) during the quarter before the one in which you want to start working in the lab. 
-In the meantime, a good way for you to figure out whether the lab is a good fit for you is to take PSYC 193L: Perception & Computation.
+<!-- In the meantime, a good way for you to figure out whether the lab is a good fit for you is to take PSYC 193L: Perception & Computation. -->
 If you have an especially strong interest in working in the lab, in addition to completing the Common Application, please also feel free to reach out to Dr. Fan via [email](mailto:jefan@ucsd.edu), with some brief responses to the same questions from the section above. 
 
 ### Acknowledgments
