@@ -79,6 +79,7 @@ Hannah Lloyd
 ### Masters Students
 
 ![image]({{site.baseurl}}/images/people/LuX_photo.jpg){: .lab-member-img-little}
+
 Xuanchen (Charles) Lu
 {: .lab-member-name-plate}
 
