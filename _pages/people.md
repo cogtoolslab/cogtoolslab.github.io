@@ -80,7 +80,7 @@ Hannah Lloyd
 
 ![image]({{site.baseurl}}/images/people/LuX_photo.jpg){: .lab-member-img-little}
 
-Xuanchen (Charles) Lu
+[Xuanchen (Charles) Lu](https://xuanchenlu.com/)
 {: .lab-member-name-plate}
 
 ### Current Undergraduate Students
