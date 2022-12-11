@@ -85,8 +85,12 @@ Hannah Lloyd
 
 ### Current Undergraduate Students
 
+Rio Aguina-Kang \\
+Nil Beserler \\
+Nora Chen \\
+Vryan Feliciano \\
 Zoe Tait \\
-Sirui Tao
+Sirui Tao \\
 
 ### Collaborators
 [Kelsey Allen](https://web.mit.edu/krallen/www/), _DeepMind_ \\
