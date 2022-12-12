@@ -20,12 +20,12 @@ _Assistant Professor of Psychology_
 
 This could be you! -->
 
-<!-- ### Lab Manager
+### Lab Manager
 
-![image]({{site.baseurl}}/images/people/YangJ_photo.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/TaitZ_photo.jpg){: .lab-member-img-little}
 
-Justin Yang
-{: .lab-member-name-plate} -->
+Zoe Tait
+{: .lab-member-name-plate}
 
 ### PhD Students
 
@@ -71,11 +71,6 @@ Hannah Lloyd
 [Lauren Oey](https://la-oey.github.io/)
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/TerwilligerJ_photo.jpeg){: .lab-member-img-little}
-
-[Jack Terwilliger](http://jackterwilliger.com/)
-{: .lab-member-name-plate}
-
 ### Masters Students
 
 ![image]({{site.baseurl}}/images/people/LuX_photo.jpg){: .lab-member-img-little}
@@ -89,8 +84,6 @@ Rio Aguina-Kang \\
 Nil Beserler \\
 Nora Chen \\
 Vryan Feliciano \\
-Zoe Tait \\
-Sirui Tao \\
 
 ### Collaborators
 [Kelsey Allen](https://web.mit.edu/krallen/www/), _DeepMind_ \\
@@ -122,7 +115,9 @@ Sirui Tao \\
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
+Sirui Tao (2021-2022; HDSI Undergraduate Research Fellowship)
 Justin Yang (Lab Manager, 2022 Honors Thesis, 2021 TRELS Scholar, 2020 Chancellor's URS Program; now: Data Scientist at Signifyd) \\
+Jack Terwilliger (2022 rotation; COGS PhD program)
 Ronen Tamari (2021-22 Visiting PhD student) \\
 Cameron Holdaway (2022 Masters; now at Apple) \\
 Jane Yang (2022 Honors Thesis, 2022 TRELS Scholar; now: [UT Austin Developmental Intelligence Lab](https://www.la.utexas.edu/users/dil/pub.html)) \\
