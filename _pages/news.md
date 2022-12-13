@@ -5,6 +5,8 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+***Dec 8, 2022***: Congrats to Zoe Tait, Hannah Lloyd, and Erik Brockbank for winning a Best Presentation Award at [PsychTERMS](https://www.psychterms.com/) for their work on understanding how attitudes and engagement relate to academic achievement in introductory statistics courses!
+
 ***October 24, 2022***: Judy Fan is giving invited talks at the ["Visual Object-oriented Learning meets Interaction (VOLI): Discovery, Representations, and Applications"](https://geometry.stanford.edu/voli/) and ["Language for 3D Scenes"](https://languagefor3dscenes.github.io/ECCV2022/) Workshops at [European Conference on Computer Vision](https://eccv2022.ecva.net/)!
 
 ***September 26, 2022:*** Judy Fan is giving a talk in [Cognitive & Information Sciences at the University of California, Merced](https://cogsci.ucmerced.edu/).
