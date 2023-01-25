@@ -117,7 +117,7 @@ Vryan Feliciano
 ### Selected Alumni
 Sirui Tao (2021-2022; HDSI Undergraduate Research Fellowship) \\
 Justin Yang (Lab Manager, 2022 Honors Thesis, 2021 TRELS Scholar, 2020 Chancellor's URS Program; now: Data Scientist at Signifyd) \\
-Jack Terwilliger (2022 rotation; COGS PhD program)
+Jack Terwilliger (2022 rotation; COGS PhD program) \\
 Ronen Tamari (2021-22 Visiting PhD student) \\
 Cameron Holdaway (2022 Masters; now at Apple) \\
 Jane Yang (2022 Honors Thesis, 2022 TRELS Scholar; now: [UT Austin Developmental Intelligence Lab](https://www.la.utexas.edu/users/dil/pub.html)) \\
