@@ -83,7 +83,7 @@ Hannah Lloyd
 Rio Aguina-Kang \\
 Nil Beserler \\
 Nora Chen \\
-Vryan Feliciano \\
+Vryan Feliciano
 
 ### Collaborators
 [Kelsey Allen](https://web.mit.edu/krallen/www/), _DeepMind_ \\
