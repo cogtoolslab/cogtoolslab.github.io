@@ -81,7 +81,6 @@ Hannah Lloyd
 ### Current Undergraduate Students
 
 Rio Aguina-Kang \\
-Nil Beserler \\
 Nora Chen \\
 Vryan Feliciano
 
