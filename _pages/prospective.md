@@ -7,6 +7,12 @@ featured_image: /images/demo/demo-landscape.jpg
 
 The Cognitive Tools Lab is always on the lookout for outstanding postdocs and graduate students. This document will give you a sense for what we are looking for in a prospective lab member, and what the next steps to take are. Please read it in its entirety before contacting Dr. Fan to ask about doing research.
 
+### Open Position: Full-Time Lab Manager (updated: April 19, 2023)
+
+We are currently seeking a full-time lab manager for a 1-year appointment beginning in Summer/Fall 2023. Please see [job ad](https://drive.google.com/file/d/1rSriaKp15kPv9RyUyadtqnXmv0-CYIQU/view?usp=sharing) for full details.
+
+If you are interested in applying for this position, please complete the required elements in our [application form](https://forms.gle/tNrSNWFXToreKoVPA). Applications will be reviewed on a rolling basis. Please submit your application by **May 17, 2023** to receive full consideration.
+
 ### What We Are Looking For
 
 In addition to strong motivation and scientific curiosity, the research we do requires a variety of technical and professional skills, though the needs of each project vary. Prospective lab members should have experience with several of the skills listed below, along with a positive attitude about and willingness to quickly/independently learn about others:
@@ -20,7 +26,7 @@ In addition to strong motivation and scientific curiosity, the research we do re
 - ***Communication and organization:*** 
 	Researchers must communicate the results of their work. Strong writing and oral presentation skills are critical. We are looking for students who are well organized, thoughtful, and proactive about their own research and training. Especially in collaborative projects, it is important to communicate with me and other collaborators throughout the research process: reporting progress, asking for help, etc. We will generally use Slack and Github issues to discuss results and keep track of todo's.
 - ***Generosity towards others:***
-	Science is inherently a social enterprise. It is more likely that you will thrive in our lab if you are in the habit of acting not only in the interests of your own needs and desires, but also on behalf of others and the communities that you belong to. We are looking for individuals to join our team who are committed to co-existing with others with generosity, kindness, and compassion. In addition, we value demonstrations of leadership in promoting these qualities in other organizations you have been a part of. 
+	Science is inherently a social enterprise. It is more likely that you will thrive in our lab if you are in the habit of acting not only in the interests of your own needs and desires, but also on behalf of others and the communities that you belong to. We are looking for individuals to join our team who are committed to co-existing with others with generosity, kindness, and compassion. In particular, we value demonstrations of leadership in promoting these qualities in other organizations you have been a part of. 
 
 ### Values We Share
 
@@ -32,43 +38,43 @@ To learn more about the expectations we have of all members of the lab, includin
 
 ### Prospective PhD Students and Postdocs
 
-**Dr. Fan is actively recruiting both postdocs and graduate students to start in Fall 2023.**
+<!-- **Dr. Fan is actively recruiting both postdocs and graduate students to start in Fall 2023.** -->
 
-If you are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@ucsd.edu). It is a good idea in this email to articulate what research questions you are most excited about and some specific reasons why you believe the Cognitive Tools Lab would be an environment where you believe you could thrive, as well as how you believe you could contribute to our community. 
+If you are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@stanford.edu) and include a current academic CV. It is a good idea in this email to articulate what research questions you are most excited about and some specific reasons why you believe the Cognitive Tools Lab would be an environment where you believe you could thrive, as well as how you believe you could contribute to our community. 
 <!-- She will do her best to respond and discuss with you whether the lab might be a good fit.  -->
 
-PhD applicants: Please note that it may not always be possible for Dr. Fan to reply and discuss with you whether the lab might be a good fit, nor schedule a Zoom call prior to the application deadline. If you are interested in joining the lab as a PhD student, please submit a full application to the [Stanford PhD Program in Psychology](https://psychology.stanford.edu/admissions/phd-admissions) and indicate your interest in the lab on the form to ensure that Dr. Fan will receive & read it!
+Please note that it may not always be possible for Dr. Fan to reply and discuss with you whether the lab might be a good fit. If you are interested in joining the lab as a PhD student, please submit a full application to the [Stanford PhD Program in Psychology](https://psychology.stanford.edu/admissions/phd-admissions) and indicate your interest in the lab on the form to ensure that Dr. Fan will receive & read it!
 
-### Current UCSD/Stanford Graduate Students
+<!-- ### Current Stanford Students -->
 
-Current UCSD/Stanford graduate students are also welcome to work on projects in the lab, even if you are not affiliated with the Psychology department.
+<!-- Current Stanford students are also welcome to work on projects in the lab, even if you are not affiliated with the Psychology department. -->
 <!-- In the past, we have hosted PhD, Masters, and undergraduate students hailing from several departments, including Psychology, Cognitive Science, Computer Science & Engineering,  and Neurosciences. -->
 
-A good way to figure out whether the lab would be a good fit is for you to take one of Dr. Fan's graduate courses.
+<!-- A good way to figure out whether the lab would be a good fit is for you to take one of Dr. Fan's graduate courses. -->
 <!-- , e.g., PSYC 230: Computational Approaches to Visual Abstraction.  -->
-This gives you a chance to see how she works with students, and it lets her see your working style. 
-If this isn't feasible due to timing, please send Dr. Fan an [email](mailto:jefan@ucsd.edu) so we can arrange for an alternative way to evaluate fit.
+<!-- This gives you a chance to see how she works with students, and it lets her see your working style.  -->
+<!-- If this isn't feasible due to timing, please send Dr. Fan an [email](mailto:jefan@stanford.edu) so we can arrange for an alternative way to evaluate fit. -->
 <!-- Another easy way to get in touch with Dr. Fan is to stop by her Zoom office hours.  -->
 <!-- Please do not be shy about sending a quick email to introduce yourself and ask for the Zoom link.  -->
 
-Scientific research is unpredictable and can take up a lot of time. 
-If this will be your first academic quarter working on a project in the lab, you should expect to spend at minimum 15 hours a week working on our research projects --- so if you are swamped with other commitments, consider joining the lab another quarter.
+<!-- Scientific research is unpredictable and can take up a lot of time.  -->
+<!-- If this will be your first academic quarter working on a project in the lab, you should expect to spend at minimum 15 hours a week working on our research projects --- so if you are swamped with other commitments, consider joining the lab another quarter. -->
 
-If you think you might be a good fit after reading all of the above, send Dr. Fan an email with a current academic CV and with answers to the following questions:
-- ***Why do you want to do research?***  
-Both in general, and in this specific field.
-- ***Why do you want to do research with me?***  
-There are many great labs at UCSD/Stanford. Why do you want to work in our lab, specifically? It'd be a good idea to look through our recent publications. If a particular publication was of interest to you, please share specific details about what aspects interested you and how these aspects connect to your own research interests/experience. 
-- ***What relevant skills do you have?***  
-Also please describe experience you have with the particular skills listed at the top of this page, and provide some specific evidence (e.g. links to Github repos for recent projects, papers or reports you've written).
+<!-- If you think you might be a good fit after reading all of the above, send Dr. Fan an email with a current academic CV and with answers to the following questions: -->
+<!-- - ***Why do you want to do research?***   -->
+<!-- Both in general, and in this specific field. -->
+<!-- - ***Why do you want to do research in our lab?***   -->
+<!-- There are many great labs at Stanford. Why do you want to work in our lab, specifically? It'd be a good idea to look through our recent publications. If a particular publication was of interest to you, please share specific details about what aspects interested you and how these aspects connect to your own research interests/experience.  -->
+<!-- - ***What relevant skills do you have?***   -->
+<!-- Also please describe experience you have with the particular skills listed at the top of this page, and provide some specific evidence (e.g. links to Github repos for recent projects, papers or reports you've written). -->
 
-Please contact Dr. Fan during the quarter before the one in which you want to do research — this gives us time to develop a project for you in advance so you can hit the ground running.
+<!-- Please contact Dr. Fan during the quarter before the one in which you want to do research — this gives us time to develop a project for you in advance so you can hit the ground running. -->
 
-### Current UCSD Undergraduate Students
+<!-- ### Current UCSD Undergraduate Students
 
 If you are a current UCSD undergraduate student and interested in being considered for potential research opportunities in the lab, your first step should be to complete the [Psychology Undergraduate Research Assistant Common Application (PSYURACA)](https://psychology.ucsd.edu/undergraduate-program/research/index.html) during the quarter before the one in which you want to start working in the lab. 
-<!-- In the meantime, a good way for you to figure out whether the lab is a good fit for you is to take PSYC 193L: Perception & Computation. -->
-If you have an especially strong interest in working in the lab, in addition to completing the Common Application, please also feel free to reach out to Dr. Fan via [email](mailto:jefan@ucsd.edu), with some brief responses to the same questions from the section above. 
+In the meantime, a good way for you to figure out whether the lab is a good fit for you is to take PSYC 193L: Perception & Computation. 
+ If you have an especially strong interest in working in the lab, in addition to completing the Common Application, please also feel free to reach out to Dr. Fan via [email](mailto:jefan@ucsd.edu), with some brief responses to the same questions from the section above. --> 
 
 ### Acknowledgments
 
