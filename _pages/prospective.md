@@ -9,9 +9,9 @@ The Cognitive Tools Lab is always on the lookout for outstanding postdocs and gr
 
 ### Open Position: Full-Time Lab Manager (updated: April 19, 2023)
 
-We are currently seeking a full-time lab manager for a 1-year appointment beginning in Summer/Fall 2023. Please see [job ad](https://drive.google.com/file/d/1rSriaKp15kPv9RyUyadtqnXmv0-CYIQU/view?usp=sharing) for full details.
+We are currently seeking a full-time lab manager for a 1-year appointment beginning in Summer/Fall 2023. More information about this position is available by navigating to our [application form](https://forms.gle/yApnsQtMhCEnB9tH8). 
 
-If you are interested in applying for this position, please complete the required elements in our [application form](https://forms.gle/tNrSNWFXToreKoVPA). Applications will be reviewed on a rolling basis. Please submit your application by **May 17, 2023** to receive full consideration.
+Applications will be reviewed on a rolling basis. Please submit your application by **May 17, 2023** to receive full consideration.
 
 ### What We Are Looking For
 
