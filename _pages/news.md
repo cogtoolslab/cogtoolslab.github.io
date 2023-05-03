@@ -5,27 +5,27 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***July 4, 2023***: Judy Fan is instructing a course at the [Computational Summer School on Modeling Social and collective behavior (COSMOS)](https://cosmos-konstanz.github.io/)!
+***July 4, 2023***: Judy Fan is an instructor at the [Computational Summer School on Modeling Social and collective behavior (COSMOS)](https://cosmos-konstanz.github.io/)!
 
 ***May 11, 2023***: Judy Fan is giving an invited talk at the [Imagistic Cognition](https://philevents.org/event/show/107925) Workshop at the [University of Salzburg](https://www.plus.ac.at/?lang=en)!
 
 ***May 19, 2023***: Judy Fan is giving an invited talk at the [Studies in Language, Information, Meaning, and Expression Workshop](https://philosophy.ucla.edu/event/studies-in-language-information-meaning-and-expression-slime/) at the [University of California, Los Angeles](https://www.ucla.edu/)!
 
-***May 4, 2023***: Judy Fan is giving an invited talk at the [“Neurosymbolic Generative Models”](https://nesygems.github.io/) Workshop at the [Eleventh International Conference on Learning Representations](https://iclr.cc/)!
+***May 4, 2023***: Judy Fan is giving an invited talk at the [Neurosymbolic Generative Models](https://nesygems.github.io/) Workshop at [International Conference on Learning Representations(ICLR)](https://iclr.cc/)!
 
-***April 24, 2023***: Congratulations to Xuanchen Lu on his paper’s acceptance to the [Fortieth International Conference on Machine Learning](https://icml.cc/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details.
+***April 24, 2023***: Congratulations to Xuanchen Lu on his paper’s acceptance to [International Conference on Machine Learning (ICML)](https://icml.cc/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details.
 
-***April 6, 2023***: We had 3 papers accepted to the [2023 Cognitive Science Society Annual Meeting](https://cognitivesciencesociety.org/cogsci-2023/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details.
+***April 6, 2023***: We had 4 papers accepted to the [2023 Cognitive Science Society Annual Meeting](https://cognitivesciencesociety.org/cogsci-2023/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details.
 
-***March XX, 2023***: Judy Fan is giving a talk in [Psychology at the University of California, Santa Cruz](https://psychology.ucsc.edu/).
+***April 28, 2023***: Judy Fan is giving a talk in [Psychology at the University of California, Santa Cruz](https://psychology.ucsc.edu/).
 
-***March XX, 2023***: Judy Fan is giving an invited talk at the [“Learning and generalization in humans and machines” Symposium](https://www.cogneurosociety.org/annual-meeting/) at the [Cognitive Neuroscience Society](https://www.cogneurosociety.org/).
+***March 23, 2023***: Judy Fan is giving an invited talk at the [“Learning and generalization in humans and machines” Symposium](https://www.cogneurosociety.org/annual-meeting/) at the [Cognitive Neuroscience Society](https://www.cogneurosociety.org/).
 
-***March XX, 2023***: Judy Fan is giving a talk in [Cognitive Science at the University of California, Santa Barbara](https://www.cogsci.ucsb.edu/).
+***March 10, 2023***: Judy Fan is giving a talk in [Cognitive Science at the University of California, Santa Barbara](https://www.cogsci.ucsb.edu/).
 
-***February XX, 2023***: Judy Fan is giving a talk in [Psychology at Carnegie Mellon University](https://www.cmu.edu/dietrich/psychology/)!
+***February 17, 2023***: Judy Fan is giving a talk in [Psychology at Carnegie Mellon University](https://www.cmu.edu/dietrich/psychology/)!
 
-***January XX, 2023***: Judy Fan is giving a talk in [Psychology at the University of Oregon](https://psychology.uoregon.edu/)!
+***January 9, 2023***: Judy Fan is giving a talk in [Psychology at the University of Oregon](https://psychology.uoregon.edu/)!
 
 ***Dec 8, 2022***: Congrats to Zoe Tait, Hannah Lloyd, and Erik Brockbank for winning a Best Presentation Award at [PsychTERMS](https://www.psychterms.com/) for their work on understanding how student attitudes and engagement relate to academic achievement in introductory statistics courses!
 
