@@ -11,9 +11,9 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***May 19, 2023***: Judy Fan is giving an invited talk at the [Studies in Language, Information, Meaning, and Expression Workshop](https://philosophy.ucla.edu/event/studies-in-language-information-meaning-and-expression-slime/) at the [University of California, Los Angeles](https://www.ucla.edu/)!
 
-***May 4, 2023***: Judy Fan is giving an invited talk at the [Neurosymbolic Generative Models](https://nesygems.github.io/) Workshop at [International Conference on Learning Representations(ICLR)](https://iclr.cc/)!
+***May 4, 2023***: Judy Fan is giving an invited talk at the [Neurosymbolic Generative Models](https://nesygems.github.io/) Workshop at [International Conference on Learning Representations](https://iclr.cc/)!
 
-***April 24, 2023***: Congratulations to Xuanchen Lu on his paper’s acceptance to [International Conference on Machine Learning (ICML)](https://icml.cc/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details.
+***April 24, 2023***: Congratulations to Xuanchen Lu on his paper’s acceptance to [International Conference on Machine Learning](https://icml.cc/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details.
 
 ***April 6, 2023***: We had 4 papers accepted to the [2023 Cognitive Science Society Annual Meeting](https://cognitivesciencesociety.org/cogsci-2023/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details.
 
