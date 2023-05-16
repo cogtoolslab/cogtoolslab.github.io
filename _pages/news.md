@@ -5,11 +5,7 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***July XX, 2023***: Judy Fan is giving an invited talk at the "Marks and Meanings: new perspectives on the evolution of human symbolic behavior" Symposium at [CogSci 2023](https://cognitivesciencesociety.org/cogsci-2023/)!
-
-***July XX, 2023***: Judy Fan is co-organizing a workshop at [CogSci 2023](https://cognitivesciencesociety.org/cogsci-2023/), “How does the mind discover useful abstractions?”!
-
-***July XX, 2023***: Felix Binder and Judy Fan are co-organizing a workshop at [CogSci 2023](https://cognitivesciencesociety.org/cogsci-2023/), “Advancing Cognitive Science and AI with Cognitive-AI Benchmarking”!
+***July 26, 2023***: At [CogSci 2023](https://cognitivesciencesociety.org/cogsci-2023/), Judy Fan is co-hosting workshop with Lionel Wong, Wai Keen Vong, and Marcelo Mattar, , entitled, "How does the mind discover useful abstractions?" In addition, Felix Binder, Judy Fan, Yoni Friedman, Logan Cross, Robert Hawkins, and Dan Yamins are co-hosting another workshop entitled "Advancing Cognitive Science and AI with Cognitive-AI Benchmarking." Judy Fan is also giving an invited talk at the symposium, "Marks and Meanings: new perspectives on the evolution of human symbolic behavior."
 
 ***July 4, 2023***: Judy Fan is an instructor at the [Computational Summer School on Modeling Social and collective behavior (COSMOS)](https://cosmos-konstanz.github.io/)!
 
