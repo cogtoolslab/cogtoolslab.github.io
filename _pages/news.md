@@ -5,6 +5,12 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+***July XX, 2023***: Judy Fan is giving an invited talk at the "Marks and Meanings: new perspectives on the evolution of human symbolic behavior" Symposium at [CogSci 2023](https://cognitivesciencesociety.org/cogsci-2023/)!
+
+***July XX, 2023***: Judy Fan is co-organizing a workshop at [CogSci 2023](https://cognitivesciencesociety.org/cogsci-2023/), “How does the mind discover useful abstractions?”!
+
+***July XX, 2023***: Felix Binder and Judy Fan are co-organizing a workshop at [CogSci 2023](https://cognitivesciencesociety.org/cogsci-2023/), “Advancing Cognitive Science and AI with Cognitive-AI Benchmarking”!
+
 ***July 4, 2023***: Judy Fan is an instructor at the [Computational Summer School on Modeling Social and collective behavior (COSMOS)](https://cosmos-konstanz.github.io/)!
 
 ***May 19, 2023***: Judy Fan is giving an invited talk at the [Studies in Language, Information, Meaning, and Expression Workshop](https://philosophy.ucla.edu/event/studies-in-language-information-meaning-and-expression-slime/) at the [University of California, Los Angeles](https://www.ucla.edu/)!
