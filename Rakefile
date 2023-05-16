@@ -43,8 +43,9 @@ task :publish => [:build] do
     message = "Site updated at #{Time.now.utc}"
     puts "\n## Site updated at #{Time.now.utc}"
     system "git commit -m #{message.inspect}"
-    system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
+    status = system("git remote add origin git@github.com:#{GITHUB_REPONAME}.git")
     puts "\n## Attempt to execute git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
+    puts status ? "Success" : "Failed"
     system "git push origin master --force"
 
     Dir.chdir pwd
