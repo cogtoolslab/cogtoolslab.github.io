@@ -38,7 +38,7 @@ task :publish => [:build] do
     pwd = Dir.pwd
     Dir.chdir tmp
     puts "\n## Initialize master"
-    system "git init"
+    system "git init -b master"
     system "git add ."
     message = "Site updated at #{Time.now.utc}"
     puts "\n## Site updated at #{Time.now.utc}"
