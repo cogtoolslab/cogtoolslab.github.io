@@ -7,11 +7,11 @@ featured_image: /images/demo/demo-landscape.jpg
 
 The Cognitive Tools Lab is always on the lookout for outstanding postdocs and graduate students. This document will give you a sense for what we are looking for in a prospective lab member, and what the next steps to take are. Please read it in its entirety before contacting Dr. Fan to ask about doing research.
 
-### Open Position: Full-Time Lab Manager (updated: April 19, 2023)
+### Open Position: Full-Time Lab Manager (updated: May 30, 2023)
 
 We are currently seeking a full-time lab manager for a 1-year appointment beginning in Summer/Fall 2023. More information about this position is available by navigating to our [application form](https://forms.gle/yApnsQtMhCEnB9tH8). 
 
-Applications will be reviewed on a rolling basis. Please submit your application by **May 17, 2023** to receive full consideration.
+The application window is now closed. We expect to extend invitations to interview by **June 13, 2023,** with the hope that these interviews can be scheduled during the subsequent two weeks, and a final decision reached by **July 1, 2023.** We will be notifying all candidates of the status of their application at each of these stages. Thank you to everyone who expressed interest in working with us.
 
 ### What We Are Looking For
 
