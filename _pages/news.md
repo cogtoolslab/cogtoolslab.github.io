@@ -15,6 +15,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***May 19, 2023***: Judy Fan is giving an invited talk at the [Studies in Language, Information, Meaning, and Expression Workshop](https://philosophy.ucla.edu/event/studies-in-language-information-meaning-and-expression-slime/) at the [University of California, Los Angeles](https://www.ucla.edu/)!
 
+***May 19-24, 2023***: Several members of the lab presented their work at the Vision Sciences Society Annual Meeting in St. Pete's Beach, FL! 
+
 ***May 11, 2023***: Judy Fan is giving an invited talk at the [Imagistic Cognition](https://philevents.org/event/show/107925) Workshop at the [University of Salzburg](https://www.plus.ac.at/?lang=en)!
 
 ***May 4, 2023***: Judy Fan is giving an invited talk at the [Neurosymbolic Generative Models](https://nesygems.github.io/) Workshop at [International Conference on Learning Representations](https://iclr.cc/)!
