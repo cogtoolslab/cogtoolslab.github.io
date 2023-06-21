@@ -7,7 +7,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***September 17, 2023***: We welcome new PhD student Sean Anderson to the lab!
 
-***August 6-16, 2023***: Judy Fan is an instructor at Dartmouth's [MIND Summer School](https://mindsummerschool.org/index.html). This year's theme is "Interacting Minds."
+<!-- ***August 6-16, 2023***: Judy Fan is an instructor at Dartmouth's [MIND Summer School](https://mindsummerschool.org/index.html). This year's theme is "Interacting Minds." -->
 
 ***July 26-30, 2023***: In addition to our lab's papers that will be presented at [CogSci 2023](https://cognitivesciencesociety.org/cogsci-2023/), Judy Fan is co-hosting a workshop with Lionel Wong, Wai Keen Vong, and Marcelo Mattar, entitled, "How does the mind discover useful abstractions?" In addition, Felix Binder, Judy Fan, Yoni Friedman, Logan Cross, Robert Hawkins, and Dan Yamins are co-hosting a workshop entitled "Advancing Cognitive Science and AI with Cognitive-AI Benchmarking." Judy Fan is also giving an invited talk at the symposium, "Marks and Meanings: new perspectives on the evolution of human symbolic behavior."
 
