@@ -13,6 +13,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***July 4, 2023***: Judy Fan is an instructor at the [Computational Summer School on Modeling Social and collective behavior (COSMOS)](https://cosmos-konstanz.github.io/)!
 
+***June 18, 2023***: Judy Fan is giving an invited talk at the 7th Annual [Center for Human-Compatible AI](https://humancompatible.ai/) Workshop in Pacific Grove, CA!
+
 ***May 19, 2023***: Judy Fan is giving an invited talk at the [Studies in Language, Information, Meaning, and Expression Workshop](https://philosophy.ucla.edu/event/studies-in-language-information-meaning-and-expression-slime/) at the [University of California, Los Angeles](https://www.ucla.edu/)!
 
 ***May 19-24, 2023***: Several members of the lab presented their work at the Vision Sciences Society Annual Meeting in St. Pete's Beach, FL! 
