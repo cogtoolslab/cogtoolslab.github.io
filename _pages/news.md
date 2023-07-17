@@ -25,6 +25,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***April 24, 2023***: Congratulations to Xuanchen Lu on his paper’s acceptance to [International Conference on Machine Learning (ICML)](https://icml.cc/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details.
 
+***April 20, 2023***: Judy Fan, Christopher Potts, & Elisa Kreiss were awarded a Generative AI for the Future of Learning Seed Grant from the Stanford Accelerator for Learning and Stanford Institute for Human-Centered AI. See [this announcement](https://acceleratelearning.stanford.edu/story/generative-ai-seed-grants/) for details.
+
 ***April 6, 2023***: We had 4 papers accepted to the [2023 Cognitive Science Society Annual Meeting](https://cognitivesciencesociety.org/cogsci-2023/)! Please see our [Papers](https://cogtoolslab.github.io/papers.html) page for details.
 
 <!-- ***April 28, 2023***: Judy Fan is giving a talk in [Psychology at the University of California, Santa Cruz](https://psychology.ucsc.edu/). -->
