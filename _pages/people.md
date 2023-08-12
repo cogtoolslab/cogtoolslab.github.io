@@ -16,18 +16,38 @@ _Assistant Professor of Psychology_
 <a href="{{site.url}}/cv/FanJudith_CV.pdf" target="_blank" rel="noopener noreferrer">View CV</a>
 {: .lab-member-name-plate}
 
-<!-- ### Postdocs
-
-This could be you! -->
-
 ### Lab Manager
+
+![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
+
+Arnav Verma
+{: .lab-member-name-plate}
+
+### Research Staff
+
+![image]({{site.baseurl}}/images/people/LuX_photo.jpg){: .lab-member-img-little}
+
+[Xuanchen (Charles) Lu](https://xuanchenlu.com/)
+{: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/TaitZ_photo.jpg){: .lab-member-img-little}
 
 Zoe Tait
 {: .lab-member-name-plate}
 
+### Postdocs
+
+![image]({{site.baseurl}}/images/people/BrockbankE_photo.jpg){: .lab-member-img-little}
+
+[Erik Brockbank](http://www.erikbrockbank.com/)
+{: .lab-member-name-plate}
+
 ### PhD Students
+
+![image]({{site.baseurl}}/images/people/harold.png){: .lab-member-img-little}
+
+[Sean Anderson](https://spascience.github.io/)
+{: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/BinderF_photo.png){: .lab-member-img-little}
 
@@ -61,28 +81,22 @@ Hannah Lloyd
 
 ### Affiliated PhD Students
 
-![image]({{site.baseurl}}/images/people/BrockbankE_photo.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
 
-[Erik Brockbank](http://www.erikbrockbank.com/)
+[Kushin Mukherjee](https://kushinm.github.io/)
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/OeyL_photo.png){: .lab-member-img-little}
-
-[Lauren Oey](https://la-oey.github.io/)
-{: .lab-member-name-plate}
-
-### Masters Students
+<!-- ### Masters Students
 
 ![image]({{site.baseurl}}/images/people/LuX_photo.jpg){: .lab-member-img-little}
 
 [Xuanchen (Charles) Lu](https://xuanchenlu.com/)
 {: .lab-member-name-plate}
-
+ -->
 ### Current Undergraduate Students
 
 Rio Aguina-Kang \\
 Nora Chen \\
-Vryan Feliciano
 
 ### Collaborators
 [Kelsey Allen](https://web.mit.edu/krallen/www/), _DeepMind_ \\
@@ -99,7 +113,7 @@ Vryan Feliciano
 [David Kirsh](http://adrenaline.ucsd.edu/kirsh/), _UCSD_ \\
 [Bria Long](https://www.brialong.com/), _Stanford_ \\
 [Marcelo Mattar](https://mattarlab.ucsd.edu/), _UCSD_ \\
-[Kushin Mukherjee](https://kushinm.github.io/), _UW Madison_ \\
+<!-- [Kushin Mukherjee](https://kushinm.github.io/), _UW Madison_ \\ -->
 [Ken Norman](https://compmem.princeton.edu/), _Princeton_ \\
 [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/), _UCSD_ \\
 [Dorsa Sadigh](https://dorsa.fyi/), _Stanford_ \\
@@ -114,6 +128,8 @@ Vryan Feliciano
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
+Lauren Oey (2023 PhD); now: postdoc at Princeton University
+Vryan Feliciano
 Sirui Tao (2021-2022; HDSI Undergraduate Research Fellowship) \\
 Justin Yang (Lab Manager, 2022 Honors Thesis, 2021 TRELS Scholar, 2020 Chancellor's URS Program; now: Data Scientist at Signifyd) \\
 Jack Terwilliger (2022 rotation; COGS PhD program) \\
@@ -125,8 +141,3 @@ Zhe Huang (2021 TRELS Scholar) \\
 Julia Xu (2020 HDSI UG Scholar) \\
 Tone Xu (2019-2020 PhD affiliate; COGS PhD program) \\
 Hui Xin Ng (2019 rotation; COGS PhD program)
-
-
-
-
-
