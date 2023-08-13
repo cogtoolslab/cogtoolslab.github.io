@@ -96,7 +96,7 @@ Hannah Lloyd
 ### Current Undergraduate Students
 
 Rio Aguina-Kang \\
-Nora Chen \\
+Nora Chen
 
 ### Collaborators
 [Kelsey Allen](https://web.mit.edu/krallen/www/), _DeepMind_ \\
