@@ -20,7 +20,7 @@ _Assistant Professor of Psychology_
 
 ![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
 
-Arnav Verma
+[Arnav Verma](https://www.arnavverma.com/)
 {: .lab-member-name-plate}
 
 ### Research Staff
