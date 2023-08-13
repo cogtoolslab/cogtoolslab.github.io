@@ -44,7 +44,7 @@ Zoe Tait
 
 ### PhD Students
 
-![image]({{site.baseurl}}/images/people/harold.png){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
 
 [Sean Anderson](https://spascience.github.io/)
 {: .lab-member-name-plate}
