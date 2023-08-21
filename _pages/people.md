@@ -103,17 +103,18 @@ Nora Chen
 [Jacob Andreas](https://www.mit.edu/~jda/), _MIT_ \\
 [Dave Barner](http://www.ladlab.com/), _UCSD_ \\
 [Dan Bear](http://neuroailab.stanford.edu/), _Stanford_ \\
+[Wilma Bainbridge](https://brainbridgelab.uchicago.edu/), _U. Chicago_ \\
 [Steven Dow](http://spdow.ucsd.edu/), _UCSD_ \\
 [Mike Frank](https://web.stanford.edu/~mcfrank/), _Stanford_ \\
 [Noah Goodman](https://cocolab.stanford.edu/), _Stanford_ \\
 [David Ha](http://otoro.net/), _Google_ \\
-[Robert Hawkins](https://rxdhawkins.com/), _Princeton_ \\
+[Robert Hawkins](https://rxdhawkins.com/), UW-Madison_ \\
+[Martin Hebart](http://martin-hebart.de/), _U. Giessen & MPI: Cognitive and Brain Sciences_ \\
 [Ben Hutchinson](https://hulacon.uoregon.edu/), _U. Oregon_ \\
-[George Kachergis](https://kachergis.com/), _Stanford_ \\
+[George Kachergis](https://kachergis.com/), _Skillprint_ \\
 [David Kirsh](http://adrenaline.ucsd.edu/kirsh/), _UCSD_ \\
 [Bria Long](https://www.brialong.com/), _Stanford_ \\
 [Marcelo Mattar](https://mattarlab.ucsd.edu/), _UCSD_ \\
-<!-- [Kushin Mukherjee](https://kushinm.github.io/), _UW Madison_ \\ -->
 [Ken Norman](https://compmem.princeton.edu/), _Princeton_ \\
 [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/), _UCSD_ \\
 [Dorsa Sadigh](https://dorsa.fyi/), _Stanford_ \\
