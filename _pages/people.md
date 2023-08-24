@@ -108,7 +108,7 @@ Nora Chen
 [Mike Frank](https://web.stanford.edu/~mcfrank/), _Stanford_ \\
 [Noah Goodman](https://cocolab.stanford.edu/), _Stanford_ \\
 [David Ha](http://otoro.net/), _Google_ \\
-[Robert Hawkins](https://rxdhawkins.com/), UW-Madison_ \\
+[Robert Hawkins](https://rxdhawkins.com/), _UW-Madison_ \\
 [Martin Hebart](http://martin-hebart.de/), _U. Giessen & MPI: Cognitive and Brain Sciences_ \\
 [Ben Hutchinson](https://hulacon.uoregon.edu/), _U. Oregon_ \\
 [George Kachergis](https://kachergis.com/), _Skillprint_ \\
