@@ -18,7 +18,7 @@ _Assistant Professor of Psychology_
 
 ### Lab Manager
 
-![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/VermaA_photo.jpeg){: .lab-member-img-little}
 
 [Arnav Verma](https://www.arnavverma.com/)
 {: .lab-member-name-plate}
@@ -44,7 +44,7 @@ Zoe Tait
 
 ### PhD Students
 
-![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/AndersonS_photo.png){: .lab-member-img-little}
 
 [Sean Anderson](https://spascience.github.io/)
 {: .lab-member-name-plate}
@@ -81,7 +81,7 @@ Hannah Lloyd
 
 ### Affiliated PhD Students
 
-![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/MukherjeeK_photo.jpg){: .lab-member-img-little}
 
 [Kushin Mukherjee](https://kushinm.github.io/)
 {: .lab-member-name-plate}
