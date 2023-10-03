@@ -5,7 +5,7 @@ description: info for prospective students
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-The Cognitive Tools Lab is always on the lookout for outstanding postdocs and graduate students. This document will give you a sense for what we are looking for in a prospective lab member, and what the next steps to take are. Please read it in its entirety before contacting Dr. Fan to ask about doing research.
+If you are interested in joining the lab, this document will give you a sense for what we are looking for in a prospective lab member, and what the next steps are to take. Please read it in its entirety before contacting Dr. Fan to inquire about doing research.
 
 <!-- ### Open Position: Full-Time Lab Manager (updated: May 30, 2023)
 
@@ -38,12 +38,12 @@ To learn more about the expectations we have of all members of the lab, includin
 
 ### Prospective PhD Students and Postdocs
 
-<!-- **Dr. Fan is actively recruiting both postdocs and graduate students to start in Fall 2023.** -->
+**Dr. Fan is recruiting PhD students via the Stanford Psychology PhD program who intend to start in Fall 2024. We are not currently recruiting postdocs, research staff, or volunteers.**
 
-If you are interested in joining the lab as a PhD student or postdoc, please introduce yourself to Dr. Fan via [email](mailto:jefan@stanford.edu) and include a current academic CV. It is a good idea in this email to articulate what research questions you are most excited about and some specific reasons why you believe the Cognitive Tools Lab would be an environment where you believe you could thrive, as well as how you believe you could contribute to our community. 
+If you are interested in joining the lab as a PhD student, please introduce yourself to Dr. Fan via [email](mailto:jefan@stanford.edu) and include a current academic CV. It is a good idea in this email to articulate what research questions you are most excited about and some specific reasons why you believe the Cognitive Tools Lab would be an environment where you believe you could thrive, as well as how you believe you could contribute to our community. 
 <!-- She will do her best to respond and discuss with you whether the lab might be a good fit.  -->
 
-Please note that it may not always be possible for Dr. Fan to reply and discuss with you whether the lab might be a good fit. If you are interested in joining the lab as a PhD student, please submit a full application to the [Stanford PhD Program in Psychology](https://psychology.stanford.edu/admissions/phd-admissions) and indicate your interest in the lab on the form to ensure that Dr. Fan will receive & read it!
+Please note that it may not always be possible for Dr. Fan to reply and discuss with you whether the lab might be a good fit. Prospective PhD students are encouraged to submit a full application to the [Stanford PhD Program in Psychology](https://psychology.stanford.edu/admissions/phd-admissions) and indicate your interest in our lab to ensure that Dr. Fan will receive & read it!
 
 <!-- ### Current Stanford Students -->
 
