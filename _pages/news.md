@@ -5,9 +5,11 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+***November 1, 2023***: Judy Fan gave the closing keynote at the [User Interface Software and Technology (UIST)](https://uist.acm.org/2023/) meeting in San Francisco, CA!
+
 ***September 17, 2023***: We welcome new PhD student Sean Anderson to the lab!
 
-***September 1, 2023***: We welcome postdoc Erik Brockbank to the lab! Dr. Brockbank is jointly sponsored by the [Causality in Cognition Lab](https://cicl.stanford.edu/).
+***September 1, 2023***: We welcome postdoc Erik Brockbank to the lab! Dr. Brockbank is also a member of the [Causality in Cognition Lab](https://cicl.stanford.edu/).
 
 ***August 14, 2023***: We welcome new Lab Manager Arnav Verma to the lab!
 
