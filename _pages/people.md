@@ -118,13 +118,17 @@ Nora Chen
 [Ken Norman](https://compmem.princeton.edu/), _Princeton_ \\
 [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/), _UCSD_ \\
 [Dorsa Sadigh](https://dorsa.fyi/), _Stanford_ \\
+[Ariel Shamir](https://faculty.runi.ac.il/arik/site/index.asp), _Reichman University_ \\
 [Jordan Suchow](https://suchow.io/), _Stevens Institute of Technology_ \\
 [Jordan Taylor](http://ipalab.princeton.edu/), _Princeton_ \\
 [Josh Tenenbaum](https://cocosci.mit.edu/josh), _MIT_ \\
 [Nick Turk-Browne](https://ntblab.yale.edu/), _Yale_ \\
+[Yael Vinker](https://yael-vinker.github.io/website/), _Tel Aviv University_ \\
 [Ed Vul](http://www.evullab.org/), _UCSD_ \\
 [Caren Walker](http://elc-lab-ucsd.com/). _UCSD_ \\
 [Jeff Wammes](https://www.thelamplab.ca/), _Queens_ \\
+[Xiaolong Wang](https://xiaolonw.github.io/), _UC San Diego_ \\
+[Lionel Wong](https://web.mit.edu/zyzzyva/www/academic.html), _MIT_ \\
 [Mike Wu](https://www.mikehwu.com/), _Stanford_ \\
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
