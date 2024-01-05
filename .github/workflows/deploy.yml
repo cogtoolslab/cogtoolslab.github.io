@@ -1,0 +1,21 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Build and Deploy
+        run: |
+          # Add your build and deployment commands here
+          npm install
+          npm run build
+          # Deploy to GitHub Pages or another hosting service
