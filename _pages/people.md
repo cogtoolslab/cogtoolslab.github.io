@@ -79,11 +79,26 @@ Hannah Lloyd
 [Haoliang Wang](https://haoliangwang.github.io/)
 {: .lab-member-name-plate}
 
-### Affiliated PhD Students
+### Lab Affiliates
 
 ![image]({{site.baseurl}}/images/people/MukherjeeK_photo.jpg){: .lab-member-img-little}
 
 [Kushin Mukherjee](https://kushinm.github.io/)
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/WongL_photo.png){: .lab-member-img-little}
+
+[Lionel Wong](https://web.mit.edu/zyzzyva/www/academic.html)
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/YangJ_photo.jpg){: .lab-member-img-little}
+
+[Justin Yang](https://justintheyang.github.io/)
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/ZhuR_photo.jpg){: .lab-member-img-little}
+
+[Rebecca Zhu](https://profiles.stanford.edu/rebecca-zhu)
 {: .lab-member-name-plate}
 
 <!-- ### Masters Students
@@ -95,8 +110,7 @@ Hannah Lloyd
  -->
 ### Current Undergraduate Students
 
-Rio Aguina-Kang \\
-Nora Chen
+Rio Aguina-Kang
 
 ### Collaborators
 [Kelsey Allen](https://web.mit.edu/krallen/www/), _DeepMind_ \\
