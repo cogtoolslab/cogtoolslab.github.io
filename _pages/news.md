@@ -15,7 +15,7 @@ Following your request to use the format "Judy Fan is giving an invited talk at 
 
 ***February XX, 2025***: Judy Fan is giving an invited talk at the [University of Maryland, College Park](https://www.umd.edu/).
 
-***September XX, 2024***: Judy Fan is giving an invited talk at the [Workshop on Analyzing High-dimensional Traces of Intelligent Behavior](http://www.ipam.ucla.edu/), Institute for Pure & Applied Mathematics, University of California, Los Angeles.
+***September XX, 2024***: Judy Fan is giving an invited talk at the Workshop on Analyzing High-dimensional Traces of Intelligent Behavior, [Institute for Pure & Applied Mathematics, University of California, Los Angeles](http://www.ipam.ucla.edu/).
 
 ***April XX, 2024***: Judy Fan is giving an invited talk at [Johns Hopkins University](https://www.jhu.edu/).
 
