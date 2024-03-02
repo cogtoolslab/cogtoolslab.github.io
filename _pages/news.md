@@ -13,15 +13,13 @@ Following your request to use the format "Judy Fan is giving an invited talk at 
 
 ---
 
-***February XX, 2025***: Judy Fan is giving an invited talk at the [University of Maryland, College Park](https://www.umd.edu/).
+***September 23, 2024***: Judy Fan is giving an invited talk at the Workshop on Analyzing High-dimensional Traces of Intelligent Behavior, [Institute for Pure & Applied Mathematics, University of California, Los Angeles](https://www.ipam.ucla.edu/programs/workshops/workshop-i-analyzing-high-dimensional-traces-of-intelligent-behavior/).
 
-***September XX, 2024***: Judy Fan is giving an invited talk at the Workshop on Analyzing High-dimensional Traces of Intelligent Behavior, [Institute for Pure & Applied Mathematics, University of California, Los Angeles](http://www.ipam.ucla.edu/).
+***April 10, 2024***: Judy Fan is giving an invited talk at [Johns Hopkins University](https://www.jhu.edu/).
 
-***April XX, 2024***: Judy Fan is giving an invited talk at [Johns Hopkins University](https://www.jhu.edu/).
+***March 5, 2024***: Judy Fan is giving an invited talk at the [University of California, Irvine](https://www.uci.edu/).
 
-***March XX, 2024***: Judy Fan is giving an invited talk at the [University of California, Irvine](https://www.uci.edu/).
-
-***March XX, 2024***: Judy Fan is giving an invited talk at the [University of California, Santa Cruz](https://www.ucsc.edu/).
+***March 1, 2024***: Judy Fan is giving an invited talk at the [University of California, Santa Cruz](https://www.ucsc.edu/).
 
 ***February 7, 2024***: Judy Fan is giving an invited talk at the [Stanford HAI Seminar Series](https://hai.stanford.edu/events/judith-fan-cognitive-tools-uncovering-useful-abstractions).
 
