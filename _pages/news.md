@@ -5,14 +5,6 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-Based on the format provided, here's how each event in your list could be formatted:
-
----
-
-Following your request to use the format "Judy Fan is giving an invited talk at ", here's the revised list:
-
----
-
 ***September 23, 2024***: Judy Fan is giving an invited talk at the Workshop on Analyzing High-dimensional Traces of Intelligent Behavior, [Institute for Pure & Applied Mathematics, University of California, Los Angeles](https://www.ipam.ucla.edu/programs/workshops/workshop-i-analyzing-high-dimensional-traces-of-intelligent-behavior/).
 
 ***April 10, 2024***: Judy Fan is giving an invited talk at [Johns Hopkins University](https://www.jhu.edu/).
