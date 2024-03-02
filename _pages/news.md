@@ -5,6 +5,30 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+Based on the format provided, here's how each event in your list could be formatted:
+
+---
+
+Following your request to use the format "Judy Fan is giving an invited talk at ", here's the revised list:
+
+---
+
+***February XX, 2025***: Judy Fan is giving an invited talk at the [University of Maryland, College Park](https://www.umd.edu/).
+
+***September XX, 2024***: Judy Fan is giving an invited talk at the Workshop on Analyzing High-dimensional Traces of Intelligent Behavior, [Institute for Pure & Applied Mathematics, University of California, Los Angeles](http://www.ipam.ucla.edu/).
+
+***April XX, 2024***: Judy Fan is giving an invited talk at [Johns Hopkins University](https://www.jhu.edu/).
+
+***March XX, 2024***: Judy Fan is giving an invited talk at the [University of California, Irvine](https://www.uci.edu/).
+
+***March XX, 2024***: Judy Fan is giving an invited talk at the [University of California, Santa Cruz](https://www.ucsc.edu/).
+
+***February 7, 2024***: Judy Fan is giving an invited talk at the [Stanford HAI Seminar Series](https://hai.stanford.edu/events/judith-fan-cognitive-tools-uncovering-useful-abstractions).
+
+***February 7, 2024***: Judy Fan is giving an invited talk at [TU Darmstadt](https://www.tu-darmstadt.de/), Germany.
+
+***February 1, 2024***: Judy Fan is giving an invited talk at the [Stanford AI + Education Summit](https://hai.stanford.edu/events/aieducation-summit-advancing-human-learning-ai-technologies).
+
 ***November 1, 2023***: Judy Fan gave the closing keynote at the [User Interface Software and Technology (UIST)](https://uist.acm.org/2023/) meeting in San Francisco, CA!
 
 ***September 17, 2023***: We welcome new PhD student Sean Anderson to the lab!
