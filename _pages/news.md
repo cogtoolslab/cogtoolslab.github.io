@@ -7,25 +7,25 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***September 23, 2024***: Judy Fan is giving an invited talk at the Workshop on Analyzing High-dimensional Traces of Intelligent Behavior, [Institute for Pure & Applied Mathematics, University of California, Los Angeles](https://www.ipam.ucla.edu/programs/workshops/workshop-i-analyzing-high-dimensional-traces-of-intelligent-behavior/).
 
-***April 10, 2024***: Judy Fan is giving an invited talk at [Johns Hopkins University](https://www.jhu.edu/).
+***April 10, 2024***: Judy Fan is giving an invited talk in Psychological & Brain Sciences at [Johns Hopkins University](https://www.jhu.edu/).
 
 ***March 5, 2024***: Judy Fan is giving an invited talk in Language Science at the [University of California, Irvine](https://www.uci.edu/).
 
-***March 1, 2024***: Judy Fan is giving an invited talk at the [University of California, Santa Cruz](https://www.ucsc.edu/).
+***March 1, 2024***: Judy Fan is giving an invited talk in Psychology at the [University of California, Santa Cruz](https://www.ucsc.edu/).
 
 ***February 7, 2024***: Judy Fan is giving an invited talk as part of the [Stanford HAI Seminar Series](https://hai.stanford.edu/events/judith-fan-cognitive-tools-uncovering-useful-abstractions).
 
-***February 7, 2024***: Judy Fan is giving an invited talk at [TU Darmstadt](https://www.tu-darmstadt.de/), Germany.
+***February 7, 2024***: Judy Fan is giving an invited colloquium talk at [TU Darmstadt](https://www.tu-darmstadt.de/).
 
 ***February 1, 2024***: Judy Fan is giving an invited talk at the [Stanford AI + Education Summit](https://hai.stanford.edu/events/aieducation-summit-advancing-human-learning-ai-technologies).
 
 ***November 1, 2023***: Judy Fan gave the closing keynote at the [User Interface Software and Technology (UIST)](https://uist.acm.org/2023/) meeting in San Francisco, CA!
 
-***September 17, 2023***: We welcome new PhD student Sean Anderson to the lab!
+***September 17, 2023***: We welcome new PhD student [Sean Anderson](https://spascience.github.io/) to the lab!
 
 ***September 1, 2023***: We welcome postdoc Erik Brockbank to the lab! Dr. Brockbank is also a member of the [Causality in Cognition Lab](https://cicl.stanford.edu/).
 
-***August 14, 2023***: We welcome new Lab Manager Arnav Verma to the lab!
+***August 14, 2023***: We welcome new Lab Manager [Arnav Verma](https://www.arnavverma.com/) to the lab!
 
 ***July 26-30, 2023***: In addition to our lab's papers that will be presented at [CogSci 2023](https://cognitivesciencesociety.org/cogsci-2023/), Judy Fan is co-hosting a workshop with Lionel Wong, Wai Keen Vong, and Marcelo Mattar, entitled, ["How does the mind discover useful abstractions?"](https://cogsci-abstractions-workshop.github.io/) In addition, Felix Binder, Judy Fan, Yoni Friedman, Logan Cross, Robert Hawkins, and Dan Yamins are co-hosting a workshop entitled ["Advancing Cognitive Science and AI with Cognitive-AI Benchmarking."](https://cognitiveaibenchmarking.org/) Judy Fan is also giving an invited talk at the symposium, ["Marks and Meanings: new perspectives on the evolution of human symbolic behavior."](https://escholarship.org/content/qt36p1d5k6/qt36p1d5k6.pdf)
 
