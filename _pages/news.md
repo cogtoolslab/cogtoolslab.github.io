@@ -17,11 +17,11 @@ Following your request to use the format "Judy Fan is giving an invited talk at 
 
 ***April 10, 2024***: Judy Fan is giving an invited talk at [Johns Hopkins University](https://www.jhu.edu/).
 
-***March 5, 2024***: Judy Fan is giving an invited talk at the [University of California, Irvine](https://www.uci.edu/).
+***March 5, 2024***: Judy Fan is giving an invited talk in Language Science at the [University of California, Irvine](https://www.uci.edu/).
 
 ***March 1, 2024***: Judy Fan is giving an invited talk at the [University of California, Santa Cruz](https://www.ucsc.edu/).
 
-***February 7, 2024***: Judy Fan is giving an invited talk at the [Stanford HAI Seminar Series](https://hai.stanford.edu/events/judith-fan-cognitive-tools-uncovering-useful-abstractions).
+***February 7, 2024***: Judy Fan is giving an invited talk as part of the [Stanford HAI Seminar Series](https://hai.stanford.edu/events/judith-fan-cognitive-tools-uncovering-useful-abstractions).
 
 ***February 7, 2024***: Judy Fan is giving an invited talk at [TU Darmstadt](https://www.tu-darmstadt.de/), Germany.
 
