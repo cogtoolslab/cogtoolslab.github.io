@@ -13,11 +13,11 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***March 1, 2024***: Judy Fan is giving an invited talk in Psychology at the [University of California, Santa Cruz](https://www.ucsc.edu/).
 
-***February 7, 2024***: Judy Fan is giving an invited talk as part of the [Stanford HAI Seminar Series](https://hai.stanford.edu/events/judith-fan-cognitive-tools-uncovering-useful-abstractions).
+***February 7, 2024***: Judy Fan is giving an invited talk as part of the [Stanford HAI Seminar Series](https://hai.stanford.edu/events/judith-fan-cognitive-tools-uncovering-useful-abstractions). Watch the [recording](https://www.youtube.com/watch?v=GcyAXVND3u8).
 
 ***February 7, 2024***: Judy Fan is giving an invited colloquium talk at [TU Darmstadt](https://www.tu-darmstadt.de/).
 
-***February 1, 2024***: Judy Fan is giving an invited talk at the [Stanford AI + Education Summit](https://hai.stanford.edu/events/aieducation-summit-advancing-human-learning-ai-technologies).
+***February 1, 2024***: Judy Fan is giving an invited talk at the [Stanford AI + Education Summit](https://hai.stanford.edu/events/aieducation-summit-advancing-human-learning-ai-technologies). Watch the [recording](https://youtu.be/UfnKD5ipFcU?si=6miD8Gn4DSFIZ1BA&t=2219).
 
 ***November 1, 2023***: Judy Fan gave the closing keynote at the [User Interface Software and Technology (UIST)](https://uist.acm.org/2023/) meeting in San Francisco, CA!
 
