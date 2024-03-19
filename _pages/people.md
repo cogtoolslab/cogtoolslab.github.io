@@ -110,7 +110,10 @@ Hannah Lloyd
  -->
 ### Current Undergraduate Students
 
-Rio Aguina-Kang
+![image]({{site.baseurl}}/images/people/AguinaKangR_photo.jpeg){: .lab-member-img-little}
+
+[Rio Aguina-Kang](https://www.linkedin.com/in/raguinak/)
+{: .lab-member-name-plate}
 
 ### Collaborators
 [Kelsey Allen](https://web.mit.edu/krallen/www/), _DeepMind_ \\
