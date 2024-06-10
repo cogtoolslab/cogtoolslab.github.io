@@ -7,6 +7,10 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***September 23, 2024***: Judy Fan is giving an invited talk at the Workshop on Analyzing High-dimensional Traces of Intelligent Behavior, [Institute for Pure & Applied Mathematics, University of California, Los Angeles](https://www.ipam.ucla.edu/programs/workshops/workshop-i-analyzing-high-dimensional-traces-of-intelligent-behavior/).
 
+***September 17, 2023***: We welcome new PhD student Linas Nasvytis to the lab!
+
+***September 17, 2023***: We welcome new PhD student [Alexa Tartaglini](https://www.alexatartaglini.com/) to the lab!
+
 ***July 10, 2024***: We welcome new Research Staff Kristine Zheng to the lab!
 
 ***July 1, 2024***: We welcome postdoc [Junyi Chu](https://jchu10.github.io/) to the lab! Dr. Chu is also a member of the [Social Learning Lab](https://sll.stanford.edu/index.html).
