@@ -7,6 +7,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***September 23, 2024***: Judy Fan is giving an invited talk at the Workshop on Analyzing High-dimensional Traces of Intelligent Behavior, [Institute for Pure & Applied Mathematics, University of California, Los Angeles](https://www.ipam.ucla.edu/programs/workshops/workshop-i-analyzing-high-dimensional-traces-of-intelligent-behavior/).
 
+***June-July, 2024:*** Kartik Chandra, Anne Harrington, Sean P. Anderson, Katherine Collins, Christopher Kymn, Kushin Mukherjee, Arnav Verma and Judy Fan are co-organizing a pre-conference workshop at CogSci 2024, ["COGGRAPH 2024: Building bridges between cognitive science and computer graphics"](https://coggraph.github.io/)!
+
 ***May 14, 2024***: Will McCarthy successfully defended his PhD dissertation, "Cognitive consequences of physical assembly!" Will is moving on to a position at Autodesk Research.
 
 ***April 10, 2024***: Judy Fan is giving an invited talk in Psychological & Brain Sciences at [Johns Hopkins University](https://www.jhu.edu/).
