@@ -66,9 +66,6 @@ Sebastian Holt
 
 ![image]({{site.baseurl}}/images/people/LloydH_photo.jpg){: .lab-member-img-little}
 
-Hannah Lloyd
-{: .lab-member-name-plate}
-
 ![image]({{site.baseurl}}/images/people/McCarthyW_photo.jpg){: .lab-member-img-little}
 
 [Will McCarthy](http://wpmccarthy.com/)
@@ -151,6 +148,7 @@ Hannah Lloyd
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
+Hannah Lloyd
 Lauren Oey (2023 PhD); now: postdoc at Princeton University \\
 Vryan Feliciano \\
 Sirui Tao (2021-2022; HDSI Undergraduate Research Fellowship) \\
