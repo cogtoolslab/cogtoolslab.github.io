@@ -27,10 +27,16 @@ _Assistant Professor of Psychology_
 
 ### Postdocs
 
+![image]({{site.baseurl}}/images/people/ChuJ_photo.jpg){: .lab-member-img-little}
+
+[Junyi Chu](https://jchu10.github.io/)
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/BrockbankE_photo.jpg){: .lab-member-img-little}
 
-[Erik Brockbank](http://www.erikbrockbank.com/)
+[Erik Brockbank](https://www.erikbrockbank.com/)
 {: .lab-member-name-plate}
+
 
 ### PhD Students
 
