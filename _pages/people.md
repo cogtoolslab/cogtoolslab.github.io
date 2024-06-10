@@ -82,6 +82,11 @@ Sebastian Holt
 [Rebecca Zhu](https://profiles.stanford.edu/rebecca-zhu)
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/SchwartzS_photo){: .lab-member-img-little}
+
+[Shawn Schwartz](https://shawnschwartz.com/)
+{: .lab-member-name-plate}
+
 <!-- ### Masters Students -->
 
 ### Current Undergraduate Students
