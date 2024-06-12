@@ -67,6 +67,11 @@ Sebastian Holt
 [Kushin Mukherjee](https://kushinm.github.io/)
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/SchwartzS_photo.jpg){: .lab-member-img-little}
+
+[Shawn Schwartz](https://shawnschwartz.com/)
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/WongL_photo.png){: .lab-member-img-little}
 
 [Lionel Wong](https://web.mit.edu/zyzzyva/www/academic.html)
@@ -82,10 +87,7 @@ Sebastian Holt
 [Rebecca Zhu](https://profiles.stanford.edu/rebecca-zhu)
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/SchwartzS_photo){: .lab-member-img-little}
 
-[Shawn Schwartz](https://shawnschwartz.com/)
-{: .lab-member-name-plate}
 
 <!-- ### Masters Students -->
 
