@@ -23,24 +23,20 @@ _Assistant Professor of Psychology_
 [Arnav Verma](https://www.arnavverma.com/)
 {: .lab-member-name-plate}
 
-### Research Staff
-
-![image]({{site.baseurl}}/images/people/LuX_photo.jpg){: .lab-member-img-little}
-
-[Xuanchen (Charles) Lu](https://xuanchenlu.com/)
-{: .lab-member-name-plate}
-
-![image]({{site.baseurl}}/images/people/TaitZ_photo.jpg){: .lab-member-img-little}
-
-Zoe Tait
-{: .lab-member-name-plate}
+<!-- ### Research Staff -->
 
 ### Postdocs
 
+![image]({{site.baseurl}}/images/people/ChuJ_photo.jpg){: .lab-member-img-little}
+
+[Junyi Chu](https://jchu10.github.io/)
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/BrockbankE_photo.jpg){: .lab-member-img-little}
 
-[Erik Brockbank](http://www.erikbrockbank.com/)
+[Erik Brockbank](https://www.erikbrockbank.com/)
 {: .lab-member-name-plate}
+
 
 ### PhD Students
 
@@ -62,21 +58,6 @@ Sebastian Holt
 ![image]({{site.baseurl}}/images/people/HueyH_photo.png){: .lab-member-img-little}
 
 [Holly Huey](https://hollyhuey.github.io/)
-{: .lab-member-name-plate}
-
-![image]({{site.baseurl}}/images/people/LloydH_photo.jpg){: .lab-member-img-little}
-
-Hannah Lloyd
-{: .lab-member-name-plate}
-
-![image]({{site.baseurl}}/images/people/McCarthyW_photo.jpg){: .lab-member-img-little}
-
-[Will McCarthy](http://wpmccarthy.com/)
-{: .lab-member-name-plate}
-
-![image]({{site.baseurl}}/images/people/WangH_photo.jpg){: .lab-member-img-little}
-
-[Haoliang Wang](https://haoliangwang.github.io/)
 {: .lab-member-name-plate}
 
 ### Lab Affiliates
@@ -101,13 +82,13 @@ Hannah Lloyd
 [Rebecca Zhu](https://profiles.stanford.edu/rebecca-zhu)
 {: .lab-member-name-plate}
 
-<!-- ### Masters Students
+![image]({{site.baseurl}}/images/people/SchwartzS_photo){: .lab-member-img-little}
 
-![image]({{site.baseurl}}/images/people/LuX_photo.jpg){: .lab-member-img-little}
-
-[Xuanchen (Charles) Lu](https://xuanchenlu.com/)
+[Shawn Schwartz](https://shawnschwartz.com/)
 {: .lab-member-name-plate}
- -->
+
+<!-- ### Masters Students -->
+
 ### Current Undergraduate Students
 
 ![image]({{site.baseurl}}/images/people/AguinaKangR_photo.jpeg){: .lab-member-img-little}
@@ -151,10 +132,15 @@ Hannah Lloyd
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
-Lauren Oey (2023 PhD); now: postdoc at Princeton University \\
+[Will McCarthy](http://wpmccarthy.com/) (2024 PhD); now: research scientist at Adobe \\
+[Haoliang Wang](https://haoliangwang.github.io/) (2024 PhD); now: postdoc at MIT \\
+[Xuanchen (Charles) Lu](https://xuanchenlu.com/) (2023 Masters); now: PhD student at University of Michigan \\
+Zoe Tait \\
+Hannah Lloyd \\
+[Lauren Oey](https://la-oey.github.io/) (2023 PhD); now: research scientist at Netflix \\
 Vryan Feliciano \\
 Sirui Tao (2021-2022; HDSI Undergraduate Research Fellowship) \\
-Justin Yang (Lab Manager, 2022 Honors Thesis, 2021 TRELS Scholar, 2020 Chancellor's URS Program; now: PhD student at Stanford) \\
+[Justin Yang](https://justintheyang.github.io/) (Lab Manager, 2022 Honors Thesis, 2021 TRELS Scholar, 2020 Chancellor's URS Program; now: PhD student at Stanford) \\
 Jack Terwilliger (2022 rotation; COGS PhD program) \\
 Ronen Tamari (2021-22 Visiting PhD student) \\
 Cameron Holdaway (2022 Masters; now at Apple) \\
