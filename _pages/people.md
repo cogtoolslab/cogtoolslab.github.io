@@ -27,7 +27,7 @@ _Assistant Professor of Psychology_
 
 ### Postdocs
 
-![image]({{site.baseurl}}/images/people/ChuJ_photo.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/ChuJ_photo.png){: .lab-member-img-little}
 
 [Junyi Chu](https://jchu10.github.io/)
 {: .lab-member-name-plate}
@@ -93,6 +93,11 @@ Sebastian Holt
 
 ### Current Undergraduate Students
 
+![image]({{site.baseurl}}/images/people/DeeN_photo.png){: .lab-member-img-little}
+
+Nora Dee
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/AguinaKangR_photo.jpeg){: .lab-member-img-little}
 
 [Rio Aguina-Kang](https://www.linkedin.com/in/raguinak/)
@@ -134,15 +139,15 @@ Sebastian Holt
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
-[Will McCarthy](http://wpmccarthy.com/) (2024 PhD); now: research scientist at Adobe \\
-[Haoliang Wang](https://haoliangwang.github.io/) (2024 PhD); now: postdoc at MIT \\
-[Xuanchen (Charles) Lu](https://xuanchenlu.com/) (2023 Masters); now: PhD student at University of Michigan \\
-Zoe Tait \\
+[Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: research scientist at Adobe) \\
+[Haoliang Wang](https://haoliangwang.github.io/) (2024 PhD; now: postdoc at MIT) \\
+[Xuanchen (Charles) Lu](https://xuanchenlu.com/) (2023 Masters; now: PhD student at University of Michigan) \\
+[Zoe Tait](https://www.linkedin.com/in/zoetait/) (2024 Research Staff, 2023 Lab Manager, 2022 Research Assistant) \\
 Hannah Lloyd \\
-[Lauren Oey](https://la-oey.github.io/) (2023 PhD); now: research scientist at Netflix \\
+[Lauren Oey](https://la-oey.github.io/) (2023 PhD; now: research scientist at Netflix) \\
 Vryan Feliciano \\
 Sirui Tao (2021-2022; HDSI Undergraduate Research Fellowship) \\
-[Justin Yang](https://justintheyang.github.io/) (Lab Manager, 2022 Honors Thesis, 2021 TRELS Scholar, 2020 Chancellor's URS Program; now: PhD student at Stanford) \\
+[Justin Yang](https://justintheyang.github.io/) (2022 Lab Manager, 2022 Honors Thesis, 2021 TRELS Scholar, 2020 Chancellor's URS Program; now: PhD student at Stanford) \\
 Jack Terwilliger (2022 rotation; COGS PhD program) \\
 Ronen Tamari (2021-22 Visiting PhD student) \\
 Cameron Holdaway (2022 Masters; now at Apple) \\
