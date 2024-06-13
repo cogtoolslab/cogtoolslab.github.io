@@ -139,17 +139,17 @@ Nora Dee
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
-[Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: research scientist at Adobe) \\
+[Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: Research Scientist at Adobe) \\
 [Haoliang Wang](https://haoliangwang.github.io/) (2024 PhD; now: postdoc at MIT) \\
 [Xuanchen (Charles) Lu](https://xuanchenlu.com/) (2023 Masters; now: PhD student at University of Michigan) \\
-[Zoe Tait](https://www.linkedin.com/in/zoetait/) (2024 Research Staff, 2023 Lab Manager, 2022 Research Assistant) \\
+Zoe Tait (2024 Research Staff, 2023 Lab Manager, 2022 Research Assistant) \\
 Hannah Lloyd \\
-[Lauren Oey](https://la-oey.github.io/) (2023 PhD; now: research scientist at Netflix) \\
+[Lauren Oey](https://la-oey.github.io/) (2023 PhD; now: Research Scientist at Netflix) \\
 Vryan Feliciano \\
-Sirui Tao (2021-2022; HDSI Undergraduate Research Fellowship) \\
+[Sirui Tao](https://dylantao.github.io/) (2021-2022; HDSI Undergraduate Research Fellowship) \\
 [Justin Yang](https://justintheyang.github.io/) (2022 Lab Manager, 2022 Honors Thesis, 2021 TRELS Scholar, 2020 Chancellor's URS Program; now: PhD student at Stanford) \\
-Jack Terwilliger (2022 rotation; COGS PhD program) \\
-Ronen Tamari (2021-22 Visiting PhD student) \\
+[Jack Terwilliger](http://jackterwilliger.com/) (2022 rotation; COGS PhD program) \\
+[Ronen Tamari](https://ronentk.github.io/) (2021-22 Visiting PhD student) \\
 Cameron Holdaway (2022 Masters; now at Apple) \\
 Jane Yang (2022 Honors Thesis, 2022 TRELS Scholar; now: UT Austin Developmental Intelligence Lab) \\
 David Guirgus (2021 STARS Program) \\
