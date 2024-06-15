@@ -123,6 +123,7 @@ Nora Dee
 [Marcelo Mattar](https://mattarlab.ucsd.edu/), _UCSD_ \\
 [Ken Norman](https://compmem.princeton.edu/), _Princeton_ \\
 [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/), _UCSD_ \\
+[Evan Pu](https://evanthebouncy.github.io/), _Autodesk Research_ \\
 [Dorsa Sadigh](https://dorsa.fyi/), _Stanford_ \\
 [Ariel Shamir](https://faculty.runi.ac.il/arik/site/index.asp), _Reichman University_ \\
 [Jordan Suchow](https://suchow.io/), _Stevens Institute of Technology_ \\
