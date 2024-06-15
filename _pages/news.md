@@ -11,7 +11,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***September 17, 2024***: We welcome new PhD student [Alexa Tartaglini](https://www.alexatartaglini.com/) to the lab!
 
-***July 10, 2024***: We welcome new Research Staff Kristine Zheng to the lab!
+***July 10, 2024***: We welcome new IRiSS predoc fellow Kristine Zheng to the lab!
 
 ***July 1, 2024***: We welcome postdoc [Junyi Chu](https://jchu10.github.io/) to the lab! Dr. Chu is also a member of the [Social Learning Lab](https://sll.stanford.edu/index.html).
 
