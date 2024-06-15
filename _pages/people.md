@@ -92,14 +92,14 @@ Sebastian Holt
 
 ### Current Undergraduate Students
 
-![image]({{site.baseurl}}/images/people/DeeN_photo.png){: .lab-member-img-little}
-
-Nora Dee
-{: .lab-member-name-plate}
-
 ![image]({{site.baseurl}}/images/people/AguinaKangR_photo.jpeg){: .lab-member-img-little}
 
 [Rio Aguina-Kang](https://www.linkedin.com/in/raguinak/)
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/DeeN_photo.png){: .lab-member-img-little}
+
+Nora Dee
 {: .lab-member-name-plate}
 
 ### Collaborators
