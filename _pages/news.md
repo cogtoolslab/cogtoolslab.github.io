@@ -17,6 +17,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***June-July, 2024:*** Kartik Chandra, Anne Harrington, Sean Anderson, Katherine Collins, Christopher Kymn, Kushin Mukherjee, Arnav Verma and Judy Fan are co-organizing a pre-conference workshop at CogSci 2024, ["COGGRAPH 2024: Building bridges between cognitive science and computer graphics"](https://coggraph.github.io/)!
 
+***June 12, 2024:*** Judy Fan, Christopher Potts, Lace Padilla, & Elisa Kreiss were awarded an award from the National Science Foundation for their project, "Improved Measures of Data Visualization Literacy to Advance Research and Assessment in STEM Education!"
+
 ***June 5, 2024***: Haoliang Wang successfully defended his PhD dissertation, "Learning structured representations for generalization in the physical world!" Haoliang is moving on to a postdoc at MIT in the Department of Brain and Cognitive Sciences.
 
 ***May 14, 2024***: Will McCarthy successfully defended his PhD dissertation, "Cognitive consequences of physical assembly!" Will is moving on to a position at Autodesk Research.
