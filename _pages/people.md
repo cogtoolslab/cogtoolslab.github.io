@@ -140,11 +140,11 @@ Nora Dee
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
-[Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: Research Scientist at Adobe) \\
+[Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: Research Scientist at Autodesk Research) \\
 [Haoliang Wang](https://haoliangwang.github.io/) (2024 PhD; now: postdoc at MIT) \\
-[Xuanchen (Charles) Lu](https://xuanchenlu.com/) (2023 Masters; now: PhD student at University of Michigan) \\
+[Xuanchen (Charles) Lu](https://xuanchenlu.com/) (2023 Masters; now: PhD student at the University of Michigan) \\
 Zoe Tait (2024 Research Staff, 2023 Lab Manager, 2022 Research Assistant) \\
-Hannah Lloyd \\
+Hannah Lloyd (2023 Masters) \\
 [Lauren Oey](https://la-oey.github.io/) (2023 PhD; now: Research Scientist at Netflix) \\
 Vryan Feliciano \\
 [Sirui Tao](https://dylantao.github.io/) (2021-2022; HDSI Undergraduate Research Fellowship) \\
