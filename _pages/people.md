@@ -23,7 +23,13 @@ _Assistant Professor of Psychology_
 [Arnav Verma](https://www.arnavverma.com/)
 {: .lab-member-name-plate}
 
-<!-- ### Research Staff -->
+### Research Staff
+
+![image]({{site.baseurl}}/images/people/ZhengK_photo.jpg){: .lab-member-img-little}
+
+Kristine Zheng
+{: .lab-member-name-plate}
+
 
 ### Postdocs
 
