@@ -108,6 +108,14 @@ Sebastian Holt
 Nora Dee
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/ApplebaumE_photo.png){: .lab-member-img-little}
+
+Elias Applebaum
+{: .lab-member-name-plate}
+
+
+
+
 ### Collaborators
 [Kelsey Allen](https://web.mit.edu/krallen/www/), _DeepMind_ \\
 [Jacob Andreas](https://www.mit.edu/~jda/), _MIT_ \\
