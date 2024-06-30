@@ -92,9 +92,13 @@ Sebastian Holt
 [Rebecca Zhu](https://profiles.stanford.edu/rebecca-zhu)
 {: .lab-member-name-plate}
 
+### Masters Students
 
+![image]({{site.baseurl}}/images/people/FelicianoV_photo.jpg){: .lab-member-img-little}
 
-<!-- ### Masters Students -->
+[Vryan Feliciano](https://www.linkedin.com/in/vryan-feliciano/)
+{: .lab-member-name-plate}
+
 
 ### Current Undergraduate Students
 
