@@ -65,6 +65,16 @@ Sebastian Holt
 [Holly Huey](https://hollyhuey.github.io/)
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/NasvytisL_photo.jpg){: .lab-member-img-little}
+
+[Linas Nasvytis](https://www.linkedin.com/in/linas-nasvytis)
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/TartagliniA_photo.png){: .lab-member-img-little}
+
+[Alexa Tartaglini](https://www.alexatartaglini.com/)
+{: .lab-member-name-plate}
+
 ### Lab Affiliates
 
 ![image]({{site.baseurl}}/images/people/MukherjeeK_photo.jpg){: .lab-member-img-little}
