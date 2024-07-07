@@ -9,6 +9,8 @@ The Cognitive Tools Lab is directed by [Prof. Judith Fan](https://profiles.stanf
 
 Our lab employs converging approaches from cognitive science, computational neuroscience, and artificial intelligence to reverse engineer the human cognitive toolkit, especially how people use physical representations of thought — such as [sketches](https://www.nature.com/articles/s44159-023-00212-w) and prototypes — to learn, communicate, and solve problems.
 
+Our work is generously supported by the National Science Foundation, Office of Naval Research, Stanford Human-Centered AI Institute, Stanford Accelerator for Learning, and Adobe. 
+
 <!-- ![](/images/misc/geisel_library.jpg) -->
 
 ![](/images/misc/stanford_oval.jpeg)

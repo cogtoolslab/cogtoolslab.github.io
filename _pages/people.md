@@ -75,6 +75,13 @@ Sebastian Holt
 [Alexa Tartaglini](https://www.alexatartaglini.com/)
 {: .lab-member-name-plate}
 
+### Masters Students
+
+![image]({{site.baseurl}}/images/people/FelicianoV_photo.jpg){: .lab-member-img-little}
+
+[Vryan Feliciano](https://www.linkedin.com/in/vryan-feliciano/)
+{: .lab-member-name-plate}
+
 ### Lab Affiliates
 
 ![image]({{site.baseurl}}/images/people/MukherjeeK_photo.jpg){: .lab-member-img-little}
@@ -102,24 +109,12 @@ Sebastian Holt
 [Rebecca Zhu](https://profiles.stanford.edu/rebecca-zhu)
 {: .lab-member-name-plate}
 
-### Masters Students
 
-![image]({{site.baseurl}}/images/people/FelicianoV_photo.jpg){: .lab-member-img-little}
-
-[Vryan Feliciano](https://www.linkedin.com/in/vryan-feliciano/)
-{: .lab-member-name-plate}
-
-
-### Current Undergraduate Students
+### Undergraduate Students
 
 ![image]({{site.baseurl}}/images/people/AguinaKangR_photo.jpeg){: .lab-member-img-little}
 
 [Rio Aguina-Kang](https://www.linkedin.com/in/raguinak/)
-{: .lab-member-name-plate}
-
-![image]({{site.baseurl}}/images/people/DeeN_photo.png){: .lab-member-img-little}
-
-Nora Dee
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/ApplebaumE_photo.png){: .lab-member-img-little}
@@ -127,7 +122,10 @@ Nora Dee
 Elias Applebaum
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/DeeN_photo.png){: .lab-member-img-little}
 
+Nora Dee
+{: .lab-member-name-plate}
 
 
 ### Collaborators
