@@ -12,4 +12,8 @@ Pathways2AI is an initiative at UC San Diego that aims to broaden participation 
 ### [Científico Latino](https://www.cientificolatino.com/)
 Científico Latino aims to help undergraduate, graduate, and professional students by providing mentorship, open-access resources on scholarships, fellowships and blog posts on professional development. We participate in the Graduate Student Mentorship Initiative. Learn more about Científico Latino: [https://www.cientificolatino.com/](https://www.cientificolatino.com/).
 
-In 2023, we also produced a short video responding to the question, "Can Machines Think?," as part of the CogSci Mind Challenge. You can watch [our submission, "Behind the Scenes," on YouTube](https://www.youtube.com/watch?v=amQQ5ADAABk&t=1s). 
+### [Black Girls Code](https://www.wearebgc.org/)
+Black Girls Code supports girls and women of color through computing education programs, with the goal of helping these individuals access further educational and professional opportunities in the technology sector. In collaboration with BGC and other researchers at Stanford University, we are investigating how the rationale given for investing in coding education varies between contexts.
+
+### [Cognitive Science Society: Mind Challenge](https://cognitivesciencesociety.org/cogsci-mind-challenge/)
+This initiative challenges Cognitive Scientists to create a five-minute video addressing a key question within Cognitive Science but for an audience of non-experts, particularly high school and early college students. In 2023, we produced a short video responding to the question, "Can Machines Think?," as part of that year's Mind Challenge. You can watch [our submission, "Behind the Scenes," on YouTube](https://www.youtube.com/watch?v=amQQ5ADAABk&t=1s). 
