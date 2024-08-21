@@ -11,13 +11,17 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***September 17, 2024***: We welcome new PhD student [Alexa Tartaglini](https://www.alexatartaglini.com/) to the lab!
 
+***August 21, 2024***: A multidisciplinary team of researchers across Stanford, including Maneesh Agrawala, Judy Fan, Kayvon Fatahalian, Tobi Gerstenberg, Nick Haber, Hari Subramonyam, and Jiajun Wu, has been awarded a [2024 Hoffman-Yee grant from Stanford HAI, for the project, "Integrating Intelligence: Building Shared Conceptual Grounding for Interacting with Generative AI!"](https://hai.stanford.edu/2024-hoffman-yee-grant-recipients) 
+
+***August 16, 2024***: Holly Huey successfully defended her PhD dissertation, "Adaptive Visualization Strategies across Drawings, Diagrams, and Data Visualizations!" Holly is moving on to a Applied Cognitive Scientist role at Adobe. 
+
 ***July 10, 2024***: We welcome new IRiSS predoc fellow Kristine Zheng to the lab!
 
 ***July 1, 2024***: We welcome postdoc [Junyi Chu](https://jchu10.github.io/) to the lab! Dr. Chu is also a member of the [Social Learning Lab](https://sll.stanford.edu/index.html).
 
 ***June-July, 2024:*** Kartik Chandra, Anne Harrington, Sean Anderson, Katherine Collins, Christopher Kymn, Kushin Mukherjee, Arnav Verma and Judy Fan are co-organizing a pre-conference workshop at CogSci 2024, ["COGGRAPH 2024: Building bridges between cognitive science and computer graphics"](https://coggraph.github.io/)!
 
-***June 12, 2024:*** Judy Fan, Christopher Potts, Lace Padilla, & Elisa Kreiss were awarded an award from the National Science Foundation for their project, ["Improved Measures of Data Visualization Literacy to Advance Research and Assessment in STEM Education!"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2400471&HistoricalAwards=false)
+***June 12, 2024:*** Judy Fan, Christopher Potts, Lace Padilla, & Elisa Kreiss received funding support from the National Science Foundation for their project, ["Improved Measures of Data Visualization Literacy to Advance Research and Assessment in STEM Education!"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2400471&HistoricalAwards=false)
 
 ***June 5, 2024***: Haoliang Wang successfully defended his PhD dissertation, "Learning structured representations for generalization in the physical world!" Haoliang is moving on to a postdoc at MIT in the Department of Brain and Cognitive Sciences.
 
