@@ -11,9 +11,9 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***September 17, 2024***: We welcome new PhD student [Alexa Tartaglini](https://www.alexatartaglini.com/) to the lab!
 
-***August 21, 2024***: A multidisciplinary team of researchers across Stanford, including Maneesh Agrawala, Judy Fan, Kayvon Fatahalian, Tobi Gerstenberg, Nick Haber, Hari Subramonyam, and Jiajun Wu, has been awarded a [2024 Hoffman-Yee grant from Stanford HAI, for the project, "Integrating Intelligence: Building Shared Conceptual Grounding for Interacting with Generative AI!"](https://hai.stanford.edu/2024-hoffman-yee-grant-recipients) 
+***August 21, 2024***: A multidisciplinary team led by Maneesh Agrawala and includes Judy Fan, Kayvon Fatahalian, Tobi Gerstenberg, Nick Haber, Hari Subramonyam, and Jiajun Wu, has been awarded a [2024 Hoffman-Yee grant from Stanford HAI, for the project, "Integrating Intelligence: Building Shared Conceptual Grounding for Interacting with Generative AI!"](https://hai.stanford.edu/2024-hoffman-yee-grant-recipients) 
 
-***August 16, 2024***: Holly Huey successfully defended her PhD dissertation, "Adaptive Visualization Strategies across Drawings, Diagrams, and Data Visualizations!" Holly is moving on to a Applied Cognitive Scientist role at Adobe. 
+***August 16, 2024***: Holly Huey successfully defended her PhD dissertation, "Adaptive Visualization Strategies across Drawings, Diagrams, and Data Visualizations!" Holly is moving on to a Applied Cognitive Scientist role at Adobe. Congratulations, Dr. Huey!!! 
 
 ***July 10, 2024***: We welcome new IRiSS predoc fellow Kristine Zheng to the lab!
 
@@ -23,9 +23,9 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***June 12, 2024:*** Judy Fan, Christopher Potts, Lace Padilla, & Elisa Kreiss received funding support from the National Science Foundation for their project, ["Improved Measures of Data Visualization Literacy to Advance Research and Assessment in STEM Education!"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2400471&HistoricalAwards=false)
 
-***June 5, 2024***: Haoliang Wang successfully defended his PhD dissertation, "Learning structured representations for generalization in the physical world!" Haoliang is moving on to a postdoc at MIT in the Department of Brain and Cognitive Sciences.
+***June 5, 2024***: Haoliang Wang successfully defended his PhD dissertation, "Learning structured representations for generalization in the physical world!" Haoliang is moving on to a postdoc at MIT in the Department of Brain and Cognitive Sciences. Congratulations, Dr. Wang!!!
 
-***May 14, 2024***: Will McCarthy successfully defended his PhD dissertation, "Cognitive consequences of physical assembly!" Will is moving on to a position at Autodesk Research.
+***May 14, 2024***: Will McCarthy successfully defended his PhD dissertation, "Cognitive consequences of physical assembly!" Will is moving on to a position at Autodesk Research. Congratulations, Dr. McCarthy!!!
 
 ***April 10, 2024***: Judy Fan is giving an invited talk in Psychological & Brain Sciences at [Johns Hopkins University](https://www.jhu.edu/).
 
