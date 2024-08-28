@@ -11,9 +11,9 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***September 17, 2024***: We welcome new PhD student [Alexa Tartaglini](https://www.alexatartaglini.com/) to the lab!
 
-***August 21, 2024***: A multidisciplinary team led by Maneesh Agrawala and includes Judy Fan, Kayvon Fatahalian, Tobi Gerstenberg, Nick Haber, Hari Subramonyam, and Jiajun Wu, has been awarded a [2024 Hoffman-Yee grant from Stanford HAI, for the project, "Integrating Intelligence: Building Shared Conceptual Grounding for Interacting with Generative AI!"](https://hai.stanford.edu/2024-hoffman-yee-grant-recipients) 
+***August 21, 2024***: A multidisciplinary team led by Maneesh Agrawala and includes Judy Fan, Kayvon Fatahalian, Tobi Gerstenberg, Nick Haber, Hari Subramonyam, and Jiajun Wu has been awarded a [2024 Hoffman-Yee grant from Stanford HAI, for the project, "Integrating Intelligence: Building Shared Conceptual Grounding for Interacting with Generative AI!"](https://hai.stanford.edu/2024-hoffman-yee-grant-recipients) 
 
-***August 16, 2024***: Holly Huey successfully defended her PhD dissertation, "Adaptive Visualization Strategies across Drawings, Diagrams, and Data Visualizations!" Holly is moving on to a Applied Cognitive Scientist role at Adobe. Congratulations, Dr. Huey!!! 
+***August 16, 2024***: Holly Huey successfully defended her PhD dissertation, "Adaptive Visualization Strategies across Drawings, Diagrams, and Data Visualizations!" Holly is moving on to an Applied Cognitive Scientist role at Adobe. Congratulations, Dr. Huey!!! 
 
 ***July 10, 2024***: We welcome new IRiSS predoc fellow Kristine Zheng to the lab!
 
