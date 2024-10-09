@@ -27,7 +27,7 @@ _Assistant Professor of Psychology_
 
 ![image]({{site.baseurl}}/images/people/ZhengK_photo.jpg){: .lab-member-img-little}
 
-[Kristine Zheng](http://linkedin.com/in/kristine-zheng)
+[Kristine Zheng](https://kristinezheng.github.io/ )
 {: .lab-member-name-plate}
 
 
