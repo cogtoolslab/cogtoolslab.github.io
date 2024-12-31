@@ -60,11 +60,6 @@ _Assistant Professor of Psychology_
 Sebastian Holt
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/HueyH_photo.png){: .lab-member-img-little}
-
-[Holly Huey](https://hollyhuey.github.io/)
-{: .lab-member-name-plate}
-
 ![image]({{site.baseurl}}/images/people/NasvytisL_photo.jpg){: .lab-member-img-little}
 
 [Linas Nasvytis](https://www.linkedin.com/in/linas-nasvytis)
@@ -165,6 +160,8 @@ Nora Dee
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
+
+[Holly Huey](https://hollyhuey.github.io/) (2024 PhD; now: Applied Research Scientist at Adobe) \\
 [Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: Research Scientist at Autodesk Research) \\
 [Haoliang Wang](https://haoliangwang.github.io/) (2024 PhD; now: postdoc at MIT) \\
 [Xuanchen (Charles) Lu](https://xuanchenlu.com/) (2023 Masters; now: PhD student at the University of Michigan) \\
