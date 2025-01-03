@@ -43,6 +43,11 @@ _Assistant Professor of Psychology_
 [Junyi Chu](https://jchu10.github.io/)
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/WongL_photo.png){: .lab-member-img-little}
+
+[Lionel Wong](https://web.mit.edu/zyzzyva/www/academic.html)
+{: .lab-member-name-plate}
+
 ### PhD Students
 
 ![image]({{site.baseurl}}/images/people/AndersonS_photo.png){: .lab-member-img-little}
@@ -89,11 +94,6 @@ Sebastian Holt
 [Shawn Schwartz](https://shawnschwartz.com/)
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/WongL_photo.png){: .lab-member-img-little}
-
-[Lionel Wong](https://web.mit.edu/zyzzyva/www/academic.html)
-{: .lab-member-name-plate}
-
 ![image]({{site.baseurl}}/images/people/YangJ_photo.jpg){: .lab-member-img-little}
 
 [Justin Yang](https://justintheyang.github.io/)
@@ -103,7 +103,6 @@ Sebastian Holt
 
 [Rebecca Zhu](https://profiles.stanford.edu/rebecca-zhu)
 {: .lab-member-name-plate}
-
 
 ### Undergraduate Students
 
@@ -116,7 +115,6 @@ Sebastian Holt
 
 Nora Dee
 {: .lab-member-name-plate}
-
 
 ### Collaborators
 [Kelsey Allen](https://web.mit.edu/krallen/www/), _DeepMind_ \\
