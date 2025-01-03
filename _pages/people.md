@@ -112,11 +112,6 @@ Sebastian Holt
 [Rio Aguina-Kang](https://www.linkedin.com/in/raguinak/)
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/ApplebaumE_photo.png){: .lab-member-img-little}
-
-Elias Applebaum
-{: .lab-member-name-plate}
-
 ![image]({{site.baseurl}}/images/people/DeeN_photo.png){: .lab-member-img-little}
 
 Nora Dee
