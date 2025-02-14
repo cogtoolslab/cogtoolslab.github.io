@@ -5,11 +5,13 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***January 16, 2024***: Junyi Chu, Judy Fan, Hyo Gweon, Hari Subramonyam, and Nick Haber were awarded a Learning through Creation with Generative AI Seed Grant from the Stanford Accelerator for Learning and Stanford Institute for Human-Centered AI. See [this announcement](https://acceleratelearning.stanford.edu/funding/learning-through-creation-with-generative-ai/) for details.
+***February 21, 2025***: Judy Fan is giving an invited talk at [Arizona State University](https://newcollege.asu.edu/cbi).
 
-***January 6, 2024***: We welcome new postdoc [Lio Wong](https://web.mit.edu/zyzzyva/www/academic.html)! Dr. Wong is supported by the [HAI Postdoctoral Fellowship](https://hai.stanford.edu/fellows). 
+***January 16, 2025***: Junyi Chu, Judy Fan, Hyo Gweon, Hari Subramonyam, and Nick Haber were awarded a Learning through Creation with Generative AI Seed Grant from the Stanford Accelerator for Learning and Stanford Institute for Human-Centered AI. See [this announcement](https://acceleratelearning.stanford.edu/funding/learning-through-creation-with-generative-ai/) for details.
 
-***January 8-10, 2024***: Judy Fan participated in a special workshop at Aarhus University, ["Celebrating eSYMb: A Workshop in Memory of Kristian Tylén."](https://cc.au.dk/en/esymb)
+***January 6, 2025***: We welcome new postdoc [Lio Wong](https://web.mit.edu/zyzzyva/www/academic.html)! Dr. Wong is supported by the [HAI Postdoctoral Fellowship](https://hai.stanford.edu/fellows). 
+
+***January 8-10, 2025***: Judy Fan participated in a special workshop at Aarhus University, ["Celebrating eSYMb: A Workshop in Memory of Kristian Tylén."](https://cc.au.dk/en/esymb)
 
 ***September 23, 2024***: Judy Fan is giving an invited talk at the Workshop on Analyzing High-dimensional Traces of Intelligent Behavior, [Institute for Pure & Applied Mathematics, University of California, Los Angeles](https://www.ipam.ucla.edu/programs/workshops/workshop-i-analyzing-high-dimensional-traces-of-intelligent-behavior/).
 
