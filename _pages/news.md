@@ -5,6 +5,8 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+***March 7, 2025***: Felix Binder successfully defended his PhD dissertation, "Thinking through action: prediction, planning, and metacognition in problem-solving" Felix will be moving on to a position in AI safety. Congratulations, Dr. Binder!!! 
+
 ***February 21, 2025***: Judy Fan is giving an invited talk at [Arizona State University](https://newcollege.asu.edu/cbi).
 
 ***January 16, 2025***: Junyi Chu, Judy Fan, Hyo Gweon, Hari Subramonyam, and Nick Haber were awarded a Learning through Creation with Generative AI Seed Grant from the Stanford Accelerator for Learning and Stanford Institute for Human-Centered AI. See [this announcement](https://acceleratelearning.stanford.edu/funding/learning-through-creation-with-generative-ai/) for details.
