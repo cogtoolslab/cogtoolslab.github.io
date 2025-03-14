@@ -67,7 +67,7 @@ Sebastian Holt
 
 ![image]({{site.baseurl}}/images/people/NasvytisL_photo.jpg){: .lab-member-img-little}
 
-[Linas Nasvytis](https://www.linkedin.com/in/linas-nasvytis)
+[Linas Nasvytis](https://linasnasvytis.com)
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/TartagliniA_photo.png){: .lab-member-img-little}
