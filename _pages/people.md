@@ -43,6 +43,11 @@ _Assistant Professor of Psychology_
 [Junyi Chu](https://jchu10.github.io/)
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/MukherjeeK_photo.jpg){: .lab-member-img-little}
+
+[Kushin Mukherjee](https://kushinm.github.io/)
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/WongL_photo.png){: .lab-member-img-little}
 
 [Lionel Wong](https://web.mit.edu/zyzzyva/www/academic.html)
@@ -53,11 +58,6 @@ _Assistant Professor of Psychology_
 ![image]({{site.baseurl}}/images/people/AndersonS_photo.png){: .lab-member-img-little}
 
 [Sean Anderson](https://spascience.github.io/)
-{: .lab-member-name-plate}
-
-![image]({{site.baseurl}}/images/people/BinderF_photo.png){: .lab-member-img-little}
-
-[Felix Binder](http://ac.felixbinder.net/)
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/HoltS_photo.jpg){: .lab-member-img-little}
@@ -83,11 +83,6 @@ Sebastian Holt
 {: .lab-member-name-plate}
 
 ### Lab Affiliates
-
-![image]({{site.baseurl}}/images/people/MukherjeeK_photo.jpg){: .lab-member-img-little}
-
-[Kushin Mukherjee](https://kushinm.github.io/)
-{: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/SchwartzS_photo.jpg){: .lab-member-img-little}
 
@@ -153,7 +148,7 @@ Nora Dee
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
-
+[Felix Binder](http://ac.felixbinder.net/) (2025 PhD) \\
 [Holly Huey](https://hollyhuey.github.io/) (2024 PhD; now: Applied Research Scientist at Adobe) \\
 [Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: Research Scientist at Autodesk Research) \\
 [Haoliang Wang](https://haoliangwang.github.io/) (2024 PhD; now: postdoc at MIT) \\
