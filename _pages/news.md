@@ -11,6 +11,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***July 30, 2025:*** Junyi Chu, Arnav Verma, Guy Davidson, Robbie Fraser, and Judy Fan are co-organizing a pre-conference workshop at CogSci 2025, ["Minds in the Making"](https://minds-making.github.io/)!
 
+***April 1, 2025***: We welcome new postdoc [Kushin Mukherjee](https://kushinm.com/)!  
+
 ***March 7, 2025***: Felix Binder successfully defended his PhD dissertation, "Thinking through action: prediction, planning, and metacognition in problem-solving" Felix will be moving on to a position in AI safety. Congratulations, Dr. Binder!!! 
 
 ***February 21, 2025***: Judy Fan is giving an invited talk at [Arizona State University](https://newcollege.asu.edu/cbi).
