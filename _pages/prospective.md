@@ -5,8 +5,6 @@ description: info for prospective students
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/cogtoolslab_logo.png)
-
 If you are interested in joining the lab, this document will give you a sense for what we are looking for in a prospective lab member, and what the next steps are to take. Please read it in its entirety before contacting Dr. Fan to inquire about doing research.
 
 <!-- ### Open Position: Full-Time Lab Manager (updated: May 30, 2023)
