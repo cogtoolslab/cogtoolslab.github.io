@@ -7,7 +7,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***July 30, 2025:*** Judy Fan, Kristine Zheng, Ben Motz, Shayan Doroudi, Ji Son, and Candace Thille are co-organizing a conference symposium at CogSci 2025, Minds at School: Advancing cognitive science by measuring and modeling human learning in situ!
 
-***July 30, 2025:*** Abdul-Rahim Deeb, Kevin Smith, Shari Liu, Judy Fan are co-organizing a conference symposium at CogSci 2025, Perception as a Foundation for Common-Sense Theories of the World!
+***July 30, 2025:*** Abdul-Rahim Deeb, Kevin Smith, Shari Liu, and Judy Fan are co-organizing a conference symposium at CogSci 2025, Perception as a Foundation for Common-Sense Theories of the World!
 
 ***July 30, 2025:*** Junyi Chu, Arnav Verma, Guy Davidson, Robbie Fraser, and Judy Fan are co-organizing a pre-conference workshop at CogSci 2025, ["Minds in the Making"](https://minds-making.github.io/)!
 
