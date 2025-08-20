@@ -5,13 +5,18 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***July 30, 2025:*** Judy Fan, Kristine Zheng, Ben Motz, Shayan Doroudi, Ji Son, and Candace Thille are co-organizing a conference symposium at CogSci 2025, Minds at School: Advancing cognitive science by measuring and modeling human learning in situ!
+***August 10, 2025:*** Judy Fan is giving an invited talk at the [SIGGRAPH Workshop on Drawing & Sketching:
+Art, Psychology, and Computer Graphics](https://lines-and-minds.github.io/)!
 
-***July 30, 2025:*** Abdul-Rahim Deeb, Kevin Smith, Shari Liu, and Judy Fan are co-organizing a conference symposium at CogSci 2025, Perception as a Foundation for Common-Sense Theories of the World!
+***Aug 2, 2025:*** Judy Fan, Kristine Zheng, Ben Motz, Shayan Doroudi, Ji Son, and Candace Thille are co-organizing a conference symposium at CogSci 2025, Minds at School: Advancing cognitive science by measuring and modeling human learning in situ!
+
+***Aug 1, 2025:*** Abdul-Rahim Deeb, Kevin Smith, Shari Liu, and Judy Fan are co-organizing a conference symposium at CogSci 2025, Perception as a Foundation for Common-Sense Theories of the World!
 
 ***July 30, 2025:*** Junyi Chu, Arnav Verma, Guy Davidson, Robbie Fraser, and Judy Fan are co-organizing a pre-conference workshop at CogSci 2025, ["Minds in the Making"](https://minds-making.github.io/)!
 
 ***April 1, 2025***: We welcome new postdoc [Kushin Mukherjee](https://kushinm.com/)!  
+
+***March 20, 2025***: Judy Fan is giving an invited talk in the [Department of Brain and Cognitive Sciences at the Massachusetts Institute of Technology](https://bcs.mit.edu/events/colloquium-brain-and-cognition-judith-fan)! [Talk recording available](https://www.youtube.com/watch?v=AF3XJT9YKpM).
 
 ***March 7, 2025***: Felix Binder successfully defended his PhD dissertation, "Thinking through action: prediction, planning, and metacognition in problem-solving" Felix will be moving on to a position in AI safety. Congratulations, Dr. Binder!!! 
 
