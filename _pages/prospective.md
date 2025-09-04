@@ -38,17 +38,21 @@ To learn more about the expectations we have of all members of the lab, includin
 
 ### Prospective PhD Students and Postdocs
 
-**Dr. Fan is recruiting PhD students via the Stanford Psychology PhD program who intend to start in Fall 2024. We are not currently recruiting postdocs, research staff, or volunteers.**
+**Dr. Fan is recruiting PhD students via the Stanford Psychology PhD program who intend to start in Fall 2026. We are not currently recruiting postdocs.**
 
 If you are interested in joining the lab as a PhD student, please introduce yourself to Dr. Fan via [email](mailto:jefan@stanford.edu) and include a current academic CV. It is a good idea in this email to articulate what research questions you are most excited about and some specific reasons why you believe the Cognitive Tools Lab would be an environment where you believe you could thrive, as well as how you believe you could contribute to our community. 
 <!-- She will do her best to respond and discuss with you whether the lab might be a good fit.  -->
 
 Please note that it may not always be possible for Dr. Fan to reply and discuss with you whether the lab might be a good fit. Prospective PhD students are encouraged to submit a full application to the [Stanford PhD Program in Psychology](https://psychology.stanford.edu/admissions/phd-admissions) and indicate your interest in our lab to ensure that Dr. Fan will receive & read it!
 
-<!-- ### Current Stanford Students -->
+### Current Stanford Students
 
-<!-- Current Stanford students are also welcome to work on projects in the lab, even if you are not affiliated with the Psychology department. -->
-<!-- In the past, we have hosted PhD, Masters, and undergraduate students hailing from several departments, including Psychology, Cognitive Science, Computer Science & Engineering,  and Neurosciences. -->
+Current Stanford students are also welcome to get involved in research in the lab, even if you are not affiliated with the Psychology department.
+
+In the past, we have hosted PhD, Masters, and undergraduate students hailing from several academic units on campus, including Psychology, Computer Science, Education, and Symbolic Systems.
+
+**Fall 2025: Research Assistant Opportunity (Narrative Understanding Project)**
+We are seeking a highly motivated Stanford Master's student to join our team in Fall 2025 as a research assistant. Under the mentorship of postdoctoral researcher [Dr. Lio Wong](https://web.mit.edu/zyzzyva/www/academic.html), you will work on understanding the dynamics of real-time language comprehension. This project leverages computational cognitive modeling and experimental methods to investigate the mental processes that explain how people update their beliefs and make predictions as a short narrative unfolds. More details about how to apply can be found at this [link](https://docs.google.com/forms/d/e/1FAIpQLScZM5O6igiw4a7_t8fnGWIGcvf7Ftg7agXd9VyeGyu5bX5lXA/viewform?usp=sharing&ouid=110206317407808498972). Please submit your application by September 19th, 2025 for full consideration. The search will continue until the position is filled. Please write to [Lio Wong](https://web.mit.edu/zyzzyva/www/academic.html) with any questions about the position. 
 
 <!-- A good way to figure out whether the lab would be a good fit is for you to take one of Dr. Fan's graduate courses. -->
 <!-- , e.g., PSYC 230: Computational Approaches to Visual Abstraction.  -->
