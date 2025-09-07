@@ -51,7 +51,7 @@ Current Stanford students are also welcome to get involved in research in the la
 
 In the past, we have hosted PhD, Masters, and undergraduate students hailing from several academic units on campus, including Psychology, Computer Science, Education, and Symbolic Systems.
 
-**Fall 2025: Research Assistant Opportunity (Narrative Understanding Project)**
+#### Fall 2025: Research Assistant Opportunity (Narrative Understanding Project)
 We are seeking a highly motivated Stanford Master's student to join our team in Fall 2025 as a research assistant. Under the mentorship of postdoctoral researcher [Dr. Lio Wong](https://web.mit.edu/zyzzyva/www/academic.html), you will work on understanding the dynamics of real-time language comprehension. This project leverages computational cognitive modeling and experimental methods to investigate the mental processes that explain how people update their beliefs and make predictions as a short narrative unfolds. More details about how to apply can be found at this [link](https://docs.google.com/forms/d/e/1FAIpQLScZM5O6igiw4a7_t8fnGWIGcvf7Ftg7agXd9VyeGyu5bX5lXA/viewform?usp=sharing&ouid=110206317407808498972). Please submit your application by September 19th, 2025 for full consideration. The search will continue until the position is filled. Please write to [Lio Wong](https://web.mit.edu/zyzzyva/www/academic.html) with any questions about the position. 
 
 <!-- A good way to figure out whether the lab would be a good fit is for you to take one of Dr. Fan's graduate courses. -->
