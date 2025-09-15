@@ -18,18 +18,12 @@ _Assistant Professor of Psychology_
 
 ### Lab Manager
 
-![image]({{site.baseurl}}/images/people/VermaA_photo.jpeg){: .lab-member-img-little}
-
-[Arnav Verma](https://www.arnavverma.com/)
-{: .lab-member-name-plate}
-
-### Research Staff
-
 ![image]({{site.baseurl}}/images/people/ZhengK_photo.jpg){: .lab-member-img-little}
 
 [Kristine Zheng](https://kristinezheng.github.io/ )
 {: .lab-member-name-plate}
 
+<!-- ### Research Staff -->
 
 ### Postdocs
 
@@ -62,9 +56,6 @@ _Assistant Professor of Psychology_
 
 ![image]({{site.baseurl}}/images/people/HoltS_photo.jpg){: .lab-member-img-little}
 
-Sebastian Holt
-{: .lab-member-name-plate}
-
 ![image]({{site.baseurl}}/images/people/NasvytisL_photo.jpg){: .lab-member-img-little}
 
 [Linas Nasvytis](https://linasnasvytis.com)
@@ -75,6 +66,11 @@ Sebastian Holt
 [Alexa Tartaglini](https://www.alexatartaglini.com/)
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/CarenM_photo.jpg){: .lab-member-img-little}
+
+[Matthew Caren](https://www.mit.edu/~mcaren/)
+{: .lab-member-name-plate}
+
 ### Masters Students
 
 ![image]({{site.baseurl}}/images/people/FelicianoV_photo.jpg){: .lab-member-img-little}
@@ -83,6 +79,11 @@ Sebastian Holt
 {: .lab-member-name-plate}
 
 ### Lab Affiliates
+
+![image]({{site.baseurl}}/images/people/ChouJP_photo.png){: .lab-member-img-little}
+
+[Jean-Peïc Chou](https://jeanpeic.github.io/)
+{: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/SchwartzS_photo.jpg){: .lab-member-img-little}
 
@@ -148,6 +149,8 @@ Nora Dee
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
+Sebastian Holt (2025 PhD; now: postdoc at Northwestern) \\
+[Arnav Verma](https://www.arnavverma.com/) (2023-2025 Lab Manager; now: PhD student at MIT) \\
 [Felix Binder](http://ac.felixbinder.net/) (2025 PhD) \\
 [Holly Huey](https://hollyhuey.github.io/) (2024 PhD; now: Applied Research Scientist at Adobe) \\
 [Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: Research Scientist at Autodesk Research) \\
