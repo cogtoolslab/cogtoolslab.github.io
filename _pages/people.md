@@ -56,6 +56,11 @@ _Assistant Professor of Psychology_
 
 ![image]({{site.baseurl}}/images/people/HoltS_photo.jpg){: .lab-member-img-little}
 
+![image]({{site.baseurl}}/images/people/CarenM_photo.jpg){: .lab-member-img-little}
+
+[Matthew Caren](https://www.mit.edu/~mcaren/)
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/NasvytisL_photo.jpg){: .lab-member-img-little}
 
 [Linas Nasvytis](https://linasnasvytis.com)
@@ -66,10 +71,6 @@ _Assistant Professor of Psychology_
 [Alexa Tartaglini](https://www.alexatartaglini.com/)
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/CarenM_photo.jpg){: .lab-member-img-little}
-
-[Matthew Caren](https://www.mit.edu/~mcaren/)
-{: .lab-member-name-plate}
 
 ### Masters Students
 
