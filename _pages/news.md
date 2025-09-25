@@ -5,6 +5,8 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+***September 22, 2025:*** We welcome new PhD student [Matthew Caren](https://matthewcaren.github.io/) to the lab!
+
 ***August 10, 2025:*** Judy Fan is giving an invited talk at the [SIGGRAPH Workshop on Drawing & Sketching:
 Art, Psychology, and Computer Graphics](https://lines-and-minds.github.io/)!
 
