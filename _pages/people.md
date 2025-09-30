@@ -54,8 +54,6 @@ _Assistant Professor of Psychology_
 [Sean Anderson](https://spascience.github.io/)
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/HoltS_photo.jpg){: .lab-member-img-little}
-
 ![image]({{site.baseurl}}/images/people/CarenM_photo.jpg){: .lab-member-img-little}
 
 [Matthew Caren](https://www.mit.edu/~mcaren/)
