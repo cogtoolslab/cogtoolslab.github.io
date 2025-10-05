@@ -56,7 +56,7 @@ _Assistant Professor of Psychology_
 
 ![image]({{site.baseurl}}/images/people/CarenM_photo.jpg){: .lab-member-img-little}
 
-[Matthew Caren](https://www.mit.edu/~mcaren/)
+[Matthew Caren](https://matthewcaren.github.io/)
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/NasvytisL_photo.jpg){: .lab-member-img-little}
