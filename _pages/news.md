@@ -15,9 +15,9 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***September 22, 2025:*** We welcome new PhD student [Matthew Caren](https://matthewcaren.github.io/) to the lab!
 
-***September 12, 2025***: Judy Fan is giving an invited talk as part of [University of Maryland's NACS (Neuroscience & Cognitive Science) Seminar Series](https://nacs.umd.edu/activities/dr-william-hodos-nacs-seminar-series)!
+***September 12, 2025***: Judy Fan is speaking as part of the [University of Maryland's NACS (Neuroscience & Cognitive Science) Seminar Series](https://nacs.umd.edu/activities/dr-william-hodos-nacs-seminar-series)!
 
-***August 10, 2025:*** Judy Fan is giving an invited talk at the [SIGGRAPH Workshop on Drawing & Sketching:
+***August 10, 2025:*** Judy Fan is speaking at the [SIGGRAPH Workshop on Drawing & Sketching:
 Art, Psychology, and Computer Graphics](https://lines-and-minds.github.io/)!
 
 ***Aug 2, 2025:*** Judy Fan, Kristine Zheng, Ben Motz, Shayan Doroudi, Ji Son, and Candace Thille are co-organizing a conference symposium at CogSci 2025, Minds at School: Advancing cognitive science by measuring and modeling human learning in situ!
@@ -32,7 +32,7 @@ Art, Psychology, and Computer Graphics](https://lines-and-minds.github.io/)!
 
 ***March 7, 2025***: Felix Binder successfully defended his PhD dissertation, "Thinking through action: prediction, planning, and metacognition in problem-solving" Felix will be moving on to a position in AI safety. Congratulations, Dr. Binder!!! 
 
-***February 21, 2025***: Judy Fan is giving an invited talk at [Arizona State University](https://newcollege.asu.edu/cbi).
+***February 21, 2025***: Judy Fan is speaking at [Arizona State University](https://newcollege.asu.edu/cbi)!
 
 ***January 16, 2025***: Junyi Chu, Judy Fan, Hyo Gweon, Hari Subramonyam, and Nick Haber were awarded a Learning through Creation with Generative AI Seed Grant from the Stanford Accelerator for Learning and Stanford Institute for Human-Centered AI. See [this announcement](https://acceleratelearning.stanford.edu/funding/learning-through-creation-with-generative-ai/) for details.
 
@@ -40,7 +40,7 @@ Art, Psychology, and Computer Graphics](https://lines-and-minds.github.io/)!
 
 ***January 8-10, 2025***: Judy Fan participated in a special workshop at Aarhus University, ["Celebrating eSYMb: A Workshop in Memory of Kristian Tylén."](https://cc.au.dk/en/esymb)
 
-***September 23, 2024***: Judy Fan is giving an invited talk at the Workshop on Analyzing High-dimensional Traces of Intelligent Behavior, [Institute for Pure & Applied Mathematics, University of California, Los Angeles](https://www.ipam.ucla.edu/programs/workshops/workshop-i-analyzing-high-dimensional-traces-of-intelligent-behavior/).
+***September 23, 2024***: Judy Fan is speaking at the Workshop on Analyzing High-dimensional Traces of Intelligent Behavior, [Institute for Pure & Applied Mathematics, University of California, Los Angeles](https://www.ipam.ucla.edu/programs/workshops/workshop-i-analyzing-high-dimensional-traces-of-intelligent-behavior/).
 
 ***September 17, 2024***: We welcome new PhD student Linas Nasvytis to the lab!
 
