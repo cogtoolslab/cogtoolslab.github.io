@@ -5,6 +5,14 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+***November 15, 2025:*** Judy Fan is speaking at [Stanford Open Minds](https://openminds.stanford.edu/los-angeles#agenda-640725-pm-faculty-conversation) in Los Angeles, CA!
+
+***October 21, 2025:*** Judy Fan is speaking at [TEDAISF 2025](https://tedai-sanfrancisco.ted.com/speakers/2025/)!
+
+***October 14, 2025:*** Judy Fan is speaking at the [2025 HAI Hoffman-Yee Symposium](https://hai.stanford.edu/events/hoffman-yee-symposium-2025)!
+
+***October 7, 2025:*** Judy Fan is speaking at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en/cbs-coconut)!
+
 ***September 22, 2025:*** We welcome new PhD student [Matthew Caren](https://matthewcaren.github.io/) to the lab!
 
 ***September 12, 2025***: Judy Fan is giving an invited talk as part of [University of Maryland's NACS (Neuroscience & Cognitive Science) Seminar Series](https://nacs.umd.edu/activities/dr-william-hodos-nacs-seminar-series)!
