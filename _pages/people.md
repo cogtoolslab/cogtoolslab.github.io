@@ -150,7 +150,7 @@ Nora Dee
 ### Selected Alumni
 Sebastian Holt (2025 PhD; now: postdoc at Northwestern) \\
 [Arnav Verma](https://www.arnavverma.com/) (2023-2025 Lab Manager; now: PhD student at MIT) \\
-[Felix Binder](http://ac.felixbinder.net/) (2025 PhD) \\
+[Felix Binder](http://ac.felixbinder.net/) (2025 PhD; now: Meta Superintelligence) \\
 [Holly Huey](https://hollyhuey.github.io/) (2024 PhD; now: Applied Research Scientist at Adobe) \\
 [Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: Research Scientist at Autodesk Research) \\
 [Haoliang Wang](https://haoliangwang.github.io/) (2024 PhD; now: postdoc at MIT) \\
