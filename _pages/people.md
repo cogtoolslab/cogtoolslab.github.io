@@ -164,9 +164,7 @@ Vryan Feliciano \\
 [Jack Terwilliger](http://jackterwilliger.com/) (2022 rotation; COGS PhD program) \\
 [Ronen Tamari](https://ronentk.github.io/) (2021-22 Visiting PhD student) \\
 Cameron Holdaway (2022 Masters; now at Apple) \\
-Jane Yang (2022 Honors Thesis, 2022 TRELS Scholar; now: UT Austin Developmental Intelligence Lab) \\
-David Guirgus (2021 STARS Program) \\
+Jane Yang (2022 Honors Thesis, 2022 TRELS Scholar; now: PhD student at UCSD) \\
 Zhe Huang (2021 TRELS Scholar) \\
-Julia Xu (2020 HDSI UG Scholar) \\
 Tone Xu (2019-2020 PhD affiliate; COGS PhD program) \\
 Hui Xin Ng (2019 rotation; COGS PhD program)
