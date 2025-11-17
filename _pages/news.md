@@ -5,7 +5,9 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***November 15, 2025:*** Judy Fan is speaking at [Stanford Open Minds](https://openminds.stanford.edu/los-angeles#agenda-640725-pm-faculty-conversation) in Los Angeles, CA!
+***November 15, 2025:*** Judy Fan is speaking at [Stanford Open Minds](https://openminds.stanford.edu/los-angeles#agenda-640725-pm-faculty-conversation) in conversation with Dan Schwartz, Chris Piech, and Denise Pope in Los Angeles, CA!
+
+***November 14, 2025:*** Judy Fan is giving a keynote talk at the [Bay Area Robotics Symposium](https://bayarearoboticssymposium.github.io/) at Stanford!
 
 ***October 21, 2025:*** Judy Fan is speaking at [TEDAISF 2025](https://tedai-sanfrancisco.ted.com/speakers/2025/) in San Francisco, CA!
 
