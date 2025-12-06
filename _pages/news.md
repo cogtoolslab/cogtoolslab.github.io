@@ -13,7 +13,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***October 19, 2025:*** Judy Fan is speaking at the [AI for Visual Arts Workshop](https://sites.google.com/view/ai4vaiccv-2025) at ICCV!
 
-***October 14, 2025:*** Judy Fan is speaking at the [2025 Stanford HAI Hoffman-Yee Symposium](https://hai.stanford.edu/events/hoffman-yee-symposium-2025)!
+***October 14, 2025:*** Judy Fan is speaking at the [2025 Stanford HAI Hoffman-Yee Symposium](https://hai.stanford.edu/events/hoffman-yee-symposium-2025)! Check out the [video](https://www.youtube.com/watch?v=7NXw8KPu2PY).
 
 ***October 7, 2025:*** Judy Fan is speaking at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en/cbs-coconut)!
 
