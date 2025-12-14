@@ -152,14 +152,14 @@ Sebastian Holt (2025 PhD; now: postdoc at Northwestern) \\
 [Arnav Verma](https://www.arnavverma.com/) (2023-2025 Lab Manager; now: PhD student at MIT) \\
 [Felix Binder](http://ac.felixbinder.net/) (2025 PhD; now: Meta Superintelligence) \\
 [Holly Huey](https://hollyhuey.github.io/) (2024 PhD; now: Applied Research Scientist at Adobe) \\
-[Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: Research Scientist at Autodesk Research) \\
+[Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: Senior AI Research Scientist at Autodesk Research) \\
 [Haoliang Wang](https://haoliangwang.github.io/) (2024 PhD; now: postdoc at MIT) \\
-[Xuanchen (Charles) Lu](https://xuanchenlu.com/) (2023 Masters; now: PhD student at the University of Michigan) \\
+[Xuanchen (Charles) Lu](https://xuanchenlu.com/) (2023 Masters; now: PhD student at Cornell Tech) \\
 Zoe Tait (2024 Research Staff, 2023 Lab Manager, 2022 Research Assistant) \\
 Hannah Lloyd (2023 Masters) \\
 [Lauren Oey](https://la-oey.github.io/) (2023 PhD; now: Research Scientist at Netflix) \\
 Vryan Feliciano \\
-[Sirui Tao](https://dylantao.github.io/) (2021-2022; HDSI Undergraduate Research Fellowship) \\
+[Sirui Tao](https://dylantao.github.io/) (2021-2022; HDSI Undergraduate Research Fellowship; now: PhD student at UC San Diego) \\
 [Justin Yang](https://justintheyang.github.io/) (2022 Lab Manager, 2022 Honors Thesis, 2021 TRELS Scholar, 2020 Chancellor's URS Program; now: PhD student at Stanford) \\
 [Jack Terwilliger](http://jackterwilliger.com/) (2022 rotation; COGS PhD program) \\
 [Ronen Tamari](https://ronentk.github.io/) (2021-22 Visiting PhD student) \\
