@@ -44,7 +44,7 @@ _Assistant Professor of Psychology_
 
 ![image]({{site.baseurl}}/images/people/WongL_photo.png){: .lab-member-img-little}
 
-[Lionel Wong](https://web.mit.edu/zyzzyva/www/academic.html)
+[Lio Wong](https://web.mit.edu/zyzzyva/www/academic.html)
 {: .lab-member-name-plate}
 
 ### PhD Students
@@ -64,6 +64,11 @@ _Assistant Professor of Psychology_
 [Linas Nasvytis](https://linasnasvytis.com)
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/ChouJP_photo.png){: .lab-member-img-little}
+
+[Jean-Peïc Chou](https://jeanpeic.github.io/)
+{: .lab-member-name-plate}
+
 ![image]({{site.baseurl}}/images/people/TartagliniA_photo.png){: .lab-member-img-little}
 
 [Alexa Tartaglini](https://www.alexatartaglini.com/)
@@ -78,11 +83,6 @@ _Assistant Professor of Psychology_
 {: .lab-member-name-plate}
 
 ### Lab Affiliates
-
-![image]({{site.baseurl}}/images/people/ChouJP_photo.png){: .lab-member-img-little}
-
-[Jean-Peïc Chou](https://jeanpeic.github.io/)
-{: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/SchwartzS_photo.jpg){: .lab-member-img-little}
 
