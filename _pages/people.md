@@ -59,14 +59,14 @@ _Assistant Professor of Psychology_
 [Matthew Caren](https://matthewcaren.github.io/)
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/NasvytisL_photo.jpg){: .lab-member-img-little}
-
-[Linas Nasvytis](https://linasnasvytis.com)
-{: .lab-member-name-plate}
-
 ![image]({{site.baseurl}}/images/people/ChouJP_photo.png){: .lab-member-img-little}
 
 [Jean-Peïc Chou](https://jeanpeic.github.io/)
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/NasvytisL_photo.jpg){: .lab-member-img-little}
+
+[Linas Nasvytis](https://linasnasvytis.com)
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/TartagliniA_photo.png){: .lab-member-img-little}
