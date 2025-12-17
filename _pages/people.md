@@ -131,7 +131,7 @@ Nora Dee
 [Marcelo Mattar](https://mattarlab.ucsd.edu/), _UCSD_ \\
 [Ken Norman](https://compmem.princeton.edu/), _Princeton_ \\
 [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/), _UCSD_ \\
-[Evan Pu](https://evanthebouncy.github.io/), _Autodesk Research_ \\
+[Evan Pu](https://evanthebouncy.github.io/), _Nanyang Technological University_ \\
 [Dorsa Sadigh](https://dorsa.fyi/), _Stanford_ \\
 [Ariel Shamir](https://faculty.runi.ac.il/arik/site/index.asp), _Reichman University_ \\
 [Jordan Suchow](https://suchow.io/), _Stevens Institute of Technology_ \\
@@ -143,7 +143,6 @@ Nora Dee
 [Caren Walker](http://elc-lab-ucsd.com/). _UCSD_ \\
 [Jeff Wammes](https://www.thelamplab.ca/), _Queens_ \\
 [Xiaolong Wang](https://xiaolonw.github.io/), _UC San Diego_ \\
-[Lionel Wong](https://web.mit.edu/zyzzyva/www/academic.html), _MIT_ \\
 [Mike Wu](https://www.mikehwu.com/), _Stanford_ \\
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
