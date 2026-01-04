@@ -5,7 +5,7 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***November 15, 2025:*** Judy Fan is speaking at [Stanford Open Minds](https://openminds.stanford.edu/los-angeles#agenda-640725-pm-faculty-conversation) in conversation with Dan Schwartz, Chris Piech, and Denise Pope in Los Angeles, CA!
+***November 15, 2025:*** Judy Fan is speaking at [Stanford Open Minds](https://openminds.stanford.edu/los-angeles#agenda-640725-pm-faculty-conversation) in conversation with Dan Schwartz, Chris Piech, and Denise Pope in Los Angeles, CA! Here's the [video](https://www.youtube.com/watch?v=lL07J7nVUUA).
 
 ***November 14, 2025:*** Judy Fan is giving a keynote talk at the [Bay Area Robotics Symposium](https://bayarearoboticssymposium.github.io/) at Stanford!
 
@@ -13,7 +13,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***October 19, 2025:*** Judy Fan is speaking at the [AI for Visual Arts Workshop](https://sites.google.com/view/ai4vaiccv-2025) at ICCV!
 
-***October 14, 2025:*** Judy Fan is speaking at the [2025 Stanford HAI Hoffman-Yee Symposium](https://hai.stanford.edu/events/hoffman-yee-symposium-2025)!
+***October 14, 2025:*** Judy Fan is speaking at the [2025 Stanford HAI Hoffman-Yee Symposium](https://hai.stanford.edu/events/hoffman-yee-symposium-2025)! Check out the [video](https://www.youtube.com/watch?v=7NXw8KPu2PY).
 
 ***October 7, 2025:*** Judy Fan is speaking at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en/cbs-coconut)!
 

@@ -44,7 +44,7 @@ _Assistant Professor of Psychology_
 
 ![image]({{site.baseurl}}/images/people/WongL_photo.png){: .lab-member-img-little}
 
-[Lionel Wong](https://web.mit.edu/zyzzyva/www/academic.html)
+[Lio Wong](https://web.mit.edu/zyzzyva/www/academic.html)
 {: .lab-member-name-plate}
 
 ### PhD Students
@@ -57,6 +57,11 @@ _Assistant Professor of Psychology_
 ![image]({{site.baseurl}}/images/people/CarenM_photo.jpg){: .lab-member-img-little}
 
 [Matthew Caren](https://matthewcaren.github.io/)
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/ChouJP_photo.png){: .lab-member-img-little}
+
+[Jean-Peïc Chou](https://jeanpeic.github.io/)
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/NasvytisL_photo.jpg){: .lab-member-img-little}
@@ -78,11 +83,6 @@ _Assistant Professor of Psychology_
 {: .lab-member-name-plate}
 
 ### Lab Affiliates
-
-![image]({{site.baseurl}}/images/people/ChouJP_photo.png){: .lab-member-img-little}
-
-[Jean-Peïc Chou](https://jeanpeic.github.io/)
-{: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/SchwartzS_photo.jpg){: .lab-member-img-little}
 
@@ -131,7 +131,7 @@ Nora Dee
 [Marcelo Mattar](https://mattarlab.ucsd.edu/), _UCSD_ \\
 [Ken Norman](https://compmem.princeton.edu/), _Princeton_ \\
 [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/), _UCSD_ \\
-[Evan Pu](https://evanthebouncy.github.io/), _Autodesk Research_ \\
+[Evan Pu](https://evanthebouncy.github.io/), _Nanyang Technological University_ \\
 [Dorsa Sadigh](https://dorsa.fyi/), _Stanford_ \\
 [Ariel Shamir](https://faculty.runi.ac.il/arik/site/index.asp), _Reichman University_ \\
 [Jordan Suchow](https://suchow.io/), _Stevens Institute of Technology_ \\
@@ -143,7 +143,6 @@ Nora Dee
 [Caren Walker](http://elc-lab-ucsd.com/). _UCSD_ \\
 [Jeff Wammes](https://www.thelamplab.ca/), _Queens_ \\
 [Xiaolong Wang](https://xiaolonw.github.io/), _UC San Diego_ \\
-[Lionel Wong](https://web.mit.edu/zyzzyva/www/academic.html), _MIT_ \\
 [Mike Wu](https://www.mikehwu.com/), _Stanford_ \\
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
@@ -152,14 +151,14 @@ Sebastian Holt (2025 PhD; now: postdoc at Northwestern) \\
 [Arnav Verma](https://www.arnavverma.com/) (2023-2025 Lab Manager; now: PhD student at MIT) \\
 [Felix Binder](http://ac.felixbinder.net/) (2025 PhD; now: Meta Superintelligence) \\
 [Holly Huey](https://hollyhuey.github.io/) (2024 PhD; now: Applied Research Scientist at Adobe) \\
-[Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: Research Scientist at Autodesk Research) \\
+[Will McCarthy](http://wpmccarthy.com/) (2024 PhD; now: Senior AI Research Scientist at Autodesk Research) \\
 [Haoliang Wang](https://haoliangwang.github.io/) (2024 PhD; now: postdoc at MIT) \\
-[Xuanchen (Charles) Lu](https://xuanchenlu.com/) (2023 Masters; now: PhD student at the University of Michigan) \\
+[Xuanchen (Charles) Lu](https://xuanchenlu.com/) (2023 Masters; now: PhD student at Cornell Tech) \\
 Zoe Tait (2024 Research Staff, 2023 Lab Manager, 2022 Research Assistant) \\
 Hannah Lloyd (2023 Masters) \\
 [Lauren Oey](https://la-oey.github.io/) (2023 PhD; now: Research Scientist at Netflix) \\
 Vryan Feliciano \\
-[Sirui Tao](https://dylantao.github.io/) (2021-2022; HDSI Undergraduate Research Fellowship) \\
+[Sirui Tao](https://dylantao.github.io/) (2021-2022; HDSI Undergraduate Research Fellowship; now: PhD student at UC San Diego) \\
 [Justin Yang](https://justintheyang.github.io/) (2022 Lab Manager, 2022 Honors Thesis, 2021 TRELS Scholar, 2020 Chancellor's URS Program; now: PhD student at Stanford) \\
 [Jack Terwilliger](http://jackterwilliger.com/) (2022 rotation; COGS PhD program) \\
 [Ronen Tamari](https://ronentk.github.io/) (2021-22 Visiting PhD student) \\
