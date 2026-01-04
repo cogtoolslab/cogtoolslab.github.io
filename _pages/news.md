@@ -30,6 +30,8 @@ Art, Psychology, and Computer Graphics](https://lines-and-minds.github.io/)!
 
 ***July 30, 2025:*** Junyi Chu, Arnav Verma, Guy Davidson, Robbie Fraser, and Judy Fan are co-organizing a pre-conference workshop at CogSci 2025, ["Minds in the Making"](https://minds-making.github.io/)!
 
+***July 28-29, 2025:*** Arnav Verma, Kristine Zheng, Kushin Mukherjee, and Judy Fan are co-organizing a workshop on data & visualization literacy at Stanford University, ["Nightingale"](https://nightingale-labs.github.io/)! Talk recordings available.
+
 ***April 1, 2025***: We welcome new postdoc [Kushin Mukherjee](https://kushinm.com/)!  
 
 ***March 20, 2025***: Judy Fan is giving an invited talk in the [Department of Brain and Cognitive Sciences at the Massachusetts Institute of Technology](https://bcs.mit.edu/events/colloquium-brain-and-cognition-judith-fan)! [Talk recording available](https://www.youtube.com/watch?v=AF3XJT9YKpM).
