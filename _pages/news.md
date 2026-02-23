@@ -5,6 +5,20 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+***May 28, 2026:*** Judy Fan is giving an invited talk at ETH Zurich, Conference on Vision and Robotics for Embodied AI!
+
+***April 26, 2026:*** Judy Fan is giving an invited talk at the Re-Align Workshop at ICLR!
+
+***April 13, 2026:*** Lily Ge, Michael Horn, Duri Long, Judy Fan, and Matthew Kay are co-organizing a workshop at CHI 2026, ["Data Literacy for the 21st Century: Perspectives from Visualization, Cognitive Science, Artificial Intelligence, and Education"](https://data-literacy-workshop.github.io/CHI26/)!
+
+***April 10, 2026:*** Judy Fan is giving an invited talk at the Harvard University Kempner Institute!
+
+***April 2, 2026:*** Judy Fan is giving an invited talk at the Purdue University Cognition, Agency, and Intelligence Center (CAIC)!
+
+***March 16, 2026:*** Judy Fan is giving an invited talk at the University of California, Merced!
+
+***February 27, 2026:*** Judy Fan is giving an invited talk at the University of California, Davis!
+
 ***November 15, 2025:*** Judy Fan is speaking at [Stanford Open Minds](https://openminds.stanford.edu/los-angeles#agenda-640725-pm-faculty-conversation) in conversation with Dan Schwartz, Chris Piech, and Denise Pope in Los Angeles, CA! Here's the [video](https://www.youtube.com/watch?v=lL07J7nVUUA).
 
 ***November 14, 2025:*** Judy Fan is giving a keynote talk at the [Bay Area Robotics Symposium](https://bayarearoboticssymposium.github.io/) at Stanford!
