@@ -7,7 +7,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***May 28, 2026:*** Judy Fan is giving an invited talk at the [Conference on Vision and Robotics for Embodied AI](https://algvr.com/conference/) at ETH Zurich!
 
-***April 26, 2026:*** Judy Fan is giving an invited talk at the [Re-Align Workshop](https://representational-alignment.github.io/2026/) at ICLR!
+***May 17, 2026:*** Judy Fan is giving an invited talk at the VISxVISION Workshop: Vision Science and Data Visualization Research at the Vision Sciences Society Annual Meeting!
 
 ***April 13, 2026:*** Lily Ge, Michael Horn, Duri Long, Judy Fan, and Matthew Kay are co-organizing a workshop at CHI 2026, ["Data Literacy for the 21st Century: Perspectives from Visualization, Cognitive Science, Artificial Intelligence, and Education"](https://data-literacy-workshop.github.io/CHI26/)!
 
