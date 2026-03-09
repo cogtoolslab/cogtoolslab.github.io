@@ -5,6 +5,8 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+***June 3, 2026:*** Judy Fan is giving an invited talk at the [Workshop on Visual Concepts](https://sites.google.com/stanford.edu/visual-concepts-workshops/home) at CVPR 2026 in Denver, CO!
+
 ***May 28, 2026:*** Judy Fan is giving an invited talk at the [Conference on Vision and Robotics for Embodied AI](https://algvr.com/conference/) at ETH Zurich!
 
 ***May 17, 2026:*** Judy Fan is giving an invited talk at the VISxVISION Workshop: Vision Science and Data Visualization Research at the Vision Sciences Society Annual Meeting!
