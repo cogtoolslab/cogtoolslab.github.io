@@ -5,6 +5,22 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+***June 3, 2026:*** Judy Fan is giving an invited talk at the [Workshop on Visual Concepts](https://sites.google.com/stanford.edu/visual-concepts-workshops/home) at CVPR 2026 in Denver, CO!
+
+***May 28, 2026:*** Judy Fan is giving an invited talk at the [Conference on Vision and Robotics for Embodied AI](https://algvr.com/conference/) at ETH Zurich!
+
+***May 17, 2026:*** Judy Fan is giving an invited talk at the [VISxVISION Workshop: Vision Science and Data Visualization Research](https://www.visionsciences.org/visxvision-workshop-satellite/) at the Vision Sciences Society Annual Meeting!
+
+***April 13, 2026:*** Lily Ge, Michael Horn, Duri Long, Judy Fan, and Matthew Kay are co-organizing a workshop at CHI 2026, ["Data Literacy for the 21st Century: Perspectives from Visualization, Cognitive Science, Artificial Intelligence, and Education"](https://data-literacy-workshop.github.io/CHI26/)!
+
+***April 10, 2026:*** Judy Fan is giving an invited talk at the [Harvard University Kempner Institute](https://kempnerinstitute.harvard.edu/kempner-seminar-series/)!
+
+***April 2, 2026:*** Judy Fan is giving an invited talk at the [Purdue University Cognition, Agency, and Intelligence Center (CAIC)](https://caic.centers.purdue.edu/)!
+
+***March 16, 2026:*** Judy Fan is giving an invited talk at the [University of California, Merced](https://cogsci.ucmerced.edu/events/upcoming-speakers)!
+
+***February 27, 2026:*** Judy Fan is giving an invited talk at the [University of California, Davis Center for Mind and Brain](https://mindbrain.ucdavis.edu/events)!
+
 ***November 15, 2025:*** Judy Fan is speaking at [Stanford Open Minds](https://openminds.stanford.edu/los-angeles#agenda-640725-pm-faculty-conversation) in conversation with Dan Schwartz, Chris Piech, and Denise Pope in Los Angeles, CA! Here's the [video](https://www.youtube.com/watch?v=lL07J7nVUUA).
 
 ***November 14, 2025:*** Judy Fan is giving a keynote talk at the [Bay Area Robotics Symposium](https://bayarearoboticssymposium.github.io/) at Stanford!
