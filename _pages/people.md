@@ -100,15 +100,19 @@ _Assistant Professor of Psychology_
 {: .lab-member-name-plate}
 
 ### Undergraduate Students
-
-![image]({{site.baseurl}}/images/people/AguinaKangR_photo.jpeg){: .lab-member-img-little}
-
-[Rio Aguina-Kang](https://www.linkedin.com/in/raguinak/)
-{: .lab-member-name-plate}
-
 ![image]({{site.baseurl}}/images/people/DeeN_photo.png){: .lab-member-img-little}
 
 Nora Dee
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/TomzD_photo.jpg){: .lab-member-img-little}
+
+[David Tomz](https://www.linkedin.com/in/davidtomz/)
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/YueA_photo.jpeg){: .lab-member-img-little}
+
+[Avery Yue](https://www.linkedin.com/in/avery-yue/)
 {: .lab-member-name-plate}
 
 ### Collaborators
@@ -147,6 +151,7 @@ Nora Dee
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
+[Rio Aguina-Kang](https://rioak.github.io/) (2025 Research Staff, 2022-2024 Research Assistant; now: ML Engineer at Drafted)
 Sebastian Holt (2025 PhD; now: postdoc at Northwestern) \\
 [Arnav Verma](https://www.arnavverma.com/) (2023-2025 Lab Manager; now: PhD student at MIT) \\
 [Felix Binder](http://ac.felixbinder.net/) (2025 PhD; now: Meta Superintelligence) \\
