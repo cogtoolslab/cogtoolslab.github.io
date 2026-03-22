@@ -17,7 +17,9 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***April 2, 2026:*** Judy Fan is giving an invited talk at the [Purdue University Cognition, Agency, and Intelligence Center (CAIC)](https://caic.centers.purdue.edu/)!
 
-***March 16, 2026:*** Judy Fan is giving an invited talk at the [University of California, Merced](https://cogsci.ucmerced.edu/events/upcoming-speakers)!
+***March 20, 2026:*** Allison Okamura, Judy Fan, Shuran Song, and Tania Morimoto received a 2026-27 seed grant from the [Stanford HAI](https://hai.stanford.edu/) for the project, "Why didn't I think of that? Accelerating discovery of novel mechanisms by transforming human-AI co-design processes."
+
+***March 10, 2026:*** Judy Fan received the [Lila R. Gleitman Prize for Early-Career Contributions to Cognitive Science](https://cognitivesciencesociety.org/gleitman-prize/)!
 
 ***February 27, 2026:*** Judy Fan is giving an invited talk at the [University of California, Davis Center for Mind and Brain](https://mindbrain.ucdavis.edu/events)!
 
