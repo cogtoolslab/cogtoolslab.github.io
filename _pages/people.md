@@ -151,7 +151,7 @@ Nora Dee
 [Dan Yamins](http://neuroailab.stanford.edu/), _Stanford_
 
 ### Selected Alumni
-[Rio Aguina-Kang](https://rioak.github.io/) (2025 Research Staff, 2022-2024 Research Assistant; now: ML Engineer at Drafted)
+[Rio Aguina-Kang](https://rioak.github.io/) (2025 Research Staff, 2022-2024 Research Assistant; now: ML Engineer at Drafted) \\
 Sebastian Holt (2025 PhD; now: postdoc at Northwestern) \\
 [Arnav Verma](https://www.arnavverma.com/) (2023-2025 Lab Manager; now: PhD student at MIT) \\
 [Felix Binder](http://ac.felixbinder.net/) (2025 PhD; now: Meta Superintelligence) \\
