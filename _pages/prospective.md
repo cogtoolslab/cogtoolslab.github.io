@@ -13,6 +13,20 @@ We are currently seeking a full-time lab manager for a 1-year appointment beginn
 
 The application window is now closed. We expect to extend invitations to interview by **June 13, 2023,** with the hope that these interviews can be scheduled during the subsequent two weeks, and a final decision reached by **July 1, 2023.** We will be notifying all candidates of the status of their application at each of these stages. Thank you to everyone who expressed interest in working with us. -->
 
+### Open Positions for AY 2026–2027 (Updated April 8, 2026)
+
+We are planning to recruit for two new positions beginning in AY 2026–2027. **Applications for both positions are due by May 1st, 2026.** Applicants may only be considered for one of these positions.
+
+#### Lab Manager
+
+We are seeking a full-time **lab manager** to join the lab in a senior leadership capacity. This role involves taking on significant responsibility for the day-to-day operations and research activities of the lab. Interested applicants should first complete our [lab application form](https://docs.google.com/forms/d/e/1FAIpQLSf66sIdenA6tI46SG3Aq8C0KdhMjAMPTx8ZfrBfFiIEM8Impw/viewform?usp=preview) before submitting an application through the [Stanford Careers portal](https://careersearch.stanford.edu/jobs/social-science-research-professional-1-%E2%80%93-onsite-30351?et=4MZOjxabF).
+
+#### IRiSS Predoctoral Researcher
+
+We are also recruiting for an **IRiSS Predoctoral Researcher** position. This position is part of a broader initiative — more information about the 2026–27 projects can be found on the [IRiSS predoc program page](https://iriss.stanford.edu/predoc/2026-27-projects). This project is connected to ongoing efforts at [Nightingale Labs](https://nightingale-labs.github.io/). Applicants should apply directly through the [Stanford Careers portal](https://careersearch.stanford.edu/jobs/iriss-predoctoral-researcher-30350).
+
+---
+
 ### What We Are Looking For
 
 In addition to strong motivation and scientific curiosity, the research we do requires a variety of technical and professional skills, though the needs of each project vary. Prospective lab members should have experience with several of the skills listed below, along with a positive attitude about and willingness to quickly/independently learn about others:
@@ -51,8 +65,9 @@ Current Stanford students are also welcome to get involved in research in the la
 
 In the past, we have hosted PhD, Masters, and undergraduate students hailing from several academic units on campus, including Psychology, Computer Science, Education, and Symbolic Systems.
 
-#### Fall 2025: Research Assistant Opportunity (Narrative Understanding Project)
-We are seeking a highly motivated Stanford Master's student to join our team in Fall 2025 as a research assistant. Under the mentorship of postdoctoral researcher [Dr. Lio Wong](https://web.mit.edu/zyzzyva/www/academic.html), you will work on understanding the dynamics of real-time language comprehension. This project leverages computational cognitive modeling and experimental methods to investigate the mental processes that explain how people update their beliefs and make predictions as a short narrative unfolds. More details about how to apply can be found at this [link](https://docs.google.com/forms/d/e/1FAIpQLScZM5O6igiw4a7_t8fnGWIGcvf7Ftg7agXd9VyeGyu5bX5lXA/viewform?usp=sharing&ouid=110206317407808498972). Please submit your application by September 19th, 2025 for full consideration. The search will continue until the position is filled. Please write to [Lio Wong](https://web.mit.edu/zyzzyva/www/academic.html) with any questions about the position. 
+
+<!-- #### Fall 2025: Research Assistant Opportunity (Narrative Understanding Project)
+We are seeking a highly motivated Stanford Master's student to join our team in Fall 2025 as a research assistant. Under the mentorship of postdoctoral researcher [Dr. Lio Wong](https://web.mit.edu/zyzzyva/www/academic.html), you will work on understanding the dynamics of real-time language comprehension. This project leverages computational cognitive modeling and experimental methods to investigate the mental processes that explain how people update their beliefs and make predictions as a short narrative unfolds. More details about how to apply can be found at this [link](https://docs.google.com/forms/d/e/1FAIpQLScZM5O6igiw4a7_t8fnGWIGcvf7Ftg7agXd9VyeGyu5bX5lXA/viewform?usp=sharing&ouid=110206317407808498972). Please submit your application by September 19th, 2025 for full consideration. The search will continue until the position is filled. Please write to [Lio Wong](https://web.mit.edu/zyzzyva/www/academic.html) with any questions about the position. -->
 
 <!-- A good way to figure out whether the lab would be a good fit is for you to take one of Dr. Fan's graduate courses. -->
 <!-- , e.g., PSYC 230: Computational Approaches to Visual Abstraction.  -->
