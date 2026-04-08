@@ -105,7 +105,7 @@ _Assistant Professor of Psychology_
 Nora Dee
 {: .lab-member-name-plate}
 
-![image]({{site.baseurl}}/images/people/TomzD_photo.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/TomzD_photo.jpeg){: .lab-member-img-little}
 
 [David Tomz](https://www.linkedin.com/in/davidtomz/)
 {: .lab-member-name-plate}
