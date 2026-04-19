@@ -27,7 +27,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***November 14, 2025:*** Judy Fan is giving a keynote talk at the [Bay Area Robotics Symposium](https://bayarearoboticssymposium.github.io/) at Stanford!
 
-***October 21, 2025:*** Judy Fan is speaking at [TEDAISF 2025](https://tedai-sanfrancisco.ted.com/speakers/2025/) in San Francisco, CA!
+***October 21, 2025:*** Judy Fan is speaking at [TEDAISF 2025](https://tedai-sanfrancisco.ted.com/speakers/2025/) in San Francisco, CA! Here's the [video](https://www.ted.com/talks/judy_fan_how_the_human_mind_will_coevolve_with_ai).
 
 ***October 19, 2025:*** Judy Fan is speaking at the [AI for Visual Arts Workshop](https://sites.google.com/view/ai4vaiccv-2025) at ICCV!
 
