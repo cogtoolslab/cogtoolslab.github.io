@@ -5,13 +5,13 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-***April 14, 2026:*** Judy Fan wrote a book review for [*American Scientist*](https://www.americanscientist.org/article/frameworks-of-the-mind) covering Tom Griffiths' new book, *The Laws of Thought: The Quest for a Mathematical Theory of the Mind*!
-
 ***June 3, 2026:*** Judy Fan is giving an invited talk at the [Workshop on Visual Concepts](https://sites.google.com/stanford.edu/visual-concepts-workshops/home) at CVPR 2026 in Denver, CO!
 
 ***May 28, 2026:*** Judy Fan is giving an invited talk at the [Conference on Vision and Robotics for Embodied AI](https://algvr.com/conference/) at ETH Zurich!
 
 ***May 17, 2026:*** Judy Fan is giving an invited talk at the [VISxVISION Workshop: Vision Science and Data Visualization Research](https://www.visionsciences.org/visxvision-workshop-satellite/) at the Vision Sciences Society Annual Meeting!
+
+***April 14, 2026:*** Judy Fan wrote a book review for [*American Scientist*](https://www.americanscientist.org/article/frameworks-of-the-mind) covering Tom Griffiths' new book, *The Laws of Thought: The Quest for a Mathematical Theory of the Mind*!
 
 ***April 13, 2026:*** Lily Ge, Michael Horn, Duri Long, Judy Fan, and Matthew Kay are co-organizing a workshop at CHI 2026, ["Data Literacy for the 21st Century: Perspectives from Visualization, Cognitive Science, Artificial Intelligence, and Education"](https://data-literacy-workshop.github.io/CHI26/)!
 
