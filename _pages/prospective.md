@@ -13,9 +13,9 @@ We are currently seeking a full-time lab manager for a 1-year appointment beginn
 
 The application window is now closed. We expect to extend invitations to interview by **June 13, 2023,** with the hope that these interviews can be scheduled during the subsequent two weeks, and a final decision reached by **July 1, 2023.** We will be notifying all candidates of the status of their application at each of these stages. Thank you to everyone who expressed interest in working with us. -->
 
-### Open Positions for AY 2026–2027 (Updated April 8, 2026)
+### Open Positions for AY 2026–2027 (Updated May 1, 2026)
 
-We are planning to recruit for two new positions beginning in AY 2026–2027. **Applications for both positions are due by May 1st, 2026.** Applicants may only be considered for one of these positions.
+We are planning to recruit for two new positions beginning in AY 2026–2027. **Applications for the lab manager position are now due May 5.** Applications for the IRiSS Predoctoral Researcher position close on May 1. Applicants may only be considered for one of these positions.
 
 #### Lab Manager
 
