@@ -11,6 +11,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***May 17, 2026:*** Judy Fan is giving an invited talk at the [VISxVISION Workshop: Vision Science and Data Visualization Research](https://www.visionsciences.org/visxvision-workshop-satellite/) at the Vision Sciences Society Annual Meeting!
 
+***April 14, 2026:*** Judy Fan wrote a book review for [*American Scientist*](https://www.americanscientist.org/article/frameworks-of-the-mind) covering Tom Griffiths' new book, *The Laws of Thought: The Quest for a Mathematical Theory of the Mind*!
+
 ***April 13, 2026:*** Lily Ge, Michael Horn, Duri Long, Judy Fan, and Matthew Kay are co-organizing a workshop at CHI 2026, ["Data Literacy for the 21st Century: Perspectives from Visualization, Cognitive Science, Artificial Intelligence, and Education"](https://data-literacy-workshop.github.io/CHI26/)!
 
 ***April 10, 2026:*** Judy Fan is giving an invited talk at the [Harvard University Kempner Institute](https://kempnerinstitute.harvard.edu/kempner-seminar-series/)!
@@ -27,7 +29,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***November 14, 2025:*** Judy Fan is giving a keynote talk at the [Bay Area Robotics Symposium](https://bayarearoboticssymposium.github.io/) at Stanford!
 
-***October 21, 2025:*** Judy Fan is speaking at [TEDAISF 2025](https://tedai-sanfrancisco.ted.com/speakers/2025/) in San Francisco, CA!
+***October 21, 2025:*** Judy Fan is speaking at [TEDAISF 2025](https://tedai-sanfrancisco.ted.com/speakers/2025/) in San Francisco, CA! Here's the [video](https://www.ted.com/talks/judy_fan_how_the_human_mind_will_coevolve_with_ai).
 
 ***October 19, 2025:*** Judy Fan is speaking at the [AI for Visual Arts Workshop](https://sites.google.com/view/ai4vaiccv-2025) at ICCV!
 
