@@ -18,9 +18,9 @@ _Assistant Professor of Psychology_
 
 ### Lab Manager
 
-![image]({{site.baseurl}}/images/people/ZhengK_photo.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/harold.jpg){: .lab-member-img-little}
 
-[Kristine Zheng](https://kristinezheng.github.io/ )
+[Idil Sahin](https://www.linkedin.com/in/idil-karen-%C5%9Fahin-572669197/)
 {: .lab-member-name-plate}
 
 <!-- ### Research Staff -->
@@ -35,6 +35,11 @@ _Assistant Professor of Psychology_
 ![image]({{site.baseurl}}/images/people/ChuJ_photo.png){: .lab-member-img-little}
 
 [Junyi Chu](https://jchu10.github.io/)
+{: .lab-member-name-plate}
+
+![image]({{site.baseurl}}/images/people/GeL_photo.jpeg){: .lab-member-img-little}
+
+[Lily Ge](https://lilyge.com/)
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/MukherjeeK_photo.jpg){: .lab-member-img-little}
@@ -74,19 +79,24 @@ _Assistant Professor of Psychology_
 [Alexa Tartaglini](https://www.alexatartaglini.com/)
 {: .lab-member-name-plate}
 
+![image]({{site.baseurl}}/images/people/ZhengK_photo.jpg){: .lab-member-img-little}
 
-### Masters Students
+[Kristine Zheng](https://kristinezheng.github.io/ )
+{: .lab-member-name-plate}
+
+
+<!-- ### Masters Students
 
 ![image]({{site.baseurl}}/images/people/FelicianoV_photo.jpg){: .lab-member-img-little}
 
 [Vryan Feliciano](https://www.linkedin.com/in/vryan-feliciano/)
-{: .lab-member-name-plate}
+{: .lab-member-name-plate} -->
 
 ### Lab Affiliates
 
-![image]({{site.baseurl}}/images/people/SchwartzS_photo.jpg){: .lab-member-img-little}
+![image]({{site.baseurl}}/images/people/LiV_photo.jpg){: .lab-member-img-little}
 
-[Shawn Schwartz](https://shawnschwartz.com/)
+[Victoria Li](https://www.victoriarli.com/)
 {: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/YangJ_photo.jpg){: .lab-member-img-little}
@@ -100,10 +110,6 @@ _Assistant Professor of Psychology_
 {: .lab-member-name-plate}
 
 ### Undergraduate Students
-![image]({{site.baseurl}}/images/people/DeeN_photo.png){: .lab-member-img-little}
-
-Nora Dee
-{: .lab-member-name-plate}
 
 ![image]({{site.baseurl}}/images/people/TomzD_photo.jpeg){: .lab-member-img-little}
 
@@ -162,7 +168,8 @@ Sebastian Holt (2025 PhD; now: postdoc at Northwestern) \\
 Zoe Tait (2024 Research Staff, 2023 Lab Manager, 2022 Research Assistant) \\
 Hannah Lloyd (2023 Masters) \\
 [Lauren Oey](https://la-oey.github.io/) (2023 PhD; now: Research Scientist at Netflix) \\
-Vryan Feliciano \\
+Vryan Feliciano (2026 GSE Master's; now: Data Scientist with Young Data Scientists League) \\
+Nora Dee (2026 Honors Thesis, Firestone Medal; now: Lab Manager in Computational Clinical Science Lab at Yale University) \\
 [Sirui Tao](https://dylantao.github.io/) (2021-2022; HDSI Undergraduate Research Fellowship; now: PhD student at UC San Diego) \\
 [Justin Yang](https://justintheyang.github.io/) (2022 Lab Manager, 2022 Honors Thesis, 2021 TRELS Scholar, 2020 Chancellor's URS Program; now: PhD student at Stanford) \\
 [Jack Terwilliger](http://jackterwilliger.com/) (2022 rotation; COGS PhD program) \\
