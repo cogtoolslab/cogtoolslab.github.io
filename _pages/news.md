@@ -5,9 +5,21 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+***September 15, 2026:*** We welcome new new IRiSS predoc fellow and Lab Manager [Idil Sahin](https://www.linkedin.com/in/idil-karen-%C5%9Fahin-572669197/) to the lab!
+
+***September 1, 2026:*** We welcome new postdoc [Lily Ge](https://lilyge.com/) to the lab!
+
+***July 22, 2026:*** We presented lots of new work at the [2026 Cognitive Science Society meeting](https://cognitivesciencesociety.org/cogsci-2026/) in Rio de Janeiro, Brazil! Here's an [overview thread](https://bsky.app/profile/judithfan.bsky.social/post/3mr75eopc4k24).
+
+***July 19, 2026:*** Yael Vinker, Mia Tang, Judy Fan, Kartik Chandra, Maneesh Agrawala, and Aaron Hertzmann co-organized the [2nd Lines and Minds workshop at SIGGRAPH in Los Angeles](https://lines-and-minds.github.io/)!
+
+***June 14, 2026:*** Honors thesis student Nora Dee and GSE Master's student Vryan Feliciano have graduated from Stanford! Nora is joining the [Computational Clinical Science Lab at Yale University](https://ccslab.yale.edu/team) as a lab manager. Vryan is working as a Data Scientist with the [Young Data Scientists League](https://www.youngdatascientists.org/). Congratulations, Nora and Vryan!
+
 ***June 3, 2026:*** Judy Fan is giving an invited talk at the [Workshop on Visual Concepts](https://sites.google.com/stanford.edu/visual-concepts-workshops/home) at CVPR 2026 in Denver, CO!
 
 ***May 28, 2026:*** Judy Fan is giving an invited talk at the [Conference on Vision and Robotics for Embodied AI](https://algvr.com/conference/) at ETH Zurich!
+
+***May 20, 2026:*** Judy Fan, Russ Poldrack are co-organizing the [2026 Stanford Symposium on AI and Psychological Science](https://stanford-psychology-ai-symposium.github.io/)!
 
 ***May 17, 2026:*** Judy Fan is giving an invited talk at the [VISxVISION Workshop: Vision Science and Data Visualization Research](https://www.visionsciences.org/visxvision-workshop-satellite/) at the Vision Sciences Society Annual Meeting!
 
