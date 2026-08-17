@@ -9,6 +9,10 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ***September 1, 2026:*** We welcome new postdoc [Lily Ge](https://lilyge.com/) to the lab!
 
+***August 6, 2026:*** Tselil Schramm, Judy Fan, Dennis Sun, Julia Palacios, and Jonathan Taylor were awarded an AI in Teaching and Learning at Stanford Course & Curriculum Grant from the [Office of the Vice Provost for Undergraduate Education](https://ctl.stanford.edu/aimes/seed-grants) for the project, "Rethinking Introductory Statistics in the Age of AI." See [this announcement](https://ctl.stanford.edu/news/ai-education-grants-2026) for details.
+
+***August 6, 2026:*** Candace Thille, John Mitchell, Guillermo Solano-Flores, Judy Fan, Yungsung Kim, and Marcos Rojas were awarded an AI in Teaching and Learning at Stanford Innovation with Evidence Grant from the [Stanford Accelerator for Learning](https://acceleratelearning.stanford.edu/) for the project, "Translating Instructor Expertise and Learning Science Knowledge into Individualized Course Companions." See [this announcement](https://acceleratelearning.stanford.edu/funding/ai-in-teaching-and-learning-at-stanford-innovation-and-evidence-grants/) for details.
+
 ***July 22, 2026:*** We presented lots of new work at the [2026 Cognitive Science Society meeting](https://cognitivesciencesociety.org/cogsci-2026/) in Rio de Janeiro, Brazil! Here's an [overview thread](https://bsky.app/profile/judithfan.bsky.social/post/3mr75eopc4k24).
 
 ***July 19, 2026:*** Yael Vinker, Mia Tang, Judy Fan, Kartik Chandra, Maneesh Agrawala, and Aaron Hertzmann co-organized the [2nd Lines and Minds workshop at SIGGRAPH in Los Angeles](https://lines-and-minds.github.io/)!
