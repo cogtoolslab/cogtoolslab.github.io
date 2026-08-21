@@ -13,7 +13,7 @@ We are currently seeking a full-time lab manager for a 1-year appointment beginn
 
 The application window is now closed. We expect to extend invitations to interview by **June 13, 2023,** with the hope that these interviews can be scheduled during the subsequent two weeks, and a final decision reached by **July 1, 2023.** We will be notifying all candidates of the status of their application at each of these stages. Thank you to everyone who expressed interest in working with us. -->
 
-### Open Positions for AY 2026–2027 (Updated May 1, 2026)
+<!-- ### Open Positions for AY 2026–2027 (Updated May 1, 2026)
 
 We are planning to recruit for two new positions beginning in AY 2026–2027. **Applications for the lab manager position are now due May 5.** Applications for the IRiSS Predoctoral Researcher position close on May 1. Applicants may only be considered for one of these positions.
 
@@ -25,7 +25,7 @@ We are seeking a full-time **lab manager** to join the lab in a senior leadershi
 
 We are also recruiting for an **IRiSS Predoctoral Researcher** position. This position is part of a broader initiative — more information about the 2026–27 projects can be found on the [IRiSS predoc program page](https://iriss.stanford.edu/predoc/2026-27-projects). This project is connected to ongoing efforts at [Nightingale Labs](https://nightingale-labs.github.io/). Applicants should apply directly through the [Stanford Careers portal](https://careersearch.stanford.edu/jobs/iriss-predoctoral-researcher-30350).
 
----
+--- -->
 
 ### What We Are Looking For
 
@@ -52,7 +52,7 @@ To learn more about the expectations we have of all members of the lab, includin
 
 ### Prospective PhD Students and Postdocs
 
-**Dr. Fan is recruiting PhD students via the Stanford Psychology PhD program who intend to start in Fall 2026. We are not currently recruiting postdocs.**
+**Dr. Fan is not currently recruiting PhD students intending to start in Fall 2027 as primary advisees, though there is some possibility of exploring co-advising arrangements with other faculty at Stanford. The lab is also not currently recruiting postdocs during AY 2026-27.**
 
 If you are interested in joining the lab as a PhD student, please introduce yourself to Dr. Fan via [email](mailto:jefan@stanford.edu) and include a current academic CV. It is a good idea in this email to articulate what research questions you are most excited about and some specific reasons why you believe the Cognitive Tools Lab would be an environment where you believe you could thrive, as well as how you believe you could contribute to our community. 
 <!-- She will do her best to respond and discuss with you whether the lab might be a good fit.  -->
